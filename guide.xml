@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+ 
+  <configuration>
+    <system.webServer>
+      <httpProtocol>
+        <Headers>
+          <add name="Access-Control-Allow-Origin" value="*" />
+		  <add name="Access-Control-Allow-Methods" value="GET, POST, OPTIONS, HEAD" />
+		  <add name="Access-Control-Allow-Headers" value="Range" />
+		  <add name="Access-Control-Expose-Headers" value="Accept-Ranges, Content-Encoding, Content-Length, Content-Range" />
+		
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="KOMBATSPORT">
+    <display-name lang="pt">KOMBAT SPORT</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/kombat-sport.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="pt">BABY TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/baby-tv.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FOXCOMEDY">
+    <display-name lang="pt">FOX COMEDY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/fox-comedy.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="GLOBOPREMIUM">
+    <display-name lang="pt">GLOBO PREMIUM</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TVIFiccao.pt">
+    <display-name lang="pt">TVI FICÇÃO</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/tvi-ficcao.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ABolaTV.pt">
+    <display-name lang="pt">A BOLA TV</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Canal Q">
+    <display-name lang="pt">Q</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/q.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="AXNWhite.pt">
+    <display-name lang="pt">AXN WHITE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/axn-white.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="Cinemundo">
+    <display-name lang="pt">CINEMUNDO</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SyFy.pt">
+    <display-name lang="pt">SYFY</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/syfy.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="JJAM">
+    <display-name lang="pt">JIMJAM</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/jimjam.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SICK.pt">
+    <display-name lang="pt">SIC K</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sic-k.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="TOROSTV.pt">
+    <display-name lang="pt">TOROS</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/toros-tv.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="CacaVision">
+    <display-name lang="pt">CAÇA VISION</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ELEV1HD">
+    <display-name lang="pt">ELEVEN SPORTS 1</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-1.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ELEV2HD">
+    <display-name lang="pt">ELEVEN SPORTS 2</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-2.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ELEV3HD">
+    <display-name lang="pt">ELEVEN SPORTS 3</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-3.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ELEV4HD">
+    <display-name lang="pt">ELEVEN SPORTS 4</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-4.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ELEV5HD">
+    <display-name lang="pt">ELEVEN SPORTS 5</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-5.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="ELEV6HD">
+    <display-name lang="pt">ELEVEN SPORTS 6</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-6.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="MYCHD">
+    <display-name lang="pt">MY CUISINE</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/my-cuisine.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="C180">
+    <display-name lang="pt">CANAL 180</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/canal-180.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="SPTV4K">
+    <display-name lang="pt">SPORT TV 1 4K</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv-4k-uhd.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="RMTV.pt">
+    <display-name lang="pt">REAL MADRID TV</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/real-madrid-tv.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="BarcaTV">
+    <display-name lang="pt">BARÇA TV</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <channel id="FASHIONTV">
+    <display-name lang="pt">FASHION TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISCOVERYHDSC">
+    <display-name lang="pt">DISCOVERY SC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sic.pt">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI.pt">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sicnoticias.pt">
+    <display-name lang="pt">SIC NOTÍCIAS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI24.pt">
+    <display-name lang="pt">TVI24</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CMTV.pt">
+    <display-name lang="pt">CMTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sporttvmais.pt">
+    <display-name lang="pt">SPORT TV +</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sicmulher.pt">
+    <display-name lang="pt">SIC MULHER</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PortoCanal.pt">
+    <display-name lang="pt">PORTO CANAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sicradical.pt">
+    <display-name lang="pt">SIC RADICAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sporttv1.pt">
+    <display-name lang="pt">SPORT TV 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sporttv2.pt">
+    <display-name lang="pt">SPORT TV 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sporttv3.pt">
+    <display-name lang="pt">SPORT TV 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sporttv4.pt">
+    <display-name lang="pt">SPORT TV 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sporttv5.pt">
+    <display-name lang="pt">SPORT TV 5</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BenficaTV.pt">
+    <display-name lang="pt">BENFICA TV 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORTINGTV.pt">
+    <display-name lang="pt">SPORTING TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCine1.pt">
+    <display-name lang="pt">TV CINE 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCine2.pt">
+    <display-name lang="pt">TV CINE 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCine3.pt">
+    <display-name lang="pt">TV CINE 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCine4.pt">
+    <display-name lang="pt">TV CINE 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVSeries.pt">
+    <display-name lang="pt">TV SERIES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="hollywood.pt">
+    <display-name lang="pt">HOLLYWOOD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXNBlack.pt">
+    <display-name lang="pt">AXN BLACK</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="axn.pt">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="mov.pt">
+    <display-name lang="pt">MOV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="foxlife.pt">
+    <display-name lang="pt">FOX LIFE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="fox.pt">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="foxcrime.pt">
+    <display-name lang="pt">FOX CRIME</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="fx.pt">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOXM">
+    <display-name lang="pt">FOX MOVIES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TLC.pt">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MTVPortugal">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="24Kitchen.pt">
+    <display-name lang="pt">24 KITCHEN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOOD">
+    <display-name lang="pt">FOODNETWORK</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="discoverychannel.pt">
+    <display-name lang="pt">DISCOVERY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="nationalgeographic.pt">
+    <display-name lang="pt">NATIONAL GEOGRAPHIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NGWIL">
+    <display-name lang="pt">NATIONAL GEOGRAPHIC WILD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="odisseia.pt">
+    <display-name lang="pt">ODISSEIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TRV.pt">
+    <display-name lang="pt">TRAVEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="HistoryChannel.pt">
+    <display-name lang="pt">HISTÓRIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AE">
+    <display-name lang="pt">AE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="eurosport.pt">
+    <display-name lang="pt">EUROSPORT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="eurosport2.pt">
+    <display-name lang="pt">EUROSPORT 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CacaePesca">
+    <display-name lang="pt">CAÇA E PESCA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="HOT">
+    <display-name lang="pt">HOT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PLAY">
+    <display-name lang="pt">PLAYBOY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Venus">
+    <display-name lang="pt">VENUS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Sextreme">
+    <display-name lang="pt">SEXTREME</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="LVTV">
+    <display-name lang="pt">LOCALVISAO TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="disneychannel.pt">
+    <display-name lang="pt">DISNEY CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="nick">
+    <display-name lang="pt">NICKELODEON</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="canalpanda.pt">
+    <display-name lang="pt">PANDA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PandaBiggs.pt">
+    <display-name lang="pt">PANDA BIGGS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="disneyjunior.pt">
+    <display-name lang="pt">DISNEY JUNIOR</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BABYT">
+    <display-name lang="pt">BABY FIRST</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CART">
+    <display-name lang="pt">CARTOON NETWORK</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TIJI">
+    <display-name lang="pt">TIJI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ARTV.pt">
+    <display-name lang="pt">PARLAMENTO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TPA">
+    <display-name lang="pt">TPA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TCV">
+    <display-name lang="pt">TCV INT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CancaoNova.PT">
+    <display-name lang="pt">CANÇÃO NOVA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Euronews.nws">
+    <display-name lang="pt">EURONEWS PT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVIREAL">
+    <display-name lang="pt">TVI REALITY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MOTORVISION">
+    <display-name lang="pt">MOTORVISION HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMCHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="KURIAKOSTV">
+    <display-name lang="pt">KURIAKOS TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SUNDC">
+    <display-name lang="pt">SUNDANCE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DEMO">
+    <display-name lang="pt">KODIPORTUGAL.PT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="rtp1.pt">
+    <display-name lang="en">RTP1</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="rtp2.pt">
+    <display-name lang="en">RTP2</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="rtpn.pt">
+    <display-name lang="en">RTP3</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="rtpmemoria.pt">
+    <display-name lang="en">RTP MEMÓRIA</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTPAfrica.pt">
+    <display-name lang="en">RTP ÁFRICA</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTPi.pt">
+    <display-name lang="en">RTP INTERNACIONAL</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTPAcores.pt">
+    <display-name lang="en">RTP AÇORES</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="RTPMadeira.pt">
+    <display-name lang="en">RTP MADEIRA</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="siccaras.pt">
+    <display-name lang="pt">SIC CARAS</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PFC</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVRecord">
+    <display-name lang="pt">TV RECORD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="E">
+    <display-name lang="pt">E!</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FuelTV">
+    <display-name lang="pt">Fuel TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FightNetwork">
+    <display-name lang="pt">FIGHT NETWORK HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fightbox">
+    <display-name lang="pt">FIGHTBOX HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MOTOR">
+    <display-name lang="pt">MOTORS TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVI_INTERNACIONAL">
+    <display-name lang="pt">TVI INTERNACIONAL</display-name>
+    <url>http://www.tvi.pt</url>
+  </channel>
+</tv>
+        </Headers>
+      </httpProtocol>
+    </system.webServer>
+  </configuration>
