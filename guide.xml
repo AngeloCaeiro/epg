@@ -1,486 +1,866 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
- 
-  <configuration>
-    <system.webServer>
-      <httpProtocol>
-        <Headers>
-          <add name="Access-Control-Allow-Origin" value="*" />
-		  <add name="Access-Control-Allow-Methods" value="GET, POST, OPTIONS, HEAD" />
-		  <add name="Access-Control-Allow-Headers" value="Range" />
-		  <add name="Access-Control-Expose-Headers" value="Accept-Ranges, Content-Encoding, Content-Length, Content-Range" />
-		
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="KOMBATSPORT">
-    <display-name lang="pt">KOMBAT SPORT</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/kombat-sport.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="BABY TV">
-    <display-name lang="pt">BABY TV</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/baby-tv.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="FOXCOMEDY">
-    <display-name lang="pt">FOX COMEDY</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/fox-comedy.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="GLOBOPREMIUM">
-    <display-name lang="pt">GLOBO PREMIUM</display-name>
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="TVIFiccao.pt">
-    <display-name lang="pt">TVI FICÇÃO</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/tvi-ficcao.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="ABolaTV.pt">
-    <display-name lang="pt">A BOLA TV</display-name>
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="Canal Q">
-    <display-name lang="pt">Q</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/q.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="AXNWhite.pt">
-    <display-name lang="pt">AXN WHITE</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/axn-white.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="Cinemundo">
-    <display-name lang="pt">CINEMUNDO</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="SyFy.pt">
-    <display-name lang="pt">SYFY</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/syfy.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="JJAM">
-    <display-name lang="pt">JIMJAM</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/jimjam.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="SICK.pt">
-    <display-name lang="pt">SIC K</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sic-k.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="TOROSTV.pt">
-    <display-name lang="pt">TOROS</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/toros-tv.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="CacaVision">
-    <display-name lang="pt">CAÇA VISION</display-name>
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="ELEV1HD">
-    <display-name lang="pt">ELEVEN SPORTS 1</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-1.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="ELEV2HD">
-    <display-name lang="pt">ELEVEN SPORTS 2</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-2.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="ELEV3HD">
-    <display-name lang="pt">ELEVEN SPORTS 3</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-3.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="ELEV4HD">
-    <display-name lang="pt">ELEVEN SPORTS 4</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-4.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="ELEV5HD">
-    <display-name lang="pt">ELEVEN SPORTS 5</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-5.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="ELEV6HD">
-    <display-name lang="pt">ELEVEN SPORTS 6</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/canal-eleven-sports-6.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="MYCHD">
-    <display-name lang="pt">MY CUISINE</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/my-cuisine.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="C180">
-    <display-name lang="pt">CANAL 180</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/canal-180.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="SPTV4K">
-    <display-name lang="pt">SPORT TV 1 4K</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv-4k-uhd.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="RMTV.pt">
-    <display-name lang="pt">REAL MADRID TV</display-name>
-    <icon src="https://www.meo.pt/PublishingImages/canais/real-madrid-tv.png" />
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="BarcaTV">
-    <display-name lang="pt">BARÇA TV</display-name>
-    <url>http://www.meo.pt</url>
-  </channel>
-  <channel id="FASHIONTV">
-    <display-name lang="pt">FASHION TV</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="DISCOVERYHDSC">
-    <display-name lang="pt">DISCOVERY SC</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="sic.pt">
-    <display-name lang="pt">SIC</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TVI.pt">
-    <display-name lang="pt">TVI</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="sicnoticias.pt">
-    <display-name lang="pt">SIC NOTÍCIAS</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TVI24.pt">
-    <display-name lang="pt">TVI24</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="CMTV.pt">
-    <display-name lang="pt">CMTV</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="sporttvmais.pt">
-    <display-name lang="pt">SPORT TV +</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="sicmulher.pt">
-    <display-name lang="pt">SIC MULHER</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="PortoCanal.pt">
-    <display-name lang="pt">PORTO CANAL</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="sicradical.pt">
-    <display-name lang="pt">SIC RADICAL</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="sporttv1.pt">
-    <display-name lang="pt">SPORT TV 1</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="sporttv2.pt">
-    <display-name lang="pt">SPORT TV 2</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="sporttv3.pt">
-    <display-name lang="pt">SPORT TV 3</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="sporttv4.pt">
-    <display-name lang="pt">SPORT TV 4</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="sporttv5.pt">
-    <display-name lang="pt">SPORT TV 5</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="BenficaTV.pt">
-    <display-name lang="pt">BENFICA TV 1</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="SPORTINGTV.pt">
-    <display-name lang="pt">SPORTING TV</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TVCine1.pt">
-    <display-name lang="pt">TV CINE 1</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TVCine2.pt">
-    <display-name lang="pt">TV CINE 2</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TVCine3.pt">
-    <display-name lang="pt">TV CINE 3</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TVCine4.pt">
-    <display-name lang="pt">TV CINE 4</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TVSeries.pt">
-    <display-name lang="pt">TV SERIES</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="hollywood.pt">
-    <display-name lang="pt">HOLLYWOOD</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="AXNBlack.pt">
-    <display-name lang="pt">AXN BLACK</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="axn.pt">
-    <display-name lang="pt">AXN</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="mov.pt">
-    <display-name lang="pt">MOV</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="foxlife.pt">
-    <display-name lang="pt">FOX LIFE</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="fox.pt">
-    <display-name lang="pt">FOX</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="foxcrime.pt">
-    <display-name lang="pt">FOX CRIME</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="fx.pt">
-    <display-name lang="pt">FX</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="FOXM">
-    <display-name lang="pt">FOX MOVIES</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TLC.pt">
-    <display-name lang="pt">TLC</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="MTVPortugal">
-    <display-name lang="pt">MTV</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="24Kitchen.pt">
-    <display-name lang="pt">24 KITCHEN</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="FOOD">
-    <display-name lang="pt">FOODNETWORK</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="discoverychannel.pt">
-    <display-name lang="pt">DISCOVERY</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="nationalgeographic.pt">
-    <display-name lang="pt">NATIONAL GEOGRAPHIC</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="NGWIL">
-    <display-name lang="pt">NATIONAL GEOGRAPHIC WILD</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="odisseia.pt">
-    <display-name lang="pt">ODISSEIA</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TRV.pt">
-    <display-name lang="pt">TRAVEL</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="HistoryChannel.pt">
-    <display-name lang="pt">HISTÓRIA</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="AE">
-    <display-name lang="pt">AE</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="eurosport.pt">
-    <display-name lang="pt">EUROSPORT</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="eurosport2.pt">
-    <display-name lang="pt">EUROSPORT 2</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="CacaePesca">
-    <display-name lang="pt">CAÇA E PESCA</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="HOT">
-    <display-name lang="pt">HOT</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="PLAY">
-    <display-name lang="pt">PLAYBOY</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="Venus">
-    <display-name lang="pt">VENUS</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="Sextreme">
-    <display-name lang="pt">SEXTREME</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="LVTV">
-    <display-name lang="pt">LOCALVISAO TV</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="disneychannel.pt">
-    <display-name lang="pt">DISNEY CHANNEL</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="nick">
-    <display-name lang="pt">NICKELODEON</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="canalpanda.pt">
-    <display-name lang="pt">PANDA</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="PandaBiggs.pt">
-    <display-name lang="pt">PANDA BIGGS</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="disneyjunior.pt">
-    <display-name lang="pt">DISNEY JUNIOR</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="BABYT">
-    <display-name lang="pt">BABY FIRST</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="CART">
-    <display-name lang="pt">CARTOON NETWORK</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TIJI">
-    <display-name lang="pt">TIJI</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="ARTV.pt">
-    <display-name lang="pt">PARLAMENTO</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TPA">
-    <display-name lang="pt">TPA</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TCV">
-    <display-name lang="pt">TCV INT</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="CancaoNova.PT">
-    <display-name lang="pt">CANÇÃO NOVA</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="Euronews.nws">
-    <display-name lang="pt">EURONEWS PT</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="TVIREAL">
-    <display-name lang="pt">TVI REALITY</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="MOTORVISION">
-    <display-name lang="pt">MOTORVISION HD</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="AMC">
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMCHD">
     <display-name lang="pt">AMCHD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="KURIAKOSTV">
-    <display-name lang="pt">KURIAKOS TV</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="SUNDC">
-    <display-name lang="pt">SUNDANCE</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="DEMO">
-    <display-name lang="pt">KODIPORTUGAL.PT</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="rtp1.pt">
-    <display-name lang="en">RTP1</display-name>
-    <url>http://www.rpt.pt</url>
-  </channel>
-  <channel id="rtp2.pt">
-    <display-name lang="en">RTP2</display-name>
-    <url>http://www.rpt.pt</url>
-  </channel>
-  <channel id="rtpn.pt">
-    <display-name lang="en">RTP3</display-name>
-    <url>http://www.rpt.pt</url>
-  </channel>
-  <channel id="rtpmemoria.pt">
-    <display-name lang="en">RTP MEMÓRIA</display-name>
-    <url>http://www.rpt.pt</url>
-  </channel>
-  <channel id="RTPAfrica.pt">
-    <display-name lang="en">RTP ÁFRICA</display-name>
-    <url>http://www.rpt.pt</url>
-  </channel>
-  <channel id="RTPi.pt">
-    <display-name lang="en">RTP INTERNACIONAL</display-name>
-    <url>http://www.rpt.pt</url>
-  </channel>
-  <channel id="RTPAcores.pt">
-    <display-name lang="en">RTP AÇORES</display-name>
-    <url>http://www.rpt.pt</url>
-  </channel>
-  <channel id="RTPMadeira.pt">
-    <display-name lang="en">RTP MADEIRA</display-name>
-    <url>http://www.rpt.pt</url>
-  </channel>
-  <channel id="siccaras.pt">
-    <display-name lang="pt">SIC CARAS</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="PFC">
-    <display-name lang="pt">PFC</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVRecord">
-    <display-name lang="pt">TV RECORD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="E">
-    <display-name lang="pt">E!</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="FuelTV">
-    <display-name lang="pt">Fuel TV</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="FightNetwork">
-    <display-name lang="pt">FIGHT NETWORK HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="Fightbox">
-    <display-name lang="pt">FIGHTBOX HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="MOTOR">
-    <display-name lang="pt">MOTORS TV HD</display-name>
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="TVI_INTERNACIONAL">
-    <display-name lang="pt">TVI INTERNACIONAL</display-name>
-    <url>http://www.tvi.pt</url>
-  </channel>
+  <programme start="20190630012100 +0100" stop="20190630020300 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190630020300 +0100" stop="20190630024500 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190630024500 +0100" stop="20190630032800 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190630032800 +0100" stop="20190630041500 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20190630041500 +0100" stop="20190630050100 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20190630050100 +0100" stop="20190630054400 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E20</episode-num>
+  </programme>
+  <programme start="20190630054400 +0100" stop="20190630063000 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E1</episode-num>
+  </programme>
+  <programme start="20190630063000 +0100" stop="20190630073400 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E2</episode-num>
+  </programme>
+  <programme start="20190630073400 +0100" stop="20190630081600 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E3</episode-num>
+  </programme>
+  <programme start="20190630081600 +0100" stop="20190630085700 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E4</episode-num>
+  </programme>
+  <programme start="20190630085700 +0100" stop="20190630093900 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20190630093900 +0100" stop="20190630102100 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E6</episode-num>
+  </programme>
+  <programme start="20190630102100 +0100" stop="20190630110300 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E7</episode-num>
+  </programme>
+  <programme start="20190630110300 +0100" stop="20190630114900 +0100" channel="AMCHD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190630114900 +0100" stop="20190630123600 +0100" channel="AMCHD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190630123600 +0100" stop="20190630132200 +0100" channel="AMCHD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20190630132200 +0100" stop="20190630140900 +0100" channel="AMCHD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190630140900 +0100" stop="20190630153400 +0100" channel="AMCHD">
+    <title lang="pt">Spy Kids - O Filme</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190630153400 +0100" stop="20190630171200 +0100" channel="AMCHD">
+    <title lang="pt">Spy Kids 2 - A Ilha dos Sonhos Perdidos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190630171200 +0100" stop="20190630183200 +0100" channel="AMCHD">
+    <title lang="pt">Spy Kids 3: Game Over</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190630183200 +0100" stop="20190630202200 +0100" channel="AMCHD">
+    <title lang="pt">O Amor é o Melhor Remédio</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190630202200 +0100" stop="20190630221000 +0100" channel="AMCHD">
+    <title lang="pt">Kill Bill - A Vingança Vol. 1</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190630221000 +0100" stop="20190701002300 +0100" channel="AMCHD">
+    <title lang="pt">Kill Bill - A Vingança Vol. 2</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190701002300 +0100" stop="20190701010900 +0100" channel="AMCHD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190701010900 +0100" stop="20190701015600 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E4</episode-num>
+  </programme>
+  <programme start="20190701015600 +0100" stop="20190701032600 +0100" channel="AMCHD">
+    <title lang="pt">Ultimate Justice</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190701032600 +0100" stop="20190701040900 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E11</episode-num>
+  </programme>
+  <programme start="20190701040900 +0100" stop="20190701045000 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E12</episode-num>
+  </programme>
+  <programme start="20190701045000 +0100" stop="20190701053300 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E13</episode-num>
+  </programme>
+  <programme start="20190701053300 +0100" stop="20190701061900 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E14</episode-num>
+  </programme>
+  <programme start="20190701061900 +0100" stop="20190701070400 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E15</episode-num>
+  </programme>
+  <programme start="20190701070400 +0100" stop="20190701080700 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E6</episode-num>
+  </programme>
+  <programme start="20190701080700 +0100" stop="20190701085700 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E7</episode-num>
+  </programme>
+  <programme start="20190701085700 +0100" stop="20190701093900 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E16</episode-num>
+  </programme>
+  <programme start="20190701093900 +0100" stop="20190701102800 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E1</episode-num>
+  </programme>
+  <programme start="20190701102800 +0100" stop="20190701111100 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E2</episode-num>
+  </programme>
+  <programme start="20190701111100 +0100" stop="20190701115600 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E3</episode-num>
+  </programme>
+  <programme start="20190701115600 +0100" stop="20190701124200 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S4E4</episode-num>
+  </programme>
+  <programme start="20190701124200 +0100" stop="20190701133800 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E6</episode-num>
+  </programme>
+  <programme start="20190701133800 +0100" stop="20190701142800 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E7</episode-num>
+  </programme>
+  <programme start="20190701142800 +0100" stop="20190701151100 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E14</episode-num>
+  </programme>
+  <programme start="20190701151100 +0100" stop="20190701165500 +0100" channel="AMCHD">
+    <title lang="pt">Coração de Dragão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190701165500 +0100" stop="20190701181900 +0100" channel="AMCHD">
+    <title lang="pt">The Rule of Law</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190701181900 +0100" stop="20190701194400 +0100" channel="AMCHD">
+    <title lang="pt">Espião Acidental</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190701194400 +0100" stop="20190701202700 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E14</episode-num>
+  </programme>
+  <programme start="20190701202700 +0100" stop="20190701212300 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E6</episode-num>
+  </programme>
+  <programme start="20190701212300 +0100" stop="20190701221000 +0100" channel="AMCHD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190701221000 +0100" stop="20190701230000 +0100" channel="AMCHD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190701230000 +0100" stop="20190701234600 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E5</episode-num>
+  </programme>
+  <programme start="20190701234600 +0100" stop="20190702012800 +0100" channel="AMCHD">
+    <title lang="pt">Copland - Zona Exclusiva</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190702012800 +0100" stop="20190702021100 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E14</episode-num>
+  </programme>
+  <programme start="20190702021100 +0100" stop="20190702030100 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E7</episode-num>
+  </programme>
+  <programme start="20190702030100 +0100" stop="20190702035500 +0100" channel="AMCHD">
+    <title lang="pt">Apple Tree Yard</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190702035500 +0100" stop="20190702044800 +0100" channel="AMCHD">
+    <title lang="pt">Apple Tree Yard</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190702044800 +0100" stop="20190702054100 +0100" channel="AMCHD">
+    <title lang="pt">Apple Tree Yard</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20190702054100 +0100" stop="20190702064100 +0100" channel="AMCHD">
+    <title lang="pt">Apple Tree Yard</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190702064100 +0100" stop="20190702072300 +0100" channel="AMCHD">
+    <title lang="pt">James Cameron</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190702072300 +0100" stop="20190702080500 +0100" channel="AMCHD">
+    <title lang="pt">James Cameron</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190702080500 +0100" stop="20190702084600 +0100" channel="AMCHD">
+    <title lang="pt">James Cameron</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190702084600 +0100" stop="20190702093600 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E7</episode-num>
+  </programme>
+  <programme start="20190702093600 +0100" stop="20190702102900 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
+  </programme>
+  <programme start="20190702102900 +0100" stop="20190702111100 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190702111100 +0100" stop="20190702115400 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E6</episode-num>
+  </programme>
+  <programme start="20190702115400 +0100" stop="20190702123600 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E7</episode-num>
+  </programme>
+  <programme start="20190702123600 +0100" stop="20190702131900 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E8</episode-num>
+  </programme>
+  <programme start="20190702131900 +0100" stop="20190702140200 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E9</episode-num>
+  </programme>
+  <programme start="20190702140200 +0100" stop="20190702145200 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E7</episode-num>
+  </programme>
+  <programme start="20190702145200 +0100" stop="20190702154500 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
+  </programme>
+  <programme start="20190702154500 +0100" stop="20190702162600 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E15</episode-num>
+  </programme>
+  <programme start="20190702162600 +0100" stop="20190702181900 +0100" channel="AMCHD">
+    <title lang="pt">Virgem aos 40 Anos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190702181900 +0100" stop="20190702195400 +0100" channel="AMCHD">
+    <title lang="pt">Wild Bill</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190702195400 +0100" stop="20190702204000 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E5</episode-num>
+  </programme>
+  <programme start="20190702204000 +0100" stop="20190702212700 +0100" channel="AMCHD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190702212700 +0100" stop="20190702221000 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190702221000 +0100" stop="20190702225100 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20190702225100 +0100" stop="20190702234400 +0100" channel="AMCHD">
+    <title lang="pt">Condor</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190702234400 +0100" stop="20190703015200 +0100" channel="AMCHD">
+    <title lang="pt">Miami Vice</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190703015200 +0100" stop="20190703023300 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E15</episode-num>
+  </programme>
+  <programme start="20190703023300 +0100" stop="20190703032700 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
+  </programme>
+  <programme start="20190703032700 +0100" stop="20190703040800 +0100" channel="AMCHD">
+    <title lang="pt">Sobrevivente Designado</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E10</episode-num>
+  </programme>
+  <programme start="20190703040800 +0100" stop="20190703050100 +0100" channel="AMCHD">
+    <title lang="pt">Condor</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190703050100 +0100" stop="20190703054300 +0100" channel="AMCHD">
+    <title lang="pt">James Cameron</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190703054300 +0100" stop="20190703064000 +0100" channel="AMCHD">
+    <title lang="pt">James Cameron</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190703064000 +0100" stop="20190703072200 +0100" channel="AMCHD">
+    <title lang="pt">James Cameron</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190703072200 +0100" stop="20190703080400 +0100" channel="AMCHD">
+    <title lang="pt">James Cameron</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190703080400 +0100" stop="20190703084600 +0100" channel="AMCHD">
+    <title lang="pt">James Cameron</title>
+    <category lang="pt">documentarios</category>
+  </programme>
+  <programme start="20190703084600 +0100" stop="20190703093900 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
+  </programme>
+  <programme start="20190703093900 +0100" stop="20190703103300 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E1</episode-num>
+  </programme>
+  <programme start="20190703103300 +0100" stop="20190703111500 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
+  </programme>
+  <programme start="20190703111500 +0100" stop="20190703115700 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E9</episode-num>
+  </programme>
+  <programme start="20190703115700 +0100" stop="20190703124000 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E10</episode-num>
+  </programme>
+  <programme start="20190703124000 +0100" stop="20190703132000 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E11</episode-num>
+  </programme>
+  <programme start="20190703132000 +0100" stop="20190703140200 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E12</episode-num>
+  </programme>
+  <programme start="20190703140200 +0100" stop="20190703144800 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E5</episode-num>
+  </programme>
+  <programme start="20190703144800 +0100" stop="20190703153500 +0100" channel="AMCHD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190703153500 +0100" stop="20190703161800 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E16</episode-num>
+  </programme>
+  <programme start="20190703161800 +0100" stop="20190703180000 +0100" channel="AMCHD">
+    <title lang="pt">Copland - Zona Exclusiva</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190703180000 +0100" stop="20190703195200 +0100" channel="AMCHD">
+    <title lang="pt">Virgem aos 40 Anos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190703195200 +0100" stop="20190703203500 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E16</episode-num>
+  </programme>
+  <programme start="20190703203500 +0100" stop="20190703212800 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
+  </programme>
+  <programme start="20190703212800 +0100" stop="20190703221000 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190703221000 +0100" stop="20190703225500 +0100" channel="AMCHD">
+    <title lang="pt">The First</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190703225500 +0100" stop="20190703235700 +0100" channel="AMCHD">
+    <title lang="pt">Das Boot: O Submarino</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190703235700 +0100" stop="20190704014200 +0100" channel="AMCHD">
+    <title lang="pt">Aberto Até de Madrugada</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190704014200 +0100" stop="20190704022500 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E16</episode-num>
+  </programme>
+  <programme start="20190704022500 +0100" stop="20190704031900 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E1</episode-num>
+  </programme>
+  <programme start="20190704031900 +0100" stop="20190704040500 +0100" channel="AMCHD">
+    <title lang="pt">The First</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190704040500 +0100" stop="20190704050700 +0100" channel="AMCHD">
+    <title lang="pt">Das Boot: O Submarino</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190704050700 +0100" stop="20190704060000 +0100" channel="AMCHD">
+    <title lang="pt">Apple Tree Yard</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190704060000 +0100" stop="20190704065400 +0100" channel="AMCHD">
+    <title lang="pt">Apple Tree Yard</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190704065400 +0100" stop="20190704081100 +0100" channel="AMCHD">
+    <title lang="pt">Apple Tree Yard</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20190704081100 +0100" stop="20190704090500 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E1</episode-num>
+  </programme>
+  <programme start="20190704090500 +0100" stop="20190704100100 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E2</episode-num>
+  </programme>
+  <programme start="20190704100100 +0100" stop="20190704104400 +0100" channel="AMCHD">
+    <title lang="pt">Pure Genius</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190704104400 +0100" stop="20190704112600 +0100" channel="AMCHD">
+    <title lang="pt">Pure Genius</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190704112600 +0100" stop="20190704120900 +0100" channel="AMCHD">
+    <title lang="pt">Pure Genius</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20190704120900 +0100" stop="20190704125100 +0100" channel="AMCHD">
+    <title lang="pt">Pure Genius</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190704125100 +0100" stop="20190704133300 +0100" channel="AMCHD">
+    <title lang="pt">Pure Genius</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190704133300 +0100" stop="20190704142700 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E1</episode-num>
+  </programme>
+  <programme start="20190704142700 +0100" stop="20190704152300 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E2</episode-num>
+  </programme>
+  <programme start="20190704152300 +0100" stop="20190704160600 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E17</episode-num>
+  </programme>
+  <programme start="20190704160600 +0100" stop="20190704174100 +0100" channel="AMCHD">
+    <title lang="pt">Fargo</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190704174100 +0100" stop="20190704195000 +0100" channel="AMCHD">
+    <title lang="pt">Miami Vice</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190704195000 +0100" stop="20190704203300 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E17</episode-num>
+  </programme>
+  <programme start="20190704203300 +0100" stop="20190704212700 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E1</episode-num>
+  </programme>
+  <programme start="20190704212700 +0100" stop="20190704221000 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20190704221000 +0100" stop="20190704225200 +0100" channel="AMCHD">
+    <title lang="pt">As Crónicas de Shannara</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E2</episode-num>
+  </programme>
+  <programme start="20190704225200 +0100" stop="20190704233800 +0100" channel="AMCHD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190704233800 +0100" stop="20190705002500 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E5</episode-num>
+  </programme>
+  <programme start="20190705002500 +0100" stop="20190705015000 +0100" channel="AMCHD">
+    <title lang="pt">Espião Acidental</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190705015000 +0100" stop="20190705023300 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E17</episode-num>
+  </programme>
+  <programme start="20190705023300 +0100" stop="20190705032900 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E2</episode-num>
+  </programme>
+  <programme start="20190705032900 +0100" stop="20190705041100 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E8</episode-num>
+  </programme>
+  <programme start="20190705041100 +0100" stop="20190705045300 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E9</episode-num>
+  </programme>
+  <programme start="20190705045300 +0100" stop="20190705053600 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E10</episode-num>
+  </programme>
+  <programme start="20190705053600 +0100" stop="20190705061600 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E11</episode-num>
+  </programme>
+  <programme start="20190705061600 +0100" stop="20190705065800 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E12</episode-num>
+  </programme>
+  <programme start="20190705065800 +0100" stop="20190705075400 +0100" channel="AMCHD">
+    <title lang="pt">Apple Tree Yard</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190705075400 +0100" stop="20190705085000 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E2</episode-num>
+  </programme>
+  <programme start="20190705085000 +0100" stop="20190705094600 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E3</episode-num>
+  </programme>
+  <programme start="20190705094600 +0100" stop="20190705102900 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E21</episode-num>
+  </programme>
+  <programme start="20190705102900 +0100" stop="20190705111200 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E22</episode-num>
+  </programme>
+  <programme start="20190705111200 +0100" stop="20190705115300 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E23</episode-num>
+  </programme>
+  <programme start="20190705115300 +0100" stop="20190705123600 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20190705123600 +0100" stop="20190705131900 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E2</episode-num>
+  </programme>
+  <programme start="20190705131900 +0100" stop="20190705141500 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E2</episode-num>
+  </programme>
+  <programme start="20190705141500 +0100" stop="20190705151100 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E3</episode-num>
+  </programme>
+  <programme start="20190705151100 +0100" stop="20190705155400 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E18</episode-num>
+  </programme>
+  <programme start="20190705155400 +0100" stop="20190705175100 +0100" channel="AMCHD">
+    <title lang="pt">Amar... É Complicado</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190705175100 +0100" stop="20190705194800 +0100" channel="AMCHD">
+    <title lang="pt">O Cliente</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190705194800 +0100" stop="20190705203200 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E18</episode-num>
+  </programme>
+  <programme start="20190705203200 +0100" stop="20190705212800 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E2</episode-num>
+  </programme>
+  <programme start="20190705212800 +0100" stop="20190705221000 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190705221000 +0100" stop="20190705235900 +0100" channel="AMCHD">
+    <title lang="pt">Shaolin Soccer</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190705235900 +0100" stop="20190706014300 +0100" channel="AMCHD">
+    <title lang="pt">Coração de Dragão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190706014300 +0100" stop="20190706022600 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E18</episode-num>
+  </programme>
+  <programme start="20190706022600 +0100" stop="20190706032300 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S3E3</episode-num>
+  </programme>
+  <programme start="20190706032300 +0100" stop="20190706040500 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E21</episode-num>
+  </programme>
+  <programme start="20190706040500 +0100" stop="20190706044800 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E22</episode-num>
+  </programme>
+  <programme start="20190706044800 +0100" stop="20190706052900 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E23</episode-num>
+  </programme>
+  <programme start="20190706052900 +0100" stop="20190706061200 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E1</episode-num>
+  </programme>
+  <programme start="20190706061200 +0100" stop="20190706065500 +0100" channel="AMCHD">
+    <title lang="pt">Las Vegas</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E2</episode-num>
+  </programme>
+  <programme start="20190706065500 +0100" stop="20190706074000 +0100" channel="AMCHD">
+    <title lang="pt">Ransom</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190706074000 +0100" stop="20190706083500 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E3</episode-num>
+  </programme>
+  <programme start="20190706083500 +0100" stop="20190706093100 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E4</episode-num>
+  </programme>
+  <programme start="20190706093100 +0100" stop="20190706102700 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E5</episode-num>
+  </programme>
+  <programme start="20190706102700 +0100" stop="20190706112300 +0100" channel="AMCHD">
+    <title lang="pt">Caïn</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S2E6</episode-num>
+  </programme>
+  <programme start="20190706112300 +0100" stop="20190706121300 +0100" channel="AMCHD">
+    <title lang="pt">Ouro</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190706121300 +0100" stop="20190706130700 +0100" channel="AMCHD">
+    <title lang="pt">Ouro</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190706130700 +0100" stop="20190706140100 +0100" channel="AMCHD">
+    <title lang="pt">Ouro</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E3</episode-num>
+  </programme>
+  <programme start="20190706140100 +0100" stop="20190706145100 +0100" channel="AMCHD">
+    <title lang="pt">Ouro</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E4</episode-num>
+  </programme>
+  <programme start="20190706145100 +0100" stop="20190706170000 +0100" channel="AMCHD">
+    <title lang="pt">O Homem da Máscara de Ferro</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190706170000 +0100" stop="20190706184400 +0100" channel="AMCHD">
+    <title lang="pt">Coração de Dragão</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190706184400 +0100" stop="20190706203700 +0100" channel="AMCHD">
+    <title lang="pt">Virgem aos 40 Anos</title>
+    <category lang="pt">filmes</category>
+  </programme>
+  <programme start="20190706203700 +0100" stop="20190706212300 +0100" channel="AMCHD">
+    <title lang="pt">Fear the Walking Dead</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S5E5</episode-num>
+  </programme>
+  <programme start="20190706212300 +0100" stop="20190706221000 +0100" channel="AMCHD">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E5</episode-num>
+  </programme>
+  <programme start="20190706221000 +0100" stop="20190706225800 +0100" channel="AMCHD">
+    <title lang="pt">The Son</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E1</episode-num>
+  </programme>
+  <programme start="20190706225800 +0100" stop="20190706234100 +0100" channel="AMCHD">
+    <title lang="pt">The Son</title>
+    <category lang="pt">series</category>
+    <episode-num system="xmltv_ns">S1E2</episode-num>
+  </programme>
+  <programme start="20190706234100 +0100" stop="20190707011600 +0100" channel="AMCHD">
+    <title lang="pt">Wild Bill</title>
+    <category lang="pt">filmes</category>
+  </programme>
 </tv>
-        </Headers>
-      </httpProtocol>
-    </system.webServer>
-  </configuration>
