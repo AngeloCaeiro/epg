@@ -16,10 +16,6 @@
     <display-name lang="pt">Nick Jr.</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="AXN BLACK HD">
-    <display-name lang="pt">AXN BLACK HD</display-name>
-    <url>http://www.meo.pt</url>
-  </channel>
   <channel id="AXN Movies HD">
     <display-name lang="pt">AXN Movies HD</display-name>
     <url>http://www.nos.pt</url>
