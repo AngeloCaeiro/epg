@@ -1,24 +1,25 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="NBATVHD">
+    <display-name lang="pt">Sport TV NBA</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/nba-tv.png" />
+    <url>http://www.meo.pt</url>
+  </channel>
   <channel id="Canal 11 HD">
-    <display-name lang="pt">Canal 11 HD</display-name>
-    <url>http://www.nos.pt</url>
+    <display-name lang="en">Canal 11 HD</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="NOS Studios  HD">
     <display-name lang="pt">NOS Studios  HD</display-name>
-    <url>http://www.nos.pt</url>
-  </channel>
-  <channel id="Sport TV NBA">
-    <display-name lang="pt">Sport TV NBA</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="Nick Jr.">
     <display-name lang="pt">Nick Jr.</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="AXN Movies HD">
-    <display-name lang="pt">AXN Movies HD</display-name>
-    <url>http://www.nos.pt</url>
+  <channel id="AXN Black">
+    <display-name lang="en">AXN Movies HD</display-name>
+    <url>http://www.tudonumclick.com</url>
   </channel>
   <channel id="ID Investigation Discovery">
     <display-name lang="pt">ID Investigation Discovery</display-name>
@@ -44,491 +45,1064 @@
     <display-name lang="pt">ZAP Viva HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <programme start="20200630030000 +0100" stop="20200630050000 +0100" channel="NBATVHD">
+    <title lang="pt">Marquee Matchup Hawks x Warriors November 13, 2018</title>
+    <desc lang="pt">Marquee Matchup Hawks x Warriors November 13, 2018.</desc>
+  </programme>
+  <programme start="20200630050000 +0100" stop="20200630053000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200630053000 +0100" stop="20200630060000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200630060000 +0100" stop="20200630080000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Sixers x Blazers 1977 NBA Finals Game 3</title>
+    <desc lang="pt">Hardwood Classic Sixers x Blazers 1977 NBA Finals Game 3.</desc>
+  </programme>
+  <programme start="20200630080000 +0100" stop="20200630083000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together W/Brad Stevens</title>
+    <desc lang="pt">NBA Together W/Brad Stevens.</desc>
+  </programme>
+  <programme start="20200630083000 +0100" stop="20200630090000 +0100" channel="NBATVHD">
+    <title lang="pt">Work From Home: New Orleans</title>
+    <desc lang="pt">Work From Home: New Orleans.</desc>
+  </programme>
+  <programme start="20200630090000 +0100" stop="20200630093000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200630093000 +0100" stop="20200630100000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200630100000 +0100" stop="20200630110000 +0100" channel="NBATVHD">
+    <title lang="pt">2010 Playoff Playback Celtics x Magic East Finals Game 1</title>
+    <desc lang="pt">2010 Playoff Playback Celtics x Magic East Finals Game 1.</desc>
+  </programme>
+  <programme start="20200630110000 +0100" stop="20200630120000 +0100" channel="NBATVHD">
+    <title lang="pt">2014 Playoff Playback Nets x Raptors East 1st Round Game 7</title>
+    <desc lang="pt">2014 Playoff Playback Nets x Raptors East 1st Round Game 7.</desc>
+  </programme>
+  <programme start="20200630120000 +0100" stop="20200630123000 +0100" channel="NBATVHD">
+    <title lang="pt">Work From Home: Detroit Pistons</title>
+    <desc lang="pt">Work From Home: Detroit Pistons.</desc>
+  </programme>
+  <programme start="20200630123000 +0100" stop="20200630130000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together W/Carmelo Anthony</title>
+    <desc lang="pt">NBA Together W/Carmelo Anthony.</desc>
+  </programme>
+  <programme start="20200630130000 +0100" stop="20200630133000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200630133000 +0100" stop="20200630140000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200630140000 +0100" stop="20200630160000 +0100" channel="NBATVHD">
+    <title lang="pt">2017 Playoff Playback Cavalier x Warriors NBA Finals Game 5</title>
+    <desc lang="pt">2017 Playoff Playback Cavalier x Warriors NBA Finals Game 5.</desc>
+  </programme>
+  <programme start="20200630160000 +0100" stop="20200630163000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200630163000 +0100" stop="20200630170000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200630170000 +0100" stop="20200630190000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Knicks x Heat 1999 East Game 5</title>
+    <desc lang="pt">Hardwood Classic Knicks x Heat 1999 East Game 5.</desc>
+  </programme>
+  <programme start="20200630190000 +0100" stop="20200630210000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Pistons x Jazz January 22nd 1978</title>
+    <desc lang="pt">Hardwood Classic Pistons x Jazz January 22nd 1978.</desc>
+  </programme>
+  <programme start="20200630210000 +0100" stop="20200630230000 +0100" channel="NBATVHD">
+    <title lang="pt">Marquee Matchup Thunder x Sixers December 15, 2017</title>
+    <desc lang="pt">Marquee Matchup Thunder x Sixers December 15, 2017.</desc>
+  </programme>
+  <programme start="20200630230000 +0100" stop="20200701000000 +0100" channel="NBATVHD">
+    <title lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 3</title>
+    <desc lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 3.</desc>
+  </programme>
+  <programme start="20200701000000 +0100" stop="20200701010000 +0100" channel="NBATVHD">
+    <title lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 3</title>
+    <desc lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 3.</desc>
+  </programme>
+  <programme start="20200701010000 +0100" stop="20200701013000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together: Virtual Roundtable</title>
+    <desc lang="pt">NBA Together: Virtual Roundtable.</desc>
+  </programme>
+  <programme start="20200701013000 +0100" stop="20200701020000 +0100" channel="NBATVHD">
+    <title lang="pt">Silver, Johnson, Lightfoot, Butler</title>
+    <desc lang="pt">Silver, Johnson, Lightfoot, Butler.</desc>
+  </programme>
+  <programme start="20200701020000 +0100" stop="20200701023000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200701023000 +0100" stop="20200701030000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200701030000 +0100" stop="20200701040000 +0100" channel="NBATVHD">
+    <title lang="pt">2016 Playoff Playback Pistons x Cavaliers East 1st Round Game 1</title>
+    <desc lang="pt">2016 Playoff Playback Pistons x Cavaliers East 1st Round Game 1.</desc>
+  </programme>
+  <programme start="20200701040000 +0100" stop="20200701050000 +0100" channel="NBATVHD">
+    <title lang="pt">2016 Playoff Playback Pistons x Cavaliers East 1st Round Game 2</title>
+    <desc lang="pt">2016 Playoff Playback Pistons x Cavaliers East 1st Round Game 2.</desc>
+  </programme>
+  <programme start="20200701050000 +0100" stop="20200701053000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200701053000 +0100" stop="20200701060000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200701060000 +0100" stop="20200701080000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Knicks x Heat 1999 East Game 5</title>
+    <desc lang="pt">Hardwood Classic Knicks x Heat 1999 East Game 5.</desc>
+  </programme>
+  <programme start="20200701080000 +0100" stop="20200701083000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together: Virtual Roundtable</title>
+    <desc lang="pt">NBA Together: Virtual Roundtable.</desc>
+  </programme>
+  <programme start="20200701083000 +0100" stop="20200701090000 +0100" channel="NBATVHD">
+    <title lang="pt">Silver, Johnson, Lightfoot, Butler</title>
+    <desc lang="pt">Silver, Johnson, Lightfoot, Butler.</desc>
+  </programme>
+  <programme start="20200701090000 +0100" stop="20200701093000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200701093000 +0100" stop="20200701100000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200701100000 +0100" stop="20200701120000 +0100" channel="NBATVHD">
+    <title lang="pt">Marquee Matchup Thunder x Sixers December 15, 2017</title>
+    <desc lang="pt">Marquee Matchup Thunder x Sixers December 15, 2017.</desc>
+  </programme>
+  <programme start="20200701120000 +0100" stop="20200701123000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together W/Malcolm Brodgon</title>
+    <desc lang="pt">NBA Together W/Malcolm Brodgon.</desc>
+  </programme>
+  <programme start="20200701123000 +0100" stop="20200701130000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together W/Vr Hispanic Communities</title>
+    <desc lang="pt">NBA Together W/Vr Hispanic Communities.</desc>
+  </programme>
+  <programme start="20200701130000 +0100" stop="20200701133000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200701133000 +0100" stop="20200701140000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200701140000 +0100" stop="20200701160000 +0100" channel="NBATVHD">
+    <title lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 3</title>
+    <desc lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 3.</desc>
+  </programme>
+  <programme start="20200701160000 +0100" stop="20200701163000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200701163000 +0100" stop="20200701170000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200701170000 +0100" stop="20200701190000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Special The Doctor - Dr.J</title>
+    <desc lang="pt">NBA Special The Doctor - Dr.J.</desc>
+  </programme>
+  <programme start="20200701190000 +0100" stop="20200701210000 +0100" channel="NBATVHD">
+    <title lang="pt">2017 Playoff Playback Cavalier x Warriors NBA Finals Game 5</title>
+    <desc lang="pt">2017 Playoff Playback Cavalier x Warriors NBA Finals Game 5.</desc>
+  </programme>
+  <programme start="20200701210000 +0100" stop="20200701230000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Nets x Nuggets 1976 Aba Finals Game 6 Game To Remember</title>
+    <desc lang="pt">Hardwood Classic Nets x Nuggets 1976 Aba Finals Game 6 Game To Remember.</desc>
+  </programme>
+  <programme start="20200701230000 +0100" stop="20200702000000 +0100" channel="NBATVHD">
+    <title lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 4</title>
+    <desc lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 4.</desc>
+  </programme>
+  <programme start="20200702000000 +0100" stop="20200702010000 +0100" channel="NBATVHD">
+    <title lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 4</title>
+    <desc lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 4.</desc>
+  </programme>
+  <programme start="20200702010000 +0100" stop="20200702013000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together W/Ray Allen</title>
+    <desc lang="pt">NBA Together W/Ray Allen.</desc>
+  </programme>
+  <programme start="20200702013000 +0100" stop="20200702020000 +0100" channel="NBATVHD">
+    <title lang="pt">Work From Home: Memphis Grizzlies</title>
+    <desc lang="pt">Work From Home: Memphis Grizzlies.</desc>
+  </programme>
+  <programme start="20200702020000 +0100" stop="20200702023000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200702023000 +0100" stop="20200702030000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200702030000 +0100" stop="20200702050000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Special The Doctor - Dr.J</title>
+    <desc lang="pt">NBA Special The Doctor - Dr.J.</desc>
+  </programme>
+  <programme start="20200702050000 +0100" stop="20200702053000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200702053000 +0100" stop="20200702060000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200702060000 +0100" stop="20200702080000 +0100" channel="NBATVHD">
+    <title lang="pt">2017 Playoff Playback Cavalier x Warriors NBA Finals Game 5</title>
+    <desc lang="pt">2017 Playoff Playback Cavalier x Warriors NBA Finals Game 5.</desc>
+  </programme>
+  <programme start="20200702080000 +0100" stop="20200702083000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together W/Ray Allen</title>
+    <desc lang="pt">NBA Together W/Ray Allen.</desc>
+  </programme>
+  <programme start="20200702083000 +0100" stop="20200702090000 +0100" channel="NBATVHD">
+    <title lang="pt">Work From Home: Memphis Grizzlies</title>
+    <desc lang="pt">Work From Home: Memphis Grizzlies.</desc>
+  </programme>
+  <programme start="20200702090000 +0100" stop="20200702093000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200702093000 +0100" stop="20200702100000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200702100000 +0100" stop="20200702120000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Nets x Nuggets 1976 Aba Finals Game 6 Game To Remember</title>
+    <desc lang="pt">Hardwood Classic Nets x Nuggets 1976 Aba Finals Game 6 Game To Remember.</desc>
+  </programme>
+  <programme start="20200702120000 +0100" stop="20200702123000 +0100" channel="NBATVHD">
+    <title lang="pt">(7a) NBA Together: Virtual Roundtable</title>
+    <desc lang="pt">(7a) NBA Together: Virtual Roundtable.</desc>
+  </programme>
+  <programme start="20200702123000 +0100" stop="20200702130000 +0100" channel="NBATVHD">
+    <title lang="pt">Silver, Johnson, Lightfoot, Butler</title>
+    <desc lang="pt">Silver, Johnson, Lightfoot, Butler.</desc>
+  </programme>
+  <programme start="20200702130000 +0100" stop="20200702133000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200702133000 +0100" stop="20200702140000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200702140000 +0100" stop="20200702160000 +0100" channel="NBATVHD">
+    <title lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 4</title>
+    <desc lang="pt">2018 Playoff Playback Warriors x Cavaliers NBA Finals Game 4.</desc>
+  </programme>
+  <programme start="20200702160000 +0100" stop="20200702163000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200702163000 +0100" stop="20200702170000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200702170000 +0100" stop="20200702190000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Pacers x Hornets November 28th 1992</title>
+    <desc lang="pt">Hardwood Classic Pacers x Hornets November 28th 1992.</desc>
+  </programme>
+  <programme start="20200702190000 +0100" stop="20200702210000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Magic x Rockets 1995 NBA Finals Game 4</title>
+    <desc lang="pt">Hardwood Classic Magic x Rockets 1995 NBA Finals Game 4.</desc>
+  </programme>
+  <programme start="20200702210000 +0100" stop="20200702220000 +0100" channel="NBATVHD">
+    <title lang="pt">2014 Playoff Playback Thunder x Clippers Semifinals Game 4</title>
+    <desc lang="pt">2014 Playoff Playback Thunder x Clippers Semifinals Game 4.</desc>
+  </programme>
+  <programme start="20200702220000 +0100" stop="20200702230000 +0100" channel="NBATVHD">
+    <title lang="pt">2014 Playoff Playback Clippers x Thunder West Semifinals Game 5</title>
+    <desc lang="pt">2014 Playoff Playback Clippers x Thunder West Semifinals Game 5.</desc>
+  </programme>
+  <programme start="20200702230000 +0100" stop="20200703000000 +0100" channel="NBATVHD">
+    <title lang="pt">2019 Playoff Playback Warriors x Raptors NBA Finals Game 5</title>
+    <desc lang="pt">2019 Playoff Playback Warriors x Raptors NBA Finals Game 5.</desc>
+  </programme>
+  <programme start="20200703000000 +0100" stop="20200703010000 +0100" channel="NBATVHD">
+    <title lang="pt">2019 Playoff Playback Warriors x Raptors NBA Finals Game 5</title>
+    <desc lang="pt">2019 Playoff Playback Warriors x Raptors NBA Finals Game 5.</desc>
+  </programme>
+  <programme start="20200703010000 +0100" stop="20200703013000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together: Tobais Harris</title>
+    <desc lang="pt">NBA Together: Tobais Harris.</desc>
+  </programme>
+  <programme start="20200703013000 +0100" stop="20200703020000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together Vr; Equity &amp; Racial Violence</title>
+    <desc lang="pt">NBA Together Vr; Equity &amp; Racial Violence.</desc>
+  </programme>
+  <programme start="20200703020000 +0100" stop="20200703023000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200703023000 +0100" stop="20200703030000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200703030000 +0100" stop="20200703040000 +0100" channel="NBATVHD">
+    <title lang="pt">2013 Playoff Playback Warriors x Spurs West Semis Game 1</title>
+    <desc lang="pt">2013 Playoff Playback Warriors x Spurs West Semis Game 1.</desc>
+  </programme>
+  <programme start="20200703040000 +0100" stop="20200703050000 +0100" channel="NBATVHD">
+    <title lang="pt">2013 Playoff Playback Warriors x Spurs West Semis Game 2</title>
+    <desc lang="pt">2013 Playoff Playback Warriors x Spurs West Semis Game 2.</desc>
+  </programme>
+  <programme start="20200703050000 +0100" stop="20200703053000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200703053000 +0100" stop="20200703060000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200703060000 +0100" stop="20200703080000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Pacers x Hornets November 28th 1992</title>
+    <desc lang="pt">Hardwood Classic Pacers x Hornets November 28th 1992.</desc>
+  </programme>
+  <programme start="20200703080000 +0100" stop="20200703090000 +0100" channel="NBATVHD">
+    <title lang="pt">2014 Playoff Playback Clippers x Thunder West Semifinals Game 5</title>
+    <desc lang="pt">2014 Playoff Playback Clippers x Thunder West Semifinals Game 5.</desc>
+  </programme>
+  <programme start="20200703090000 +0100" stop="20200703093000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200703093000 +0100" stop="20200703100000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200703100000 +0100" stop="20200703110000 +0100" channel="NBATVHD">
+    <title lang="pt">2013 Playoff Playback Warriors x Spurs West Semis Game 1</title>
+    <desc lang="pt">2013 Playoff Playback Warriors x Spurs West Semis Game 1.</desc>
+  </programme>
+  <programme start="20200703110000 +0100" stop="20200703120000 +0100" channel="NBATVHD">
+    <title lang="pt">2013 Playoff Playback Warriors x Spurs West Semis Game 2</title>
+    <desc lang="pt">2013 Playoff Playback Warriors x Spurs West Semis Game 2.</desc>
+  </programme>
+  <programme start="20200703120000 +0100" stop="20200703123000 +0100" channel="NBATVHD">
+    <title lang="pt">) NBA Together: Tobias Harris</title>
+    <desc lang="pt">) NBA Together: Tobias Harris.</desc>
+  </programme>
+  <programme start="20200703123000 +0100" stop="20200703130000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together Vr; Equity &amp; Racial Violence</title>
+    <desc lang="pt">NBA Together Vr; Equity &amp; Racial Violence.</desc>
+  </programme>
+  <programme start="20200703130000 +0100" stop="20200703133000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200703133000 +0100" stop="20200703140000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200703140000 +0100" stop="20200703160000 +0100" channel="NBATVHD">
+    <title lang="pt">2019 Playoff Playback Warriors x Raptors NBA Finals Game 5</title>
+    <desc lang="pt">2019 Playoff Playback Warriors x Raptors NBA Finals Game 5.</desc>
+  </programme>
+  <programme start="20200703160000 +0100" stop="20200703163000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200703163000 +0100" stop="20200703170000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200703170000 +0100" stop="20200703190000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Blazers x Lakers 2000 West Finals Game 5</title>
+    <desc lang="pt">Hardwood Classic Blazers x Lakers 2000 West Finals Game 5.</desc>
+  </programme>
+  <programme start="20200703190000 +0100" stop="20200703210000 +0100" channel="NBATVHD">
+    <title lang="pt">Marquee Matchup Pistons x Bulls December 18, 2015</title>
+    <desc lang="pt">Marquee Matchup Pistons x Bulls December 18, 2015.</desc>
+  </programme>
+  <programme start="20200703210000 +0100" stop="20200703230000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Suns x Clippers 2006 West Semifinals Game 6</title>
+    <desc lang="pt">Hardwood Classic Suns x Clippers 2006 West Semifinals Game 6.</desc>
+  </programme>
+  <programme start="20200703230000 +0100" stop="20200704000000 +0100" channel="NBATVHD">
+    <title lang="pt">2019 Playoff Playback Raptors x Warriors NBA Finals Game 6</title>
+    <desc lang="pt">2019 Playoff Playback Raptors x Warriors NBA Finals Game 6.</desc>
+  </programme>
+  <programme start="20200704000000 +0100" stop="20200704010000 +0100" channel="NBATVHD">
+    <title lang="pt">2019 Playoff Playback Raptors x Warriors NBA Finals Game 6</title>
+    <desc lang="pt">2019 Playoff Playback Raptors x Warriors NBA Finals Game 6.</desc>
+  </programme>
+  <programme start="20200704010000 +0100" stop="20200704013000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together: Virtual Roundtable</title>
+    <desc lang="pt">NBA Together: Virtual Roundtable.</desc>
+  </programme>
+  <programme start="20200704013000 +0100" stop="20200704020000 +0100" channel="NBATVHD">
+    <title lang="pt">Silver, Johnson, Lightfoot, Butler</title>
+    <desc lang="pt">Silver, Johnson, Lightfoot, Butler.</desc>
+  </programme>
+  <programme start="20200704020000 +0100" stop="20200704023000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200704023000 +0100" stop="20200704030000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200704030000 +0100" stop="20200704050000 +0100" channel="NBATVHD">
+    <title lang="pt">2013 Playoff Playback Raptors x Bucks Eastern Finals Game 5</title>
+    <desc lang="pt">2013 Playoff Playback Raptors x Bucks Eastern Finals Game 5.</desc>
+  </programme>
+  <programme start="20200704050000 +0100" stop="20200704053000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200704053000 +0100" stop="20200704060000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200704060000 +0100" stop="20200704080000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Blazers x Lakers 2000 West Finals Game 5</title>
+    <desc lang="pt">Hardwood Classic Blazers x Lakers 2000 West Finals Game 5.</desc>
+  </programme>
+  <programme start="20200704080000 +0100" stop="20200704090000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Special Wilt 100</title>
+    <desc lang="pt">NBA Special Wilt 100.</desc>
+  </programme>
+  <programme start="20200704090000 +0100" stop="20200704093000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200704093000 +0100" stop="20200704100000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200704100000 +0100" stop="20200704120000 +0100" channel="NBATVHD">
+    <title lang="pt">Marquee Matchup Pistons x Bulls December 18, 2015</title>
+    <desc lang="pt">Marquee Matchup Pistons x Bulls December 18, 2015.</desc>
+  </programme>
+  <programme start="20200704120000 +0100" stop="20200704123000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together: Virtual Roundtable</title>
+    <desc lang="pt">NBA Together: Virtual Roundtable.</desc>
+  </programme>
+  <programme start="20200704123000 +0100" stop="20200704130000 +0100" channel="NBATVHD">
+    <title lang="pt">Silver, Johnson, Lightfoot, Butler</title>
+    <desc lang="pt">Silver, Johnson, Lightfoot, Butler.</desc>
+  </programme>
+  <programme start="20200704130000 +0100" stop="20200704133000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200704133000 +0100" stop="20200704140000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200704140000 +0100" stop="20200704160000 +0100" channel="NBATVHD">
+    <title lang="pt">2019 Playoff Playback Raptors x Warriors NBA Finals Game 6</title>
+    <desc lang="pt">2019 Playoff Playback Raptors x Warriors NBA Finals Game 6.</desc>
+  </programme>
+  <programme start="20200704160000 +0100" stop="20200704163000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200704163000 +0100" stop="20200704170000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Gametime</title>
+    <desc lang="pt">NBA Gametime.</desc>
+  </programme>
+  <programme start="20200704170000 +0100" stop="20200704190000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Nets x Nuggets 1976 Aba Finals Game 6 Game To Remember</title>
+    <desc lang="pt">Hardwood Classic Nets x Nuggets 1976 Aba Finals Game 6 Game To Remember.</desc>
+  </programme>
+  <programme start="20200704190000 +0100" stop="20200704210000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Sixers x Blazers 1977 NBA Finals Game 3</title>
+    <desc lang="pt">Hardwood Classic Sixers x Blazers 1977 NBA Finals Game 3.</desc>
+  </programme>
+  <programme start="20200704210000 +0100" stop="20200704230000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Pistons x Jazz January 22nd 1978</title>
+    <desc lang="pt">Hardwood Classic Pistons x Jazz January 22nd 1978.</desc>
+  </programme>
+  <programme start="20200704230000 +0100" stop="20200705000000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Bullets x Sonics 1978 NBA Finals Game 7</title>
+    <desc lang="pt">Hardwood Classic Bullets x Sonics 1978 NBA Finals Game 7.</desc>
+  </programme>
+  <programme start="20200705000000 +0100" stop="20200705010000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Bullets x Sonics 1978 NBA Finals Game 7</title>
+    <desc lang="pt">Hardwood Classic Bullets x Sonics 1978 NBA Finals Game 7.</desc>
+  </programme>
+  <programme start="20200705010000 +0100" stop="20200705013000 +0100" channel="NBATVHD">
+    <title lang="pt">Work From Home: Detroit Pistons</title>
+    <desc lang="pt">Work From Home: Detroit Pistons.</desc>
+  </programme>
+  <programme start="20200705013000 +0100" stop="20200705020000 +0100" channel="NBATVHD">
+    <title lang="pt">(8:30p) Work From Home: New Orleans</title>
+    <desc lang="pt">(8:30p) Work From Home: New Orleans.</desc>
+  </programme>
+  <programme start="20200705020000 +0100" stop="20200705030000 +0100" channel="NBATVHD">
+    <title lang="pt">2014 Playoff Playback Nets x Raptors East 1st Round Game 7</title>
+    <desc lang="pt">2014 Playoff Playback Nets x Raptors East 1st Round Game 7.</desc>
+  </programme>
+  <programme start="20200705030000 +0100" stop="20200705050000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Knicks x Heat 1999 East Game 5</title>
+    <desc lang="pt">Hardwood Classic Knicks x Heat 1999 East Game 5.</desc>
+  </programme>
+  <programme start="20200705050000 +0100" stop="20200705070000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Nets x Nuggets 1976 Aba Finals Game 6 Game To Remember</title>
+    <desc lang="pt">Hardwood Classic Nets x Nuggets 1976 Aba Finals Game 6 Game To Remember.</desc>
+  </programme>
+  <programme start="20200705070000 +0100" stop="20200705083000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Sixers x Blazers 1977 NBA Finals Game 3</title>
+    <desc lang="pt">Hardwood Classic Sixers x Blazers 1977 NBA Finals Game 3.</desc>
+  </programme>
+  <programme start="20200705083000 +0100" stop="20200705103000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Pistons x Jazz January 22nd 1978</title>
+    <desc lang="pt">Hardwood Classic Pistons x Jazz January 22nd 1978.</desc>
+  </programme>
+  <programme start="20200705103000 +0100" stop="20200705120000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Bullets x Sonics 1978 NBA Finals Game 7</title>
+    <desc lang="pt">Hardwood Classic Bullets x Sonics 1978 NBA Finals Game 7.</desc>
+  </programme>
+  <programme start="20200705120000 +0100" stop="20200705130000 +0100" channel="NBATVHD">
+    <title lang="pt">2010 Playoff Playback Celtics x Magic East Finals Game 1</title>
+    <desc lang="pt">2010 Playoff Playback Celtics x Magic East Finals Game 1.</desc>
+  </programme>
+  <programme start="20200705130000 +0100" stop="20200705133000 +0100" channel="NBATVHD">
+    <title lang="pt">Work From Home: Detroit Pistons</title>
+    <desc lang="pt">Work From Home: Detroit Pistons.</desc>
+  </programme>
+  <programme start="20200705133000 +0100" stop="20200705140000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together Vr; Equity &amp; Racial Violence</title>
+    <desc lang="pt">NBA Together Vr; Equity &amp; Racial Violence.</desc>
+  </programme>
+  <programme start="20200705140000 +0100" stop="20200705160000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Knicks x Heat 1999 East Game 5</title>
+    <desc lang="pt">Hardwood Classic Knicks x Heat 1999 East Game 5.</desc>
+  </programme>
+  <programme start="20200705160000 +0100" stop="20200705180000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Special The Doctor - Dr.J</title>
+    <desc lang="pt">NBA Special The Doctor - Dr.J.</desc>
+  </programme>
+  <programme start="20200705180000 +0100" stop="20200705200000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Pacers x Hornets November 28th 1992</title>
+    <desc lang="pt">Hardwood Classic Pacers x Hornets November 28th 1992.</desc>
+  </programme>
+  <programme start="20200705200000 +0100" stop="20200705203000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together: Virtual Roundtable Silver, Johnson, Lightfoot, Butler</title>
+    <desc lang="pt">NBA Together: Virtual Roundtable Silver, Johnson, Lightfoot, Butler.</desc>
+  </programme>
+  <programme start="20200705203000 +0100" stop="20200705210000 +0100" channel="NBATVHD">
+    <title lang="pt">Silver, Johnson, Lightfoot, Butler</title>
+    <desc lang="pt">Silver, Johnson, Lightfoot, Butler.</desc>
+  </programme>
+  <programme start="20200705210000 +0100" stop="20200705230000 +0100" channel="NBATVHD">
+    <title lang="pt">Hardwood Classic Magic x Rockets 1995 NBA Finals Game 4</title>
+    <desc lang="pt">Hardwood Classic Magic x Rockets 1995 NBA Finals Game 4.</desc>
+  </programme>
+  <programme start="20200705230000 +0100" stop="20200705233000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together W/Ray Allen</title>
+    <desc lang="pt">NBA Together W/Ray Allen.</desc>
+  </programme>
+  <programme start="20200705233000 +0100" stop="20200706000000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA Together W/Vr Hispanic Communities</title>
+    <desc lang="pt">NBA Together W/Vr Hispanic Communities.</desc>
+  </programme>
+  <programme start="20200706000000 +0100" stop="20200706060000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA</title>
+    <desc lang="pt">Informação brevemente disponível.</desc>
+  </programme>
+  <programme start="20200706060000 +0100" stop="20200706120000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA</title>
+    <desc lang="pt">Informação brevemente disponível.</desc>
+  </programme>
+  <programme start="20200706120000 +0100" stop="20200706180000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA</title>
+    <desc lang="pt">Informação brevemente disponível.</desc>
+  </programme>
+  <programme start="20200706180000 +0100" stop="20200707000000 +0100" channel="NBATVHD">
+    <title lang="pt">NBA</title>
+    <desc lang="pt">Informação brevemente disponível.</desc>
+  </programme>
   <programme start="20200630010000 +0100" stop="20200630011500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
+    <desc lang="en">Programa informativo de entrevista com um protagonista do futebol português. Protagonista atual ou que faça parte da história desse mesmo futebol português. Valorizamos internacionais pelas seleções portuguesas, mas também por outros países que jogaram na Liga Portuguesa.</desc>
   </programme>
   <programme start="20200630011500 +0100" stop="20200630013000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
+    <desc lang="en">Recebemos as emoções do futebol fora das 4 linhas e conhecemos os protagonistas da solidariedade e da empatia. Levamos a jogo a responsabilidade social, a partilha de afetos e de memórias. No nosso sofá acolhedor, provamos que a união faz a força e que uma boa ideia, pode mudar o mundo de alguém.</desc>
   </programme>
   <programme start="20200630013000 +0100" stop="20200630032000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Ekstraklasa - KS Cracovia x MKS Pogón Szczecin</title>
+    <title lang="en">Cracóvia Krakow x Pogon Szczecin: Liga Polaca</title>
+    <desc lang="en">Transmissão do jogo do Campeonato Polaco de futebol, entre Cracóvia Krakow e Pogon Szczecin.</desc>
   </programme>
   <programme start="20200630032000 +0100" stop="20200630052000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Benfica x V. Guimarães - Final 2013</title>
+    <title lang="en">Benfica x Vit. Guimarães - Final 2013 - Futebol: Taça de Portugal</title>
+    <desc lang="en">Transmissão do jogo da final da Taça de Portugal de futebol de 2013, entre Benfica e Vit. Guimarães.</desc>
   </programme>
   <programme start="20200630052000 +0100" stop="20200630055000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
+    <desc lang="en">Programa de viagem pelo país, ao encontro da história dos clubes menos conhecidos, mas igualmente importantes; conversa do apresentador com protagonistas da vida e história do clube ou outras figuras da localidade.</desc>
   </programme>
   <programme start="20200630055000 +0100" stop="20200630062000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
+    <desc lang="en">Programa de viagem pelo país, ao encontro da história dos clubes menos conhecidos, mas igualmente importantes; conversa do apresentador com protagonistas da vida e história do clube ou outras figuras da localidade.</desc>
   </programme>
   <programme start="20200630062000 +0100" stop="20200630080500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - FC Porto x V. Guimarães - Final 1988</title>
+    <title lang="en">FC Porto x Vit. Guimarães - Final 1988 - Futebol: Taça de Portugal</title>
+    <desc lang="en">Transmissão do jogo da final da Taça de Portugal de futebol de 1988, entre FC Porto e Vit. Guimarães.</desc>
   </programme>
   <programme start="20200630080500 +0100" stop="20200630084000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Original 11</title>
+    <title lang="en">Original 11</title>
+    <desc lang="en">Um olhar profundo sobre os grandes temas do futebol em formatos de média e grande reportagem, entrevista e documentário.</desc>
   </programme>
   <programme start="20200630084000 +0100" stop="20200630093000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Virar o Jogo</title>
+    <title lang="en">Virar o Jogo</title>
+    <desc lang="en">Talk show intimista com convidado fora do universo do futebol, assumidamente num formato "frente a frente", sem filtros nem tabus. Original, inesperado e irreverente são as três palavras-chave para contagiar energia positiva os serões do Canal 11.</desc>
   </programme>
   <programme start="20200630093000 +0100" stop="20200630100000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
+    <desc lang="en">Programa de viagem pelo país, ao encontro da história dos clubes menos conhecidos, mas igualmente importantes; conversa do apresentador com protagonistas da vida e história do clube ou outras figuras da localidade.</desc>
   </programme>
   <programme start="20200630100000 +0100" stop="20200630103000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
+    <desc lang="en">Programa de viagem pelo país, ao encontro da história dos clubes menos conhecidos, mas igualmente importantes; conversa do apresentador com protagonistas da vida e história do clube ou outras figuras da localidade.</desc>
   </programme>
   <programme start="20200630103000 +0100" stop="20200630123000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Futebol Total</title>
+    <title lang="en">Futebol Total</title>
+    <desc lang="en">Programa de grande debate de atualidade futebolística, mais informal e mesmo disruptivo no atual panorama televisivo. Enfoque no debate da atualidade com um permanente incentivo à diversidade de opiniões.</desc>
   </programme>
   <programme start="20200630123000 +0100" stop="20200630124500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
+    <desc lang="en">Recebemos as emoções do futebol fora das 4 linhas e conhecemos os protagonistas da solidariedade e da empatia. Levamos a jogo a responsabilidade social, a partilha de afetos e de memórias. No nosso sofá acolhedor, provamos que a união faz a força e que uma boa ideia, pode mudar o mundo de alguém.</desc>
   </programme>
   <programme start="20200630124500 +0100" stop="20200630130000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
+    <desc lang="en">Programa informativo de entrevista com um protagonista do futebol português. Protagonista atual ou que faça parte da história desse mesmo futebol português. Valorizamos internacionais pelas seleções portuguesas, mas também por outros países que jogaram na Liga Portuguesa.</desc>
   </programme>
   <programme start="20200630130000 +0100" stop="20200630150000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Ekstraklasa - KS Cracovia x MKS Pogón Szczecin</title>
+    <title lang="en">Cracóvia Krakow x Pogon Szczecin: Liga Polaca</title>
+    <desc lang="en">Transmissão do jogo do Campeonato Polaco de futebol, entre Cracóvia Krakow e Pogon Szczecin.</desc>
   </programme>
   <programme start="20200630150000 +0100" stop="20200630164500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Tudo É Futebol</title>
+    <title lang="en">Tudo É Futebol</title>
+    <desc lang="en">Programa informativo ao estilo talk radio. Destaque para os protagonistas portugueses espalhados pelo mundo e em permanente interação com o espectador e redes sociais.</desc>
   </programme>
   <programme start="20200630164500 +0100" stop="20200630170000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
+    <desc lang="en">Programa informativo de entrevista com um protagonista do futebol português. Protagonista atual ou que faça parte da história desse mesmo futebol português. Valorizamos internacionais pelas seleções portuguesas, mas também por outros países que jogaram na Liga Portuguesa.</desc>
   </programme>
   <programme start="20200630170000 +0100" stop="20200630173000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
+    <desc lang="en">Programa de atualidade, com resumos, acompanhamento de jogos comentados em estúdio, entrevistas e reportagens. A qualquer momento na emissão do Canal 11.</desc>
   </programme>
   <programme start="20200630173000 +0100" stop="20200630181500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
+    <desc lang="en">Recebemos as emoções do futebol fora das 4 linhas e conhecemos os protagonistas da solidariedade e da empatia. Levamos a jogo a responsabilidade social, a partilha de afetos e de memórias. No nosso sofá acolhedor, provamos que a união faz a força e que uma boa ideia, pode mudar o mundo de alguém.</desc>
   </programme>
   <programme start="20200630181500 +0100" stop="20200630201500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Liga de Israel - Hapoel Tel Aviv x Hapoel Be</title>
+    <title lang="en">Hapoel Telavive x Hapoel Beer Sheva (Direto): Liga Israel</title>
+    <desc lang="en">Transmissão do jogo do Campeonato Israelita de futebol, entre Hapoel Telavive e Hapoel Beer Sheva.</desc>
   </programme>
   <programme start="20200630201500 +0100" stop="20200630221500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Liga Suíça - Servette x Young Boys</title>
+    <title lang="en">Servette x Young Boys: Liga Suíça</title>
+    <desc lang="en">Transmissão do jogo do Campeonato Suíço de futebol, entre Servette e Young Boys.</desc>
   </programme>
   <programme start="20200630221500 +0100" stop="20200701001500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Futebol Total</title>
+    <title lang="en">Futebol Total</title>
+    <desc lang="en">Programa de grande debate de atualidade futebolística, mais informal e mesmo disruptivo no atual panorama televisivo. Enfoque no debate da atualidade com um permanente incentivo à diversidade de opiniões.</desc>
   </programme>
   <programme start="20200701001500 +0100" stop="20200701003000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
+    <desc lang="en">Programa informativo de entrevista com um protagonista do futebol português. Protagonista atual ou que faça parte da história desse mesmo futebol português. Valorizamos internacionais pelas seleções portuguesas, mas também por outros países que jogaram na Liga Portuguesa.</desc>
   </programme>
   <programme start="20200701003000 +0100" stop="20200701004500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
+    <desc lang="en">Recebemos as emoções do futebol fora das 4 linhas e conhecemos os protagonistas da solidariedade e da empatia. Levamos a jogo a responsabilidade social, a partilha de afetos e de memórias. No nosso sofá acolhedor, provamos que a união faz a força e que uma boa ideia, pode mudar o mundo de alguém.</desc>
   </programme>
   <programme start="20200701004500 +0100" stop="20200701024500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Liga Suíça - Servette x Young Boys</title>
+    <title lang="en">Servette x Young Boys: Liga Suíça</title>
+    <desc lang="en">Transmissão do jogo do Campeonato Suíço de futebol, entre Servette e Young Boys.</desc>
   </programme>
   <programme start="20200701024500 +0100" stop="20200701044500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Liga de Israel - Hapoel Tel Aviv x Hapoel Be</title>
+    <title lang="en">Hapoel Telavive x Hapoel Beer Sheva: Liga Israel</title>
+    <desc lang="en">Transmissão do jogo do Campeonato Israelita de futebol, entre Hapoel Telavive e Hapoel Beer Sheva.</desc>
   </programme>
   <programme start="20200701044500 +0100" stop="20200701051500 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
+    <desc lang="en">Programa de viagem pelo país, ao encontro da história dos clubes menos conhecidos, mas igualmente importantes; conversa do apresentador com protagonistas da vida e história do clube ou outras figuras da localidade.</desc>
   </programme>
   <programme start="20200701051500 +0100" stop="20200701070000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Benfica x FC Porto - Final 1985</title>
+    <title lang="en">Benfica x FC Porto - Final 1985 - Futebol: Taça de Portugal</title>
+    <desc lang="en">Transmissão do jogo da final da Taça de Portugal de futebol de 1985, entre Benfica e FC Porto.</desc>
   </programme>
   <programme start="20200701070000 +0100" stop="20200701084500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Belenenses x Benfica - Final 1986</title>
+    <title lang="en">Belenenses x Benfica - Final 1986 - Futebol: Taça de Portugal</title>
+    <desc lang="en">Transmissão do jogo da final da Taça de Portugal de futebol de 1986, entre Belenenses e Benfica.</desc>
   </programme>
   <programme start="20200701084500 +0100" stop="20200701093000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Virar o Jogo</title>
+    <title lang="en">Virar o Jogo</title>
+    <desc lang="en">Talk show intimista com convidado fora do universo do futebol, assumidamente num formato "frente a frente", sem filtros nem tabus. Original, inesperado e irreverente são as três palavras-chave para contagiar energia positiva os serões do Canal 11.</desc>
   </programme>
   <programme start="20200701093000 +0100" stop="20200701100000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
+    <desc lang="en">Programa de viagem pelo país, ao encontro da história dos clubes menos conhecidos, mas igualmente importantes; conversa do apresentador com protagonistas da vida e história do clube ou outras figuras da localidade.</desc>
   </programme>
   <programme start="20200701100000 +0100" stop="20200701103000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
+    <desc lang="en">Programa de viagem pelo país, ao encontro da história dos clubes menos conhecidos, mas igualmente importantes; conversa do apresentador com protagonistas da vida e história do clube ou outras figuras da localidade.</desc>
   </programme>
   <programme start="20200701103000 +0100" stop="20200701123000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Futebol Total</title>
+    <title lang="en">Futebol Total</title>
+    <desc lang="en">Programa de grande debate de atualidade futebolística, mais informal e mesmo disruptivo no atual panorama televisivo. Enfoque no debate da atualidade com um permanente incentivo à diversidade de opiniões.</desc>
   </programme>
   <programme start="20200701123000 +0100" stop="20200701125000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
+    <desc lang="en">Recebemos as emoções do futebol fora das 4 linhas e conhecemos os protagonistas da solidariedade e da empatia. Levamos a jogo a responsabilidade social, a partilha de afetos e de memórias. No nosso sofá acolhedor, provamos que a união faz a força e que uma boa ideia, pode mudar o mundo de alguém.</desc>
   </programme>
   <programme start="20200701125000 +0100" stop="20200701130500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
+    <desc lang="en">Programa informativo de entrevista com um protagonista do futebol português. Protagonista atual ou que faça parte da história desse mesmo futebol português. Valorizamos internacionais pelas seleções portuguesas, mas também por outros países que jogaram na Liga Portuguesa.</desc>
   </programme>
   <programme start="20200701130500 +0100" stop="20200701150000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Liga Suíça - Servette x Young Boys</title>
+    <title lang="en">Servette x Young Boys: Liga Suíça</title>
+    <desc lang="en">Transmissão do jogo do Campeonato Suíço de futebol, entre Servette e Young Boys.</desc>
   </programme>
   <programme start="20200701150000 +0100" stop="20200701164500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Tudo É Futebol</title>
+    <title lang="en">Tudo É Futebol</title>
+    <desc lang="en">Programa informativo ao estilo talk radio. Destaque para os protagonistas portugueses espalhados pelo mundo e em permanente interação com o espectador e redes sociais.</desc>
   </programme>
   <programme start="20200701164500 +0100" stop="20200701170000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
+    <desc lang="en">Programa informativo de entrevista com um protagonista do futebol português. Protagonista atual ou que faça parte da história desse mesmo futebol português. Valorizamos internacionais pelas seleções portuguesas, mas também por outros países que jogaram na Liga Portuguesa.</desc>
   </programme>
   <programme start="20200701170000 +0100" stop="20200701173000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
+    <desc lang="en">Programa de atualidade, com resumos, acompanhamento de jogos comentados em estúdio, entrevistas e reportagens. A qualquer momento na emissão do Canal 11.</desc>
   </programme>
   <programme start="20200701173000 +0100" stop="20200701175000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
+    <desc lang="en">Recebemos as emoções do futebol fora das 4 linhas e conhecemos os protagonistas da solidariedade e da empatia. Levamos a jogo a responsabilidade social, a partilha de afetos e de memórias. No nosso sofá acolhedor, provamos que a união faz a força e que uma boa ideia, pode mudar o mundo de alguém.</desc>
   </programme>
   <programme start="20200701175000 +0100" stop="20200701190000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
+    <desc lang="en">Programa de atualidade, com resumos, acompanhamento de jogos comentados em estúdio, entrevistas e reportagens. A qualquer momento na emissão do Canal 11.</desc>
   </programme>
   <programme start="20200701190000 +0100" stop="20200701193000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Original 11</title>
+    <title lang="en">Original 11</title>
+    <desc lang="en">Um olhar profundo sobre os grandes temas do futebol em formatos de média e grande reportagem, entrevista e documentário.</desc>
   </programme>
-  <programme start="20200701193000 +0100" stop="20200701202000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Superliga Grega - Olympiacos x OFI - Direto</title>
+  <programme start="20200701193000 +0100" stop="20200701213000 +0100" channel="Canal 11 HD">
+    <title lang="en">Olympiakos x OFI Creta (Direto) - Futebol: Superliga Grega</title>
+    <desc lang="en">Transmissão do jogo do Campeonato Grego de futebol, entre Olympiakos e OFI Creta.</desc>
   </programme>
-  <programme start="20200701202000 +0100" stop="20200701203500 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+  <programme start="20200701221500 +0100" stop="20200702010500 +0100" channel="Canal 11 HD">
+    <title lang="en">Futebol Total</title>
+    <desc lang="en">Programa de grande debate de atualidade futebolística, mais informal e mesmo disruptivo no atual panorama televisivo. Enfoque no debate da atualidade com um permanente incentivo à diversidade de opiniões.</desc>
   </programme>
-  <programme start="20200701203500 +0100" stop="20200701213000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Superliga Grega - Olympiacos x OFI - Direto</title>
-  </programme>
-  <programme start="20200701213000 +0100" stop="20200701221500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Liga Suíça - Neuchâtel Xamax x St. Gallen</title>
-  </programme>
-  <programme start="20200701221500 +0100" stop="20200701223000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
-  </programme>
-  <programme start="20200701223000 +0100" stop="20200701231500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Liga Suíça - Neuchâtel Xamax x St. Gallen</title>
-  </programme>
-  <programme start="20200701231500 +0100" stop="20200702010500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Futebol Total</title>
+  <programme start="20200701213000 +0100" stop="20200701231500 +0100" channel="Canal 11 HD">
+    <title lang="en">Neuchâtel Xamax x St. Gallen: Liga Suíça</title>
+    <desc lang="en">Transmissão do jogo do Campeonato Suíço de futebol, entre Neuchâtel Xamax e St. Gallen.</desc>
   </programme>
   <programme start="20200702010500 +0100" stop="20200702012000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200702012000 +0100" stop="20200702014000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
   </programme>
   <programme start="20200702014000 +0100" stop="20200702033500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Liga de Israel - Maccabi Tel Aviv x Beitar Jerusalem FC</title>
+    <title lang="en">Maccabi Telavive x Beitar Jerusalem FC: Liga Israel</title>
   </programme>
   <programme start="20200702033500 +0100" stop="20200702053500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Liga Suíça - Neuchâtel Xamax x St. Gallen</title>
+    <title lang="en">Neuchâtel Xamax x St. Gallen: Liga Suíça</title>
   </programme>
   <programme start="20200702053500 +0100" stop="20200702055000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200702055000 +0100" stop="20200702070000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Mundialito de Clubes - SC Braga x Flamengo</title>
+    <title lang="en">SC Braga x Flamengo - Futebol de Praia - Mundialito de Clubes</title>
   </programme>
   <programme start="20200702070000 +0100" stop="20200702085000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Belenenses x Benfica - Final 1989</title>
+    <title lang="en">Belenenses x Benfica - Final 1989 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200702085000 +0100" stop="20200702094000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Virar o Jogo</title>
+    <title lang="en">Virar o Jogo</title>
   </programme>
   <programme start="20200702094000 +0100" stop="20200702101000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
   </programme>
   <programme start="20200702101000 +0100" stop="20200702104000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
   </programme>
   <programme start="20200702104000 +0100" stop="20200702123000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Futebol Total</title>
+    <title lang="en">Futebol Total</title>
   </programme>
   <programme start="20200702123000 +0100" stop="20200702124500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
   </programme>
   <programme start="20200702124500 +0100" stop="20200702130000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200702130000 +0100" stop="20200702150000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Superliga Grega - Olympiacos x OFI</title>
+    <title lang="en">Olympiakos x OFI Creta - Futebol: Superliga Grega</title>
   </programme>
   <programme start="20200702150000 +0100" stop="20200702164500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Tudo É Futebol</title>
+    <title lang="en">Tudo É Futebol</title>
   </programme>
   <programme start="20200702164500 +0100" stop="20200702170000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200702170000 +0100" stop="20200702173000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
   </programme>
   <programme start="20200702173000 +0100" stop="20200702174500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
   </programme>
   <programme start="20200702174500 +0100" stop="20200702190000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
   </programme>
   <programme start="20200702190000 +0100" stop="20200702191500 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Jogo da Minha Vida</title>
+    <title lang="en">O Jogo da Minha Vida</title>
   </programme>
-  <programme start="20200702191500 +0100" stop="20200702201000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Sporting x SC Braga - Final 2015</title>
+  <programme start="20200702191500 +0100" stop="20200702220000 +0100" channel="Canal 11 HD">
+    <title lang="en">Sporting x SC Braga - Final 2015 - Futebol: Taça de Portugal</title>
   </programme>
-  <programme start="20200702201000 +0100" stop="20200702202500 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+  <programme start="20200702220000 +0100" stop="20200702231500 +0100" channel="Canal 11 HD">
+    <title lang="en">Futebol Total</title>
   </programme>
-  <programme start="20200702202500 +0100" stop="20200702220000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Sporting x SC Braga - Final 2015</title>
-  </programme>
-  <programme start="20200702220000 +0100" stop="20200703000500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Futebol Total</title>
+  <programme start="20200702231500 +0100" stop="20200703000500 +0100" channel="Canal 11 HD">
+    <title lang="en">Futebol Total</title>
   </programme>
   <programme start="20200703000500 +0100" stop="20200703002000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200703002000 +0100" stop="20200703003500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
   </programme>
   <programme start="20200703003500 +0100" stop="20200703030000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Benfica x FC Porto - Final 2004</title>
+    <title lang="en">Benfica x FC Porto - Final 2004 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200703030000 +0100" stop="20200703033000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
   </programme>
   <programme start="20200703033000 +0100" stop="20200703040000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
   </programme>
   <programme start="20200703040000 +0100" stop="20200703064000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Sporting x SC Braga - Final 2015</title>
+    <title lang="en">Sporting x SC Braga - Final 2015 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200703064000 +0100" stop="20200703070000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200703070000 +0100" stop="20200703084500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Benfica x Sporting - Final 1987</title>
+    <title lang="en">Benfica x Sporting - Final 1987 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200703084500 +0100" stop="20200703093000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Virar o Jogo</title>
+    <title lang="en">Virar o Jogo</title>
   </programme>
   <programme start="20200703093000 +0100" stop="20200703095500 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
   </programme>
   <programme start="20200703095500 +0100" stop="20200703102500 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
   </programme>
   <programme start="20200703102500 +0100" stop="20200703123000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Futebol Total</title>
+    <title lang="en">Futebol Total</title>
   </programme>
   <programme start="20200703123000 +0100" stop="20200703124500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
   </programme>
   <programme start="20200703124500 +0100" stop="20200703130000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200703130000 +0100" stop="20200703150000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Benfica x V. Guimarães - Final 2013</title>
+    <title lang="en">Benfica x Vit. Guimarães - Final 2013 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200703150000 +0100" stop="20200703164500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Tudo É Futebol</title>
+    <title lang="en">Tudo É Futebol</title>
   </programme>
   <programme start="20200703164500 +0100" stop="20200703173000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200703173000 +0100" stop="20200703174500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
   </programme>
   <programme start="20200703174500 +0100" stop="20200703184500 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
   </programme>
   <programme start="20200703184500 +0100" stop="20200703190000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Jogo da Minha Vida</title>
+    <title lang="en">O Jogo da Minha Vida</title>
   </programme>
   <programme start="20200703190000 +0100" stop="20200703193000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
   </programme>
   <programme start="20200703193000 +0100" stop="20200703194500 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Jogo da Minha Vida</title>
+    <title lang="en">O Jogo da Minha Vida</title>
   </programme>
-  <programme start="20200703194500 +0100" stop="20200703204500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - V. Guimarães x FC Porto - Final 2011</title>
+  <programme start="20200703194500 +0100" stop="20200703220000 +0100" channel="Canal 11 HD">
+    <title lang="en">Vit. Guimarães x FC Porto - Final 2011 - Futebol: Taça de Portugal</title>
   </programme>
-  <programme start="20200703204500 +0100" stop="20200703210000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
-  </programme>
-  <programme start="20200703210000 +0100" stop="20200703220000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - V. Guimarães x FC Porto - Final 2011</title>
+  <programme start="20200703220000 +0100" stop="20200703220000 +0100" channel="Canal 11 HD">
+    <title lang="en">Futebol Total</title>
   </programme>
   <programme start="20200703220000 +0100" stop="20200704000500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Futebol Total</title>
+    <title lang="en">Futebol Total</title>
   </programme>
   <programme start="20200704000500 +0100" stop="20200704002000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200704002000 +0100" stop="20200704003500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
   </programme>
   <programme start="20200704003500 +0100" stop="20200704021000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Jogo da Minha Vida</title>
+    <title lang="en">O Jogo da Minha Vida</title>
   </programme>
   <programme start="20200704021000 +0100" stop="20200704040000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Sporting x Marítimo - Final 1995</title>
+    <title lang="en">Sporting x Marítimo - Final 1995 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200704040000 +0100" stop="20200704043000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
   </programme>
   <programme start="20200704043000 +0100" stop="20200704050000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Meu Clube</title>
+    <title lang="en">O Meu Clube</title>
   </programme>
   <programme start="20200704050000 +0100" stop="20200704070000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - V. Guimarães x FC Porto - Final 2011</title>
+    <title lang="en">Vit. Guimarães x FC Porto - Final 2011 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200704070000 +0100" stop="20200704090500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Futebol Total</title>
+    <title lang="en">Futebol Total</title>
   </programme>
   <programme start="20200704090500 +0100" stop="20200704092000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
   </programme>
   <programme start="20200704092000 +0100" stop="20200704112000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Benfica x V. Guimarães - Final 2017</title>
+    <title lang="en">Benfica x Vit. Guimarães - Final 2017 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200704112000 +0100" stop="20200704113500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200704113500 +0100" stop="20200704133500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Belenenses x Sporting - Final 2007</title>
+    <title lang="en">Belenenses x Sporting - Final 2007 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200704133500 +0100" stop="20200704135000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
   </programme>
   <programme start="20200704135000 +0100" stop="20200704155000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Boavista x Benfica - Final 1997</title>
+    <title lang="en">Boavista x Benfica - Final 1997 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200704155000 +0100" stop="20200704161000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Reportagem 11</title>
+    <title lang="en">Reportagem 11</title>
   </programme>
   <programme start="20200704161000 +0100" stop="20200704163000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
-  <programme start="20200704163000 +0100" stop="20200704172000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Ekstraklasa - Lech Poznan x Légia Varsóvia - Direto</title>
-  </programme>
-  <programme start="20200704172000 +0100" stop="20200704173500 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
-  </programme>
-  <programme start="20200704173500 +0100" stop="20200704183000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Ekstraklasa - Lech Poznan x Légia Varsóvia - Direto</title>
+  <programme start="20200704163000 +0100" stop="20200704183000 +0100" channel="Canal 11 HD">
+    <title lang="en">Lech Poznan x Legia Varsóvia (Direto): Liga Polaca</title>
   </programme>
   <programme start="20200704183000 +0100" stop="20200704184500 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
   </programme>
   <programme start="20200704184500 +0100" stop="20200704193500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Liga Suíça - FC Basel x Neuchâtel Xamax</title>
+    <title lang="en">FC Basel x Neuchâtel Xamax: Liga Suíça</title>
   </programme>
-  <programme start="20200704193500 +0100" stop="20200704195000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
-  </programme>
-  <programme start="20200704195000 +0100" stop="20200704204500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Liga Suíça - FC Basel x Neuchâtel Xamax</title>
+  <programme start="20200704193500 +0100" stop="20200704204500 +0100" channel="Canal 11 HD">
+    <title lang="en">11 Na Hora</title>
   </programme>
   <programme start="20200704204500 +0100" stop="20200704210000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
+  </programme>
+  <programme start="20200704220000 +0100" stop="20200705001000 +0100" channel="Canal 11 HD">
+    <title lang="en">Futebol Total</title>
   </programme>
   <programme start="20200704210000 +0100" stop="20200704225500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Benfica x V. Setúbal - Final 2005</title>
+    <title lang="en">Benfica x Vit. Setúbal - Final 2005 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200704225500 +0100" stop="20200704231000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
-  </programme>
-  <programme start="20200704231000 +0100" stop="20200705001000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200705001000 +0100" stop="20200705021000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Ekstraklasa - Lech Poznan x Légia Varsóvia</title>
+    <title lang="en">Lech Poznan x Legia Varsóvia: Liga Polaca</title>
   </programme>
   <programme start="20200705021000 +0100" stop="20200705031000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
   </programme>
   <programme start="20200705031000 +0100" stop="20200705051000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Liga Suíça - FC Basel x Neuchâtel Xamax</title>
+    <title lang="en">FC Basel x Neuchâtel Xamax: Liga Suíça</title>
   </programme>
   <programme start="20200705051000 +0100" stop="20200705052500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
   </programme>
   <programme start="20200705052500 +0100" stop="20200705072000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Belenenses x Sporting - Final 2007</title>
+    <title lang="en">Belenenses x Sporting - Final 2007 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200705072000 +0100" stop="20200705073500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200705073500 +0100" stop="20200705100000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Benfica x FC Porto - Final 2004</title>
+    <title lang="en">Benfica x FC Porto - Final 2004 - Futebol: Taça de Portugal</title>
   </programme>
   <programme start="20200705100000 +0100" stop="20200705110000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
   </programme>
   <programme start="20200705110000 +0100" stop="20200705130000 +0100" channel="Canal 11 HD">
-    <title lang="pt">K League 1 - Sangju Sangmu x Jeonbuk Hyundai Motors - Direto</title>
+    <title lang="en">Sangju Sangmu x Jeonbuk FC (Direto): K-League</title>
   </programme>
   <programme start="20200705130000 +0100" stop="20200705131500 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Jogo da Minha Vida</title>
+    <title lang="en">O Jogo da Minha Vida</title>
   </programme>
   <programme start="20200705131500 +0100" stop="20200705133000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Jogo da Minha Vida</title>
+    <title lang="en">O Jogo da Minha Vida</title>
   </programme>
   <programme start="20200705133000 +0100" stop="20200705134500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Original 11</title>
+    <title lang="en">Original 11</title>
   </programme>
   <programme start="20200705134500 +0100" stop="20200705140000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
+    <title lang="en">Amor à Camisola</title>
   </programme>
   <programme start="20200705140000 +0100" stop="20200705160000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Ekstraklasa - MKS Pogón Szczecin x Jagiellonia Bialystok - Direto</title>
+    <title lang="en">Pogon Szczecin x Jagiellonia Bialystok (Direto): Liga Polaca</title>
   </programme>
-  <programme start="20200705160000 +0100" stop="20200705165000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Liga Suíça - St. Gallen x Sion</title>
-  </programme>
-  <programme start="20200705165000 +0100" stop="20200705170500 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
-  </programme>
-  <programme start="20200705170500 +0100" stop="20200705180000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Liga Suíça - St. Gallen x Sion</title>
+  <programme start="20200705160000 +0100" stop="20200705180000 +0100" channel="Canal 11 HD">
+    <title lang="en">St. Gallen x FC Sion: Liga Suíça</title>
   </programme>
   <programme start="20200705180000 +0100" stop="20200705181500 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Jogo da Minha Vida</title>
+    <title lang="en">O Jogo da Minha Vida</title>
   </programme>
   <programme start="20200705181500 +0100" stop="20200705183000 +0100" channel="Canal 11 HD">
-    <title lang="pt">O Jogo da Minha Vida</title>
+    <title lang="en">O Jogo da Minha Vida</title>
   </programme>
   <programme start="20200705183000 +0100" stop="20200705184500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
+    <title lang="en">Sair a Jogar</title>
   </programme>
   <programme start="20200705184500 +0100" stop="20200705190000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Reportagem 11</title>
+    <title lang="en">Reportagem 11</title>
   </programme>
   <programme start="20200705190000 +0100" stop="20200705193000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+    <title lang="en">11 Na Hora</title>
   </programme>
   <programme start="20200705193000 +0100" stop="20200705202000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Superliga Grega - Panathinaikos x Olympiacos - Direto</title>
+    <title lang="en">Panathinaikos x Olympiakos (Direto) - Futebol: Superliga Grega</title>
   </programme>
-  <programme start="20200705202000 +0100" stop="20200705203500 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
+  <programme start="20200705202000 +0100" stop="20200705213000 +0100" channel="Canal 11 HD">
+    <title lang="en">11 Na Hora</title>
   </programme>
-  <programme start="20200705203500 +0100" stop="20200705213000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Superliga Grega - Panathinaikos x Olympiacos - Direto</title>
+  <programme start="20200705231000 +0100" stop="20200706002000 +0100" channel="Canal 11 HD">
+    <title lang="en">11 Na Hora</title>
   </programme>
   <programme start="20200705213000 +0100" stop="20200705232000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Gala Quinas De Ouro</title>
+    <title lang="en">Gala - Quinas de Ouro</title>
   </programme>
-  <programme start="20200705232000 +0100" stop="20200706002000 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
-  </programme>
-  <programme start="20200706002000 +0100" stop="20200706021500 +0100" channel="Canal 11 HD">
-    <title lang="pt">K League 1 - Sangju Sangmu x Jeonbuk Hyundai Motors</title>
-  </programme>
-  <programme start="20200706021500 +0100" stop="20200706031500 +0100" channel="Canal 11 HD">
-    <title lang="pt">11 na Hora</title>
-  </programme>
-  <programme start="20200706031500 +0100" stop="20200706033000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor à Camisola</title>
-  </programme>
-  <programme start="20200706033000 +0100" stop="20200706053000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Superliga Grega - Panathinaikos x Olympiacos</title>
-  </programme>
-  <programme start="20200706053000 +0100" stop="20200706054500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair a Jogar</title>
-  </programme>
-  <programme start="20200706054500 +0100" stop="20200706091500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Taça de Portugal - Benfica x V. Setúbal - Final 2005</title>
-  </programme>
-  <programme start="20200706091500 +0100" stop="20200706151500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20200706151500 +0100" stop="20200706211500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20200706211500 +0100" stop="20200707080000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
+  <programme start="20200706002000 +0100" stop="20200706232000 +0100" channel="Canal 11 HD">
+    <title lang="en">Sangju Sangmu x Jeonbuk FC: K-League</title>
   </programme>
   <programme start="20200630010000 +0100" stop="20200630030500 +0100" channel="NOS Studios  HD">
     <title lang="pt">12 Anos Escravo</title>
@@ -832,348 +1406,6 @@
   </programme>
   <programme start="20200706225000 +0100" stop="20200707011500 +0100" channel="NOS Studios  HD">
     <title lang="pt">Gangster Americano</title>
-  </programme>
-  <programme start="20200630010000 +0100" stop="20200630013000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Work From Home With The Detroit Pistons</title>
-  </programme>
-  <programme start="20200630013000 +0100" stop="20200630020000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Carmelo Anthony</title>
-  </programme>
-  <programme start="20200630020000 +0100" stop="20200630030000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200630030000 +0100" stop="20200630050000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Marquee Matchup - Hawks x Warriors - November 13, 2018</title>
-  </programme>
-  <programme start="20200630050000 +0100" stop="20200630060000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200630060000 +0100" stop="20200630080000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Sixers x Blazers - 1977 NBA Finals - Game 3</title>
-  </programme>
-  <programme start="20200630080000 +0100" stop="20200630083000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Brad Stevens</title>
-  </programme>
-  <programme start="20200630083000 +0100" stop="20200630090000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Work From Home With The New Orleans Pelicans</title>
-  </programme>
-  <programme start="20200630090000 +0100" stop="20200630100000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200630100000 +0100" stop="20200630110000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2010 Playoff Playback - Celtics x Magic - East Finals Game 1</title>
-  </programme>
-  <programme start="20200630110000 +0100" stop="20200630120000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2014 Playoff Playback - Nets x Raptors - East 1St Round Game 7</title>
-  </programme>
-  <programme start="20200630120000 +0100" stop="20200630123000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Work From Home With The Detroit Pistons</title>
-  </programme>
-  <programme start="20200630123000 +0100" stop="20200630130000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Carmelo Anthony</title>
-  </programme>
-  <programme start="20200630130000 +0100" stop="20200630140000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200630140000 +0100" stop="20200630160000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2017 Playoff Playback - Cavaliers x Warriors - NBA Finals - Game 5</title>
-  </programme>
-  <programme start="20200630160000 +0100" stop="20200630170000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200630170000 +0100" stop="20200630190000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Knicks x Heat - 1999 East Game 5</title>
-  </programme>
-  <programme start="20200630190000 +0100" stop="20200630210000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Pistons x Jazz - January 22Nd 1978</title>
-  </programme>
-  <programme start="20200630210000 +0100" stop="20200630230000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Marquee Matchup - Thunder x Sixers - December 15, 2017</title>
-  </programme>
-  <programme start="20200630230000 +0100" stop="20200701010000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2018 Playoff Playbacks - Warriors x Cavaliers - NBA Finals - Game 3</title>
-  </programme>
-  <programme start="20200701010000 +0100" stop="20200701020000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Virtual Roundtable</title>
-  </programme>
-  <programme start="20200701020000 +0100" stop="20200701030000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200701030000 +0100" stop="20200701040000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2016 Playoff Playback - Pistons x Cavaliers - East 1St Round - Game 1</title>
-  </programme>
-  <programme start="20200701040000 +0100" stop="20200701050000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2016 Playoff Playback - Pistons x Cavaliers - East 1St Round Game 2</title>
-  </programme>
-  <programme start="20200701050000 +0100" stop="20200701060000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200701060000 +0100" stop="20200701080000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Knicks x Heat - 1999 East Game 5</title>
-  </programme>
-  <programme start="20200701080000 +0100" stop="20200701090000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Virtual Roundtable</title>
-  </programme>
-  <programme start="20200701090000 +0100" stop="20200701100000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200701100000 +0100" stop="20200701120000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Marquee Matchup - Thunder x Sixers - December 15, 2017</title>
-  </programme>
-  <programme start="20200701120000 +0100" stop="20200701123000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Malcolm Brodgon</title>
-  </programme>
-  <programme start="20200701123000 +0100" stop="20200701130000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Virtual Roundtable</title>
-  </programme>
-  <programme start="20200701130000 +0100" stop="20200701140000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200701140000 +0100" stop="20200701160000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2018 Playoff Playbacks - Warriors x Cavaliers - NBA Finals - Game 3</title>
-  </programme>
-  <programme start="20200701160000 +0100" stop="20200701170000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200701170000 +0100" stop="20200701190000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Special - The Doctor - Julius Erving</title>
-  </programme>
-  <programme start="20200701190000 +0100" stop="20200701210000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2017 Playoff Playback - Cavaliers x Warriors - NBA Finals - Game 5</title>
-  </programme>
-  <programme start="20200701210000 +0100" stop="20200701230000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Nets x Nuggets - 1976 ABA Finals Game 6 - A Game To Remember</title>
-  </programme>
-  <programme start="20200701230000 +0100" stop="20200702010000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2018 Playoff Playbacks - Warriors x Cavaliers - NBA Finals - Game 4</title>
-  </programme>
-  <programme start="20200702010000 +0100" stop="20200702013000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Ray Allen</title>
-  </programme>
-  <programme start="20200702013000 +0100" stop="20200702020000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Work From Home With The Memphis Grizzlies</title>
-  </programme>
-  <programme start="20200702020000 +0100" stop="20200702030000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200702030000 +0100" stop="20200702050000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Special - The Doctor - Julius Erving</title>
-  </programme>
-  <programme start="20200702050000 +0100" stop="20200702060000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200702060000 +0100" stop="20200702080000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2017 Playoff Playback - Cavaliers x Warriors - NBA Finals - Game 5</title>
-  </programme>
-  <programme start="20200702080000 +0100" stop="20200702083000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Ray Allen</title>
-  </programme>
-  <programme start="20200702083000 +0100" stop="20200702090000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Work From Home With The Memphis Grizzlies</title>
-  </programme>
-  <programme start="20200702090000 +0100" stop="20200702100000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200702100000 +0100" stop="20200702120000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Nets x Nuggets - 1976 ABA Finals Game 6 - A Game To Remember</title>
-  </programme>
-  <programme start="20200702120000 +0100" stop="20200702130000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Virtual Roundtable</title>
-  </programme>
-  <programme start="20200702130000 +0100" stop="20200702140000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200702140000 +0100" stop="20200702160000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2018 Playoff Playbacks - Warriors x Cavaliers - NBA Finals - Game 4</title>
-  </programme>
-  <programme start="20200702160000 +0100" stop="20200702170000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200702170000 +0100" stop="20200702190000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Pacers x Hornets - November 28Th 1992</title>
-  </programme>
-  <programme start="20200702190000 +0100" stop="20200702210000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Magic x Rockets - 1995 NBA Finals - Game 4</title>
-  </programme>
-  <programme start="20200702210000 +0100" stop="20200702220000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2014 Playoff Playback - Thunder x Clippers - Semifinals Game 4</title>
-  </programme>
-  <programme start="20200702220000 +0100" stop="20200702230000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2014 Playoff Playback - Clippers x Thunder - West Semifinals Game 5</title>
-  </programme>
-  <programme start="20200702230000 +0100" stop="20200703010000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2019 Playoff Playback - Warriors x Raptors - NBA Finals Game 5</title>
-  </programme>
-  <programme start="20200703010000 +0100" stop="20200703013000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Tobias Harris</title>
-  </programme>
-  <programme start="20200703013000 +0100" stop="20200703020000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Virtual Roundtable</title>
-  </programme>
-  <programme start="20200703020000 +0100" stop="20200703030000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200703030000 +0100" stop="20200703040000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2013 Playoff Playback - Warriors x Spurs - West Semis Game 1</title>
-  </programme>
-  <programme start="20200703040000 +0100" stop="20200703050000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2013 Playoff Playback - Warriors x Spurs - West Semis Game 2</title>
-  </programme>
-  <programme start="20200703050000 +0100" stop="20200703060000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200703060000 +0100" stop="20200703080000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Pacers x Hornets - November 28Th 1992</title>
-  </programme>
-  <programme start="20200703080000 +0100" stop="20200703090000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2014 Playoff Playback - Clippers x Thunder - West Semifinals Game 5</title>
-  </programme>
-  <programme start="20200703090000 +0100" stop="20200703100000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200703100000 +0100" stop="20200703110000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2013 Playoff Playback - Warriors x Spurs - West Semis Game 1</title>
-  </programme>
-  <programme start="20200703110000 +0100" stop="20200703120000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2013 Playoff Playback - Warriors x Spurs - West Semis Game 2</title>
-  </programme>
-  <programme start="20200703120000 +0100" stop="20200703123000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Tobias Harris</title>
-  </programme>
-  <programme start="20200703123000 +0100" stop="20200703130000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Virtual Roundtable</title>
-  </programme>
-  <programme start="20200703130000 +0100" stop="20200703140000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200703140000 +0100" stop="20200703160000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2019 Playoff Playback - Warriors x Raptors - NBA Finals Game 5</title>
-  </programme>
-  <programme start="20200703160000 +0100" stop="20200703170000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200703170000 +0100" stop="20200703190000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Blazers x Lakers - 2000 - West Finals Game 5</title>
-  </programme>
-  <programme start="20200703190000 +0100" stop="20200703210000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Marquee Matchup - Pistons x Bulls - December 18, 2015</title>
-  </programme>
-  <programme start="20200703210000 +0100" stop="20200703230000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Suns x Clippers - 2006 - West Semifinals Game 6</title>
-  </programme>
-  <programme start="20200703230000 +0100" stop="20200704010000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2019 Playoff Playback - Raptors x Warriors- NBA Finals Game 6</title>
-  </programme>
-  <programme start="20200704010000 +0100" stop="20200704020000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Virtual Roundtable</title>
-  </programme>
-  <programme start="20200704020000 +0100" stop="20200704030000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200704030000 +0100" stop="20200704050000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2013 Playoff Playback - Raptors x Bucks - Eastern Finals Game 5</title>
-  </programme>
-  <programme start="20200704050000 +0100" stop="20200704060000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200704060000 +0100" stop="20200704080000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Blazers x Lakers - 2000 - West Finals Game 5</title>
-  </programme>
-  <programme start="20200704080000 +0100" stop="20200704090000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Special - Wilt 100</title>
-  </programme>
-  <programme start="20200704090000 +0100" stop="20200704100000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200704100000 +0100" stop="20200704120000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Marquee Matchup - Pistons x Bulls - December 18, 2015</title>
-  </programme>
-  <programme start="20200704120000 +0100" stop="20200704130000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Virtual Roundtable</title>
-  </programme>
-  <programme start="20200704130000 +0100" stop="20200704140000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200704140000 +0100" stop="20200704160000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2019 Playoff Playback - Raptors x Warriors- NBA Finals Game 6</title>
-  </programme>
-  <programme start="20200704160000 +0100" stop="20200704170000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA GameTime</title>
-  </programme>
-  <programme start="20200704170000 +0100" stop="20200704190000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Nets x Nuggets - 1976 ABA Finals Game 6 - A Game To Remember</title>
-  </programme>
-  <programme start="20200704190000 +0100" stop="20200704210000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Sixers x Blazers - 1977 NBA Finals - Game 3</title>
-  </programme>
-  <programme start="20200704210000 +0100" stop="20200704230000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Pistons x Jazz - January 22Nd 1978</title>
-  </programme>
-  <programme start="20200704230000 +0100" stop="20200705010000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Bullets x Sonics - 1978 NBA Finals - Game 7</title>
-  </programme>
-  <programme start="20200705010000 +0100" stop="20200705013000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Work From Home With The Detroit Pistons</title>
-  </programme>
-  <programme start="20200705013000 +0100" stop="20200705020000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Work From Home With The New Orleans Pelicans</title>
-  </programme>
-  <programme start="20200705020000 +0100" stop="20200705030000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2014 Playoff Playback - Nets x Raptors - East 1St Round Game 7</title>
-  </programme>
-  <programme start="20200705030000 +0100" stop="20200705050000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Knicks x Heat - 1999 East Game 5</title>
-  </programme>
-  <programme start="20200705050000 +0100" stop="20200705070000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Nets x Nuggets - 1976 ABA Finals Game 6 - A Game To Remember</title>
-  </programme>
-  <programme start="20200705070000 +0100" stop="20200705083000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Sixers x Blazers - 1977 NBA Finals - Game 3</title>
-  </programme>
-  <programme start="20200705083000 +0100" stop="20200705103000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Pistons x Jazz - January 22Nd 1978</title>
-  </programme>
-  <programme start="20200705103000 +0100" stop="20200705120000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Bullets x Sonics - 1978 NBA Finals - Game 7</title>
-  </programme>
-  <programme start="20200705120000 +0100" stop="20200705130000 +0100" channel="Sport TV NBA">
-    <title lang="pt">2010 Playoff Playback - Celtics x Magic - East Finals Game 1</title>
-  </programme>
-  <programme start="20200705130000 +0100" stop="20200705133000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Work From Home With The Detroit Pistons</title>
-  </programme>
-  <programme start="20200705133000 +0100" stop="20200705140000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Virtual Roundtable</title>
-  </programme>
-  <programme start="20200705140000 +0100" stop="20200705160000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Knicks x Heat - 1999 East Game 5</title>
-  </programme>
-  <programme start="20200705160000 +0100" stop="20200705180000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Special - The Doctor - Julius Erving</title>
-  </programme>
-  <programme start="20200705180000 +0100" stop="20200705200000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Pacers x Hornets - November 28Th 1992</title>
-  </programme>
-  <programme start="20200705200000 +0100" stop="20200705210000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Virtual Roundtable</title>
-  </programme>
-  <programme start="20200705210000 +0100" stop="20200705230000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Hardwood Classic - Magic x Rockets - 1995 NBA Finals - Game 4</title>
-  </programme>
-  <programme start="20200705230000 +0100" stop="20200705233000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Ray Allen</title>
-  </programme>
-  <programme start="20200705233000 +0100" stop="20200706000000 +0100" channel="Sport TV NBA">
-    <title lang="pt">NBA Together With Virtual Roundtable</title>
-  </programme>
-  <programme start="20200706000000 +0100" stop="20200706080000 +0100" channel="Sport TV NBA">
-    <title lang="pt">A Definir</title>
-  </programme>
-  <programme start="20200706080000 +0100" stop="20200706160000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
-  </programme>
-  <programme start="20200706160000 +0100" stop="20200707000000 +0100" channel="Sport TV NBA">
-    <title lang="pt">Informação Não Disponibilizada Pelo Canal</title>
   </programme>
   <programme start="20200630001200 +0100" stop="20200630003600 +0100" channel="Nick Jr.">
     <title lang="pt">Patrulha Pata</title>
@@ -2885,275 +3117,275 @@
   <programme start="20200706235900 +0100" stop="20200707001200 +0100" channel="Nick Jr.">
     <title lang="pt">Patrulha Pata</title>
   </programme>
-  <programme start="20200630012300 +0100" stop="20200630031500 +0100" channel="AXN Movies HD">
-    <title lang="pt">Green Hornet</title>
+  <programme start="20200630012300 +0100" stop="20200630031500 +0100" channel="AXN Black">
+    <title lang="en">Green Hornet</title>
+    <desc lang="en">Britt Reid, filho do mais respeitado magnata dos média de Los Angeles, leva uma vida boémia, cheia de excessos e festas... Até ao dia em que o pai morre misteriosamente, deixando o vasto império que construiu nas mãos de Britt.</desc>
+  </programme>
+  <programme start="20200630031500 +0100" stop="20200630050500 +0100" channel="AXN Black">
+    <title lang="en">RocknRolla: A Quadrilha</title>
+    <desc lang="en">Em Londres, onde o negócio imobiliário ultrapassou o mercado da droga e os criminosos são os mais recentes empresários. Os patrões do crime querem dominar os negócios, mas o grande prémio cai nas mãos de uma estrela do rock que foi dado como morto, mas que está mais do que vivo..</desc>
+  </programme>
+  <programme start="20200630050500 +0100" stop="20200630064400 +0100" channel="AXN Black">
+    <title lang="en">Eternamente Jovem</title>
+    <desc lang="en">Em 1939, o piloto de ensaios Daniel McCormick depara-se com a morte do amor da sua vida. Incapaz de encarar a vida sozinho, ele oferece-se como voluntário para uma experiência criogénica secreta, mas quando acorda, em 1992, a realidade que encontra é-lhe totalmente desconhecida.</desc>
   </programme>
-  <programme start="20200630031500 +0100" stop="20200630050500 +0100" channel="AXN Movies HD">
-    <title lang="pt">RocknRolla: A Quadrilha</title>
+  <programme start="20200630064400 +0100" stop="20200630083600 +0100" channel="AXN Black">
+    <title lang="en">The International - A Organização</title>
+    <desc lang="en">Louis Salinger, agente da Interpol, e Eleanor Whitman, assistente do procurador-geral de Manhattan, querem desmascarar as atividades ilícitas de um dos bancos mais poderosos do mundo. Seguem o dinheiro de Berlim a Nova Iorque, de Milão a Istambul, e são até obrigados a contornar as leis.</desc>
   </programme>
-  <programme start="20200630050500 +0100" stop="20200630064400 +0100" channel="AXN Movies HD">
-    <title lang="pt">Eternamente Jovem</title>
+  <programme start="20200630083600 +0100" stop="20200630105400 +0100" channel="AXN Black">
+    <title lang="en">A.I. Inteligência Artificial</title>
+    <desc lang="en">Num futuro dominado pelo aquecimento global e temido pelos avanços científicos, os humanos partilham todos os aspetos da sua vida com sofisticados robôs. Quando um avançado robô-criança é programado para demonstrar amor incondicional, a sua família humana não está preparada para as consequências.</desc>
   </programme>
-  <programme start="20200630064400 +0100" stop="20200630083600 +0100" channel="AXN Movies HD">
-    <title lang="pt">The International - A Organização</title>
+  <programme start="20200630105400 +0100" stop="20200630122800 +0100" channel="AXN Black">
+    <title lang="en">Don Juan DeMarco</title>
+    <desc lang="en">Don Juan DeMarco vai para Nova Iorque em busca do amor perdido, mas, sem nada que o agarre à vida, tenta o suicídio. É ajudado pelo Dr. Mickler, um psiquiatra a um passo da reforma. Aos poucos, o médico acredita que ele é o Don Juan das histórias míticas, mas os colegas não aceitam a ideia.</desc>
   </programme>
-  <programme start="20200630083600 +0100" stop="20200630105400 +0100" channel="AXN Movies HD">
-    <title lang="pt">A.I. Inteligência Artificial</title>
+  <programme start="20200630122800 +0100" stop="20200630140300 +0100" channel="AXN Black">
+    <title lang="en">Guerra é Guerra</title>
+    <desc lang="en">Além de agentes de topo da CIA, Tuck e FDR Foster são grandes amigos. Tudo se altera quando descobrem que estão apaixonados pela mesma Lauren, que parece estar de coração dividido. Porém, o que não passava de um jogo de sedução sem consequências, transforma-se numa guerra sem misericórdia.</desc>
   </programme>
-  <programme start="20200630105400 +0100" stop="20200630122800 +0100" channel="AXN Movies HD">
-    <title lang="pt">Don Juan DeMarco</title>
+  <programme start="20200630140300 +0100" stop="20200630155000 +0100" channel="AXN Black">
+    <title lang="en">Left Behind - A Última Profecia</title>
+    <desc lang="en">Após o misterioso desaparecimento de milhões de pessoas em todo o mundo, o piloto Rayford Steele tem de fazer tudo ao seu alcance para proteger os passageiros a bordo do seu voo comercial. Sem apoio e a voar a 30 mil pés, encontra-se entre o céu e o inferno em que se transformou a Terra.</desc>
   </programme>
-  <programme start="20200630122800 +0100" stop="20200630140300 +0100" channel="AXN Movies HD">
-    <title lang="pt">Guerra é Guerra</title>
+  <programme start="20200630155000 +0100" stop="20200630180100 +0100" channel="AXN Black">
+    <title lang="en">Uma Mente Brilhante</title>
+    <desc lang="en">O carismático e brilhante matemático John Nash está prestes a obter o reconhecimento internacional quando se envolve numa misteriosa conspiração. Agora, só a sua dedicada esposa, Alicia, o pode ajudar nesta fascinante história de coragem, paixão e triunfo.</desc>
   </programme>
-  <programme start="20200630140300 +0100" stop="20200630155000 +0100" channel="AXN Movies HD">
-    <title lang="pt">Left Behind - A Última Profecia</title>
+  <programme start="20200630180100 +0100" stop="20200630193200 +0100" channel="AXN Black">
+    <title lang="en">Como Cães Selvagens</title>
+    <desc lang="en">Troy, Diesel e Mad Dog saíram da prisão e tentam adaptar-se à vida civilizada. Troy procura uma vida limpa e sem complicações. Diesel perde o interesse na rotina suburbana e na esposa. Mad Dog planeia um crime perfeito que será a salvação de todos.</desc>
   </programme>
-  <programme start="20200630155000 +0100" stop="20200630180100 +0100" channel="AXN Movies HD">
-    <title lang="pt">Uma Mente Brilhante</title>
+  <programme start="20200630193200 +0100" stop="20200630211500 +0100" channel="AXN Black">
+    <title lang="en">Cães Danados</title>
+    <desc lang="en">Seis criminosos que não se conhecem são contratados para um assalto. Quando este corre mal, o grupo junta-se num armazém para tentar descobrir qual dos elementos do grupo foi o traidor. Por seu lado, todos têm uma palavra a dizer em relação a quem pode ter sido o informador da polícia..</desc>
   </programme>
-  <programme start="20200630180100 +0100" stop="20200630193200 +0100" channel="AXN Movies HD">
-    <title lang="pt">Como Cães Selvagens</title>
+  <programme start="20200630211500 +0100" stop="20200630233300 +0100" channel="AXN Black">
+    <title lang="en">Anjos e Demónios</title>
+    <desc lang="en">O professor de simbologia Robert Langdon é chamado à Suíça para identificar o símbolo gravado no peito de um famoso cientista, brutalmente assassinado. Langdon conclui que a marca é de uma antiga Irmandade secreta chamada Illuminati, supostamente extinta há séculos e inimiga da Igreja Católica.</desc>
   </programme>
-  <programme start="20200630193200 +0100" stop="20200630211500 +0100" channel="AXN Movies HD">
-    <title lang="pt">Cães Danados</title>
+  <programme start="20200630233300 +0100" stop="20200701011900 +0100" channel="AXN Black">
+    <title lang="en">Step Up</title>
+    <desc lang="en">Tyler é um rebelde que vive na zona pobre de Baltimore, enquanto Nora é uma rapariga privilegiada, primeira bailarina numa escola de elite de artes. Os dois mundos não poderiam ser mais diferentes, mas cruzam-se quando Tyler é obrigado a prestar serviço comunitário na escola de Nora.</desc>
   </programme>
-  <programme start="20200630211500 +0100" stop="20200630233300 +0100" channel="AXN Movies HD">
-    <title lang="pt">Anjos e Demónios</title>
+  <programme start="20200701011900 +0100" stop="20200701032600 +0100" channel="AXN Black">
+    <title lang="en">Universidade Marshall</title>
+    <desc lang="en">Um desastre de avião provocou a morte da maioria da equipa de futebol americano da Universidade Marshall e de alguns dos seus fãs. Agora, o novo treinador e os jogadores sobreviventes têm de manter ativo o programa de desporto da faculdade e ajudar a comunidade a ultrapassar a tragédia.</desc>
   </programme>
-  <programme start="20200630233300 +0100" stop="20200701011900 +0100" channel="AXN Movies HD">
-    <title lang="pt">Step Up</title>
+  <programme start="20200701032600 +0100" stop="20200701050700 +0100" channel="AXN Black">
+    <title lang="en">Cartas Para Julieta</title>
+    <desc lang="en">Uma jovem americana viaja até à cidade de Verona (de onde é originária Julieta Capuleto, da conhecida história "Romeu e Julieta", de Shakespeare) e decide aderir a um grupo de voluntários que respondem a cartas endereçadas a Julieta, dando conselhos amorosos aos seus remetentes.</desc>
   </programme>
-  <programme start="20200701011900 +0100" stop="20200701032600 +0100" channel="AXN Movies HD">
-    <title lang="pt">Universidade Marshall</title>
+  <programme start="20200701050700 +0100" stop="20200701070000 +0100" channel="AXN Black">
+    <title lang="en">A Princesa Prometida</title>
+    <desc lang="en">Enquanto está doente de cama, um menino ouve do avô a história fantástica de um jovem que se torna pirata e encontra vários obstáculos, inimigos e aliados na épica jornada para salvar o seu grande amor, a Princesa Buttercup.</desc>
   </programme>
-  <programme start="20200701032600 +0100" stop="20200701050700 +0100" channel="AXN Movies HD">
-    <title lang="pt">Cartas Para Julieta</title>
+  <programme start="20200701070000 +0100" stop="20200701071600 +0100" channel="AXN Black">
+    <title lang="en">Mentes Criminosas</title>
+    <desc lang="en">Com um assassino em série à solta no Wisconsin, a UAC tem de encontrar uma ligação entre as mortes, com o objetivo de apresentar o perfil e identificar o suspeito.</desc>
   </programme>
-  <programme start="20200701050700 +0100" stop="20200701064300 +0100" channel="AXN Movies HD">
-    <title lang="pt">A Princesa Prometida</title>
+  <programme start="20200701071600 +0100" stop="20200701090600 +0100" channel="AXN Black">
+    <title lang="en">Green Hornet</title>
+    <desc lang="en">Britt Reid, filho do mais respeitado magnata dos média de Los Angeles, leva uma vida boémia, cheia de excessos e festas... Até ao dia em que o pai morre misteriosamente, deixando o vasto império que construiu nas mãos de Britt.</desc>
   </programme>
-  <programme start="20200701064300 +0100" stop="20200701083400 +0100" channel="AXN Movies HD">
-    <title lang="pt">Green Hornet</title>
+  <programme start="20200701090600 +0100" stop="20200701105400 +0100" channel="AXN Black">
+    <title lang="en">RocknRolla: A Quadrilha</title>
+    <desc lang="en">Em Londres, onde o negócio imobiliário ultrapassou o mercado da droga e os criminosos são os mais recentes empresários. Os patrões do crime querem dominar os negócios, mas o grande prémio cai nas mãos de uma estrela do rock que foi dado como morto, mas que está mais do que vivo..</desc>
   </programme>
-  <programme start="20200701083400 +0100" stop="20200701105300 +0100" channel="AXN Movies HD">
-    <title lang="pt">RocknRolla: A Quadrilha</title>
+  <programme start="20200701105400 +0100" stop="20200701130500 +0100" channel="AXN Black">
+    <title lang="en">Anjos e Demónios</title>
+    <desc lang="en">O professor de simbologia Robert Langdon é chamado à Suíça para identificar o símbolo gravado no peito de um famoso cientista, brutalmente assassinado. Langdon conclui que a marca é de uma antiga Irmandade secreta chamada Illuminati, supostamente extinta há séculos e inimiga da Igreja Católica.</desc>
   </programme>
-  <programme start="20200701105300 +0100" stop="20200701130800 +0100" channel="AXN Movies HD">
-    <title lang="pt">Anjos e Demónios</title>
+  <programme start="20200701130500 +0100" stop="20200701144600 +0100" channel="AXN Black">
+    <title lang="en">Step Up</title>
+    <desc lang="en">Tyler é um rebelde que vive na zona pobre de Baltimore, enquanto Nora é uma rapariga privilegiada, primeira bailarina numa escola de elite de artes. Os dois mundos não poderiam ser mais diferentes, mas cruzam-se quando Tyler é obrigado a prestar serviço comunitário na escola de Nora.</desc>
   </programme>
-  <programme start="20200701130800 +0100" stop="20200701145000 +0100" channel="AXN Movies HD">
-    <title lang="pt">Step Up</title>
+  <programme start="20200701144600 +0100" stop="20200701174900 +0100" channel="AXN Black">
+    <title lang="en">Magnolia</title>
+    <desc lang="en">O cruzamento de pequenas histórias, do amor à busca de uma redenção que não chega, que atravessa o tecido social norte-americano como uma "flecha". Interligadas, estas histórias têm, como pano de fundo, a procura de felicidade e libertação.</desc>
   </programme>
-  <programme start="20200701145000 +0100" stop="20200701175200 +0100" channel="AXN Movies HD">
-    <title lang="pt">Magnolia</title>
+  <programme start="20200701174900 +0100" stop="20200701192200 +0100" channel="AXN Black">
+    <title lang="en">Hancock</title>
+    <desc lang="en">John Hancock é uma espécie de herói pouco popular, que se sente insatisfeito, atormentado e incompreendido. As suas ações heroicas salvam muitas vidas mas, ao mesmo tempo, provocam autênticas catástrofes. Ainda que a população esteja agradecida, a maioria dos habitantes de Los Angeles não o suporta.</desc>
   </programme>
-  <programme start="20200701175200 +0100" stop="20200701192300 +0100" channel="AXN Movies HD">
-    <title lang="pt">Hancock</title>
+  <programme start="20200701192200 +0100" stop="20200701211500 +0100" channel="AXN Black">
+    <title lang="en">Exterminador Implacável - A Salvação</title>
+    <desc lang="en">No ano pós-apocalíptico de 2018, John Connor é o homem destinado a liderar a resistência humana contra a skynet e o seu exército de exterminadores. Mas a chegada de Marcus Wright mudará tudo.</desc>
   </programme>
-  <programme start="20200701192300 +0100" stop="20200701211500 +0100" channel="AXN Movies HD">
-    <title lang="pt">Exterminador Implacável - A Salvação</title>
+  <programme start="20200701211500 +0100" stop="20200701225100 +0100" channel="AXN Black">
+    <title lang="en">6 Dias</title>
+    <desc lang="en">Em abril de 1980, homens armados invadiram a Embaixada do Irão, em Londres. A história verdadeira dos seis dias de terror aquando da ocupação, que resultou em 26 reféns.</desc>
   </programme>
-  <programme start="20200701211500 +0100" stop="20200701224900 +0100" channel="AXN Movies HD">
-    <title lang="pt">6 Dias</title>
+  <programme start="20200701225100 +0100" stop="20200701233300 +0100" channel="AXN Black">
+    <title lang="en">Snatch - Porcos e Diamantes</title>
+    <desc lang="en">Promotores de boxe sem escrúpulos, agentes violentos, um gangster russo, ladrões incompetentes, supostos judeus joalheiros, um cigano muito colorido e um cão... todos lutam para encontrar um diamante roubado, no bairro judeu de Londres.</desc>
   </programme>
-  <programme start="20200701224900 +0100" stop="20200702003600 +0100" channel="AXN Movies HD">
-    <title lang="pt">Snatch - Porcos e Diamantes</title>
+  <programme start="20200701233300 +0100" stop="20200702003200 +0100" channel="AXN Black">
+    <title lang="en">Step Up</title>
+    <desc lang="en">Tyler é um rebelde que vive na zona pobre de Baltimore, enquanto Nora é uma rapariga privilegiada, primeira bailarina numa escola de elite de artes. Os dois mundos não poderiam ser mais diferentes, mas cruzam-se quando Tyler é obrigado a prestar serviço comunitário na escola de Nora.</desc>
   </programme>
-  <programme start="20200702003600 +0100" stop="20200702021300 +0100" channel="AXN Movies HD">
-    <title lang="pt">Duas Semanas</title>
+  <programme start="20200702003200 +0100" stop="20200702020500 +0100" channel="AXN Black">
+    <title lang="en">Duas Semanas</title>
   </programme>
-  <programme start="20200702021300 +0100" stop="20200702034700 +0100" channel="AXN Movies HD">
-    <title lang="pt">Guerra é Guerra</title>
+  <programme start="20200702020500 +0100" stop="20200702033600 +0100" channel="AXN Black">
+    <title lang="en">Guerra é Guerra</title>
   </programme>
-  <programme start="20200702034700 +0100" stop="20200702054200 +0100" channel="AXN Movies HD">
-    <title lang="pt">As Mulherzinhas</title>
+  <programme start="20200702033600 +0100" stop="20200702052800 +0100" channel="AXN Black">
+    <title lang="en">As Mulherzinhas</title>
   </programme>
-  <programme start="20200702054200 +0100" stop="20200702071200 +0100" channel="AXN Movies HD">
-    <title lang="pt">Como Cães Selvagens</title>
+  <programme start="20200702052800 +0100" stop="20200702071200 +0100" channel="AXN Black">
+    <title lang="en">Como Cães Selvagens</title>
   </programme>
-  <programme start="20200702071200 +0100" stop="20200702084500 +0100" channel="AXN Movies HD">
-    <title lang="pt">Negócio Arriscado (1983)</title>
+  <programme start="20200702071200 +0100" stop="20200702084500 +0100" channel="AXN Black">
+    <title lang="en">Negócio Arriscado</title>
   </programme>
-  <programme start="20200702084500 +0100" stop="20200702101900 +0100" channel="AXN Movies HD">
-    <title lang="pt">A Princesa Prometida</title>
+  <programme start="20200702084500 +0100" stop="20200702101900 +0100" channel="AXN Black">
+    <title lang="en">A Princesa Prometida</title>
   </programme>
-  <programme start="20200702101900 +0100" stop="20200702123400 +0100" channel="AXN Movies HD">
-    <title lang="pt">O Advogado do Diabo</title>
+  <programme start="20200702101900 +0100" stop="20200702123400 +0100" channel="AXN Black">
+    <title lang="en">O Advogado do Diabo</title>
   </programme>
-  <programme start="20200702123400 +0100" stop="20200702144400 +0100" channel="AXN Movies HD">
-    <title lang="pt">Karate Kid (2010)</title>
+  <programme start="20200702123400 +0100" stop="20200702144400 +0100" channel="AXN Black">
+    <title lang="en">The Karate Kid</title>
   </programme>
-  <programme start="20200702144400 +0100" stop="20200702170800 +0100" channel="AXN Movies HD">
-    <title lang="pt">A.I. Inteligência Artificial</title>
+  <programme start="20200702144400 +0100" stop="20200702170800 +0100" channel="AXN Black">
+    <title lang="en">A.I. Inteligência Artificial</title>
   </programme>
-  <programme start="20200702170800 +0100" stop="20200702191200 +0100" channel="AXN Movies HD">
-    <title lang="pt">Frankenstein de Mary Shelley</title>
+  <programme start="20200702170800 +0100" stop="20200702191200 +0100" channel="AXN Black">
+    <title lang="en">Frankenstein de Mary Shelley</title>
   </programme>
-  <programme start="20200702191200 +0100" stop="20200702211500 +0100" channel="AXN Movies HD">
-    <title lang="pt">Limite Vertical</title>
+  <programme start="20200702191200 +0100" stop="20200702211500 +0100" channel="AXN Black">
+    <title lang="en">Limite Vertical</title>
   </programme>
-  <programme start="20200702211500 +0100" stop="20200702225400 +0100" channel="AXN Movies HD">
-    <title lang="pt">Outcast - O Último Templário</title>
+  <programme start="20200702225100 +0100" stop="20200703004100 +0100" channel="AXN Black">
+    <title lang="en">Snatch - Porcos e Diamantes</title>
   </programme>
-  <programme start="20200702225400 +0100" stop="20200703004100 +0100" channel="AXN Movies HD">
-    <title lang="pt">Num Outro Tom</title>
+  <programme start="20200702211500 +0100" stop="20200702225400 +0100" channel="AXN Black">
+    <title lang="en">Outcast - O Último Templário</title>
   </programme>
-  <programme start="20200703004100 +0100" stop="20200703025300 +0100" channel="AXN Movies HD">
-    <title lang="pt">Anjos e Demónios</title>
+  <programme start="20200703004100 +0100" stop="20200703025300 +0100" channel="AXN Black">
+    <title lang="en">Anjos e Demónios</title>
   </programme>
-  <programme start="20200703025300 +0100" stop="20200703043000 +0100" channel="AXN Movies HD">
-    <title lang="pt">Cães Danados</title>
+  <programme start="20200703025300 +0100" stop="20200703043000 +0100" channel="AXN Black">
+    <title lang="en">Cães Danados</title>
   </programme>
-  <programme start="20200703043000 +0100" stop="20200703060800 +0100" channel="AXN Movies HD">
-    <title lang="pt">Dança Comigo</title>
+  <programme start="20200703043000 +0100" stop="20200703060800 +0100" channel="AXN Black">
+    <title lang="en">Dança Comigo</title>
   </programme>
-  <programme start="20200703060800 +0100" stop="20200703074500 +0100" channel="AXN Movies HD">
-    <title lang="pt">6 Dias</title>
+  <programme start="20200703060800 +0100" stop="20200703074500 +0100" channel="AXN Black">
+    <title lang="en">6 Dias</title>
   </programme>
-  <programme start="20200703074500 +0100" stop="20200703092300 +0100" channel="AXN Movies HD">
-    <title lang="pt">Snatch - Porcos e Diamantes</title>
+  <programme start="20200703074500 +0100" stop="20200703092300 +0100" channel="AXN Black">
+    <title lang="en">Snatch - Porcos e Diamantes</title>
   </programme>
-  <programme start="20200703092300 +0100" stop="20200703105500 +0100" channel="AXN Movies HD">
-    <title lang="pt">Guerra é Guerra</title>
+  <programme start="20200703092300 +0100" stop="20200703105500 +0100" channel="AXN Black">
+    <title lang="en">Guerra é Guerra</title>
   </programme>
-  <programme start="20200703105500 +0100" stop="20200703130000 +0100" channel="AXN Movies HD">
-    <title lang="pt">Larry Flynt</title>
+  <programme start="20200703105500 +0100" stop="20200703130000 +0100" channel="AXN Black">
+    <title lang="en">Larry Flynt</title>
   </programme>
-  <programme start="20200703130000 +0100" stop="20200703143000 +0100" channel="AXN Movies HD">
-    <title lang="pt">Como Cães Selvagens</title>
+  <programme start="20200703130000 +0100" stop="20200703143000 +0100" channel="AXN Black">
+    <title lang="en">Como Cães Selvagens</title>
   </programme>
-  <programme start="20200703143000 +0100" stop="20200703164700 +0100" channel="AXN Movies HD">
-    <title lang="pt">Linha Mortal (1990)</title>
+  <programme start="20200703143000 +0100" stop="20200703164700 +0100" channel="AXN Black">
+    <title lang="en">Linha Mortal</title>
   </programme>
-  <programme start="20200703164700 +0100" stop="20200703183200 +0100" channel="AXN Movies HD">
-    <title lang="pt">Um Mal Nunca Vem Só</title>
+  <programme start="20200703164700 +0100" stop="20200703183200 +0100" channel="AXN Black">
+    <title lang="en">Um Mal Nunca Vem Só</title>
   </programme>
-  <programme start="20200703183200 +0100" stop="20200703190200 +0100" channel="AXN Movies HD">
-    <title lang="pt">Close Up</title>
+  <programme start="20200703183200 +0100" stop="20200703190200 +0100" channel="AXN Black">
+    <title lang="en">Um Mal Nunca Vem Só</title>
   </programme>
-  <programme start="20200703190200 +0100" stop="20200703211500 +0100" channel="AXN Movies HD">
-    <title lang="pt">Capitão Phillips</title>
+  <programme start="20200703190200 +0100" stop="20200703211500 +0100" channel="AXN Black">
+    <title lang="en">Capitão Phillips</title>
   </programme>
-  <programme start="20200703211500 +0100" stop="20200703225600 +0100" channel="AXN Movies HD">
-    <title lang="pt">Máximo Risco</title>
+  <programme start="20200703225400 +0100" stop="20200704004400 +0100" channel="AXN Black">
+    <title lang="en">Num Outro Tom</title>
   </programme>
-  <programme start="20200703225600 +0100" stop="20200704004400 +0100" channel="AXN Movies HD">
-    <title lang="pt">Distrito 9</title>
+  <programme start="20200703211500 +0100" stop="20200703225600 +0100" channel="AXN Black">
+    <title lang="en">Máximo Risco</title>
   </programme>
-  <programme start="20200704004400 +0100" stop="20200704023100 +0100" channel="AXN Movies HD">
-    <title lang="pt">Left Behind - A Última Profecia</title>
+  <programme start="20200704004400 +0100" stop="20200704023100 +0100" channel="AXN Black">
+    <title lang="en">Left Behind - A Última Profecia</title>
   </programme>
-  <programme start="20200704023100 +0100" stop="20200704041600 +0100" channel="AXN Movies HD">
-    <title lang="pt">Michael</title>
+  <programme start="20200704023100 +0100" stop="20200704041600 +0100" channel="AXN Black">
+    <title lang="en">Michael</title>
   </programme>
-  <programme start="20200704041600 +0100" stop="20200704060600 +0100" channel="AXN Movies HD">
-    <title lang="pt">Green Hornet</title>
+  <programme start="20200704041600 +0100" stop="20200704060600 +0100" channel="AXN Black">
+    <title lang="en">Green Hornet</title>
   </programme>
-  <programme start="20200704060600 +0100" stop="20200704082300 +0100" channel="AXN Movies HD">
-    <title lang="pt">Universidade Marshall</title>
+  <programme start="20200704060600 +0100" stop="20200704082300 +0100" channel="AXN Black">
+    <title lang="en">Universidade Marshall</title>
   </programme>
-  <programme start="20200704082300 +0100" stop="20200704095800 +0100" channel="AXN Movies HD">
-    <title lang="pt">Cães Danados</title>
+  <programme start="20200704082300 +0100" stop="20200704095800 +0100" channel="AXN Black">
+    <title lang="en">Cães Danados</title>
   </programme>
-  <programme start="20200704095800 +0100" stop="20200704113800 +0100" channel="AXN Movies HD">
-    <title lang="pt">Snatch - Porcos e Diamantes</title>
+  <programme start="20200704095800 +0100" stop="20200704113800 +0100" channel="AXN Black">
+    <title lang="en">Snatch - Porcos e Diamantes</title>
   </programme>
-  <programme start="20200704113800 +0100" stop="20200704131400 +0100" channel="AXN Movies HD">
-    <title lang="pt">Outcast - O Último Templário</title>
+  <programme start="20200704113800 +0100" stop="20200704131400 +0100" channel="AXN Black">
+    <title lang="en">Outcast - O Último Templário</title>
   </programme>
-  <programme start="20200704131400 +0100" stop="20200704145300 +0100" channel="AXN Movies HD">
-    <title lang="pt">Negócio Arriscado (1983)</title>
+  <programme start="20200704131400 +0100" stop="20200704145300 +0100" channel="AXN Black">
+    <title lang="en">Negócio Arriscado</title>
   </programme>
-  <programme start="20200704145300 +0100" stop="20200704171800 +0100" channel="AXN Movies HD">
-    <title lang="pt">O Lado Selvagem</title>
+  <programme start="20200704145300 +0100" stop="20200704171800 +0100" channel="AXN Black">
+    <title lang="en">O Lado Selvagem</title>
   </programme>
-  <programme start="20200704171800 +0100" stop="20200704185600 +0100" channel="AXN Movies HD">
-    <title lang="pt">Rangoon</title>
+  <programme start="20200704171800 +0100" stop="20200704185600 +0100" channel="AXN Black">
+    <title lang="en">Rangoon</title>
   </programme>
-  <programme start="20200704185600 +0100" stop="20200704211500 +0100" channel="AXN Movies HD">
-    <title lang="pt">Greystoke - A Lenda de Tarzan o Rei da Selva</title>
+  <programme start="20200704185600 +0100" stop="20200704211500 +0100" channel="AXN Black">
+    <title lang="en">Greystoke - A Lenda de Tarzan, Rei das Selvas</title>
   </programme>
-  <programme start="20200704211500 +0100" stop="20200704231100 +0100" channel="AXN Movies HD">
-    <title lang="pt">Speed - Perigo a Alta Velocidade</title>
+  <programme start="20200704225600 +0100" stop="20200705010100 +0100" channel="AXN Black">
+    <title lang="en">Distrito 9</title>
   </programme>
-  <programme start="20200704231100 +0100" stop="20200705010100 +0100" channel="AXN Movies HD">
-    <title lang="pt">Push - Os Poderosos</title>
+  <programme start="20200704211500 +0100" stop="20200704231100 +0100" channel="AXN Black">
+    <title lang="en">Speed - Perigo a Alta Velocidade</title>
   </programme>
-  <programme start="20200705010100 +0100" stop="20200705023400 +0100" channel="AXN Movies HD">
-    <title lang="pt">Como Cães Selvagens</title>
+  <programme start="20200705010100 +0100" stop="20200705023400 +0100" channel="AXN Black">
+    <title lang="en">Como Cães Selvagens</title>
   </programme>
-  <programme start="20200705023400 +0100" stop="20200705040200 +0100" channel="AXN Movies HD">
-    <title lang="pt">Hancock</title>
+  <programme start="20200705023400 +0100" stop="20200705040200 +0100" channel="AXN Black">
+    <title lang="en">Hancock</title>
   </programme>
-  <programme start="20200705040200 +0100" stop="20200705054700 +0100" channel="AXN Movies HD">
-    <title lang="pt">Num Outro Tom</title>
+  <programme start="20200705040200 +0100" stop="20200705054700 +0100" channel="AXN Black">
+    <title lang="en">Num Outro Tom</title>
   </programme>
-  <programme start="20200705054700 +0100" stop="20200705082100 +0100" channel="AXN Movies HD">
-    <title lang="pt">Anjos e Demónios</title>
+  <programme start="20200705054700 +0100" stop="20200705082100 +0100" channel="AXN Black">
+    <title lang="en">Anjos e Demónios</title>
   </programme>
-  <programme start="20200705082100 +0100" stop="20200705095100 +0100" channel="AXN Movies HD">
-    <title lang="pt">6 Dias</title>
+  <programme start="20200705082100 +0100" stop="20200705095100 +0100" channel="AXN Black">
+    <title lang="en">6 Dias</title>
   </programme>
-  <programme start="20200705095100 +0100" stop="20200705115900 +0100" channel="AXN Movies HD">
-    <title lang="pt">Capitão Phillips</title>
+  <programme start="20200705095100 +0100" stop="20200705115900 +0100" channel="AXN Black">
+    <title lang="en">Capitão Phillips</title>
   </programme>
-  <programme start="20200705115900 +0100" stop="20200705140000 +0100" channel="AXN Movies HD">
-    <title lang="pt">Frankenstein de Mary Shelley</title>
+  <programme start="20200705115900 +0100" stop="20200705140000 +0100" channel="AXN Black">
+    <title lang="en">Frankenstein de Mary Shelley</title>
   </programme>
-  <programme start="20200705140000 +0100" stop="20200705160500 +0100" channel="AXN Movies HD">
-    <title lang="pt">Em Busca da Felicidade (2006)</title>
+  <programme start="20200705140000 +0100" stop="20200705160500 +0100" channel="AXN Black">
+    <title lang="en">Em Busca da Felicidade</title>
   </programme>
-  <programme start="20200705160500 +0100" stop="20200705175100 +0100" channel="AXN Movies HD">
-    <title lang="pt">Michael</title>
+  <programme start="20200705160500 +0100" stop="20200705175100 +0100" channel="AXN Black">
+    <title lang="en">Michael</title>
   </programme>
-  <programme start="20200705175100 +0100" stop="20200705192900 +0100" channel="AXN Movies HD">
-    <title lang="pt">A Minha Namorada Tem Amnésia</title>
+  <programme start="20200705175100 +0100" stop="20200705192900 +0100" channel="AXN Black">
+    <title lang="en">A Minha Namorada Tem Amnésia</title>
   </programme>
-  <programme start="20200705192900 +0100" stop="20200705211500 +0100" channel="AXN Movies HD">
-    <title lang="pt">Amor e Mentiras</title>
+  <programme start="20200705192900 +0100" stop="20200705211500 +0100" channel="AXN Black">
+    <title lang="en">Amor e Mentiras</title>
   </programme>
-  <programme start="20200705211500 +0100" stop="20200705231800 +0100" channel="AXN Movies HD">
-    <title lang="pt">Speed 2: Perigo a Bordo</title>
+  <programme start="20200705231100 +0100" stop="20200706005800 +0100" channel="AXN Black">
+    <title lang="en">Push - Os Poderosos</title>
   </programme>
-  <programme start="20200705231800 +0100" stop="20200706005800 +0100" channel="AXN Movies HD">
-    <title lang="pt">Fargo</title>
+  <programme start="20200705211500 +0100" stop="20200705231800 +0100" channel="AXN Black">
+    <title lang="en">Speed 2: Perigo a Bordo</title>
   </programme>
-  <programme start="20200706005800 +0100" stop="20200706025000 +0100" channel="AXN Movies HD">
-    <title lang="pt">Taxi Driver</title>
-  </programme>
-  <programme start="20200706025000 +0100" stop="20200706045000 +0100" channel="AXN Movies HD">
-    <title lang="pt">Limite Vertical</title>
-  </programme>
-  <programme start="20200706045000 +0100" stop="20200706072400 +0100" channel="AXN Movies HD">
-    <title lang="pt">Larry Flynt</title>
-  </programme>
-  <programme start="20200706072400 +0100" stop="20200706094000 +0100" channel="AXN Movies HD">
-    <title lang="pt">Karate Kid (2010)</title>
-  </programme>
-  <programme start="20200706094000 +0100" stop="20200706112300 +0100" channel="AXN Movies HD">
-    <title lang="pt">Num Outro Tom</title>
-  </programme>
-  <programme start="20200706112300 +0100" stop="20200706134300 +0100" channel="AXN Movies HD">
-    <title lang="pt">O Advogado do Diabo</title>
-  </programme>
-  <programme start="20200706134300 +0100" stop="20200706152800 +0100" channel="AXN Movies HD">
-    <title lang="pt">Distrito 9</title>
-  </programme>
-  <programme start="20200706152800 +0100" stop="20200706165900 +0100" channel="AXN Movies HD">
-    <title lang="pt">Hancock</title>
-  </programme>
-  <programme start="20200706165900 +0100" stop="20200706184100 +0100" channel="AXN Movies HD">
-    <title lang="pt">O Poder e o Impossível</title>
-  </programme>
-  <programme start="20200706184100 +0100" stop="20200706211500 +0100" channel="AXN Movies HD">
-    <title lang="pt">A Cor Púrpura</title>
-  </programme>
-  <programme start="20200706211500 +0100" stop="20200706232900 +0100" channel="AXN Movies HD">
-    <title lang="pt">O Fantástico Homem-Aranha</title>
-  </programme>
-  <programme start="20200706232900 +0100" stop="20200707013500 +0100" channel="AXN Movies HD">
-    <title lang="pt">Desejos Finais</title>
+  <programme start="20200706005800 +0100" stop="20200706231800 +0100" channel="AXN Black">
+    <title lang="en">Taxi Driver</title>
   </programme>
   <programme start="20200630010000 +0100" stop="20200630020000 +0100" channel="ID Investigation Discovery">
     <title lang="pt">Gone</title>
