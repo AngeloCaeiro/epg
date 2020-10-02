@@ -9,6 +9,610 @@
     <display-name lang="pt">RTP 2</display-name>
     <url>http://www.vodafone.pt</url>
   </channel>
+  <channel id="TVI HD">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">RTP 3</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVI24 HD">
+    <display-name lang="pt">TVI24</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="CMTV Portugal">
+    <display-name lang="pt">CMTV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canal 11 HD">
+    <display-name lang="pt">Canal 11</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP Memoria">
+    <display-name lang="pt">RTP Memoria</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="24Kitchen HD">
+    <display-name lang="pt">24Kitchen</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canal Q HD">
+    <display-name lang="pt">Canal Q</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV + HD">
+    <display-name lang="pt">Sport TV +</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV 1 HD">
+    <display-name lang="pt">Sport TV 1</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV 2 HD">
+    <display-name lang="pt">Sport TV 2</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV 3 HD">
+    <display-name lang="pt">Sport TV 3</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV 4 HD">
+    <display-name lang="pt">Sport TV 4</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sport TV 5 HD">
+    <display-name lang="pt">Sport TV 5</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="A Bola TV HD">
+    <display-name lang="pt">A Bola TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Benfica TV HD">
+    <display-name lang="pt">Benfica TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sporting TV HD">
+    <display-name lang="pt">Sporting TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPTV NBA">
+    <display-name lang="pt">Sport TV NBA</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eurosport HD">
+    <display-name lang="pt">Eurosport</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eurosport 2 HD">
+    <display-name lang="pt">Eurosport 2</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven Sports 1">
+    <display-name lang="pt">Eleven Sports 1</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven Sports 2">
+    <display-name lang="pt">Eleven Sports 2</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven Sports 3">
+    <display-name lang="pt">Eleven Sports 3</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven Sports 4">
+    <display-name lang="pt">Eleven Sports 4</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven Sports 5">
+    <display-name lang="pt">Eleven Sports 5</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eleven Sports 6">
+    <display-name lang="pt">Eleven Sports 6</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fuel TV HD">
+    <display-name lang="pt">Fuel TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PFC</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Panda">
+    <display-name lang="pt">Panda</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Panda Biggs">
+    <display-name lang="pt">Panda Biggs</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC K">
+    <display-name lang="pt">SIC K</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Super RTL">
+    <display-name lang="pt">Super RTL</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Top HD">
+    <display-name lang="pt">TVCine Top HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Edition HD">
+    <display-name lang="pt">TVCine Edition HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Emotion HD">
+    <display-name lang="pt">TVCine Emotion HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVCine Action HD">
+    <display-name lang="pt">TVCine Action HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Series HD">
+    <display-name lang="pt">TV Series HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Hollywood HD">
+    <display-name lang="pt">Hollywood HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Cinemundo">
+    <display-name lang="pt">Cinemundo</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fox Movies HD">
+    <display-name lang="pt">Fox Movies HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fox HD">
+    <display-name lang="pt">Fox HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="NOS Studios  HD">
+    <display-name lang="pt">NOS Studios  HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="Casa e Cozinha HD">
+    <display-name lang="pt">Casa e Cozinha HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="pt">AXN HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fox Life HD">
+    <display-name lang="pt">Fox Life HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fox Crime HD">
+    <display-name lang="pt">Fox Crime HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FOX Comedy HD">
+    <display-name lang="pt">FOX Comedy HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AXN White HD">
+    <display-name lang="pt">AXN White HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AXN Movies HD">
+    <display-name lang="pt">AXN Movies HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SyFy HD">
+    <display-name lang="pt">SyFy HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MTV Portugal HD">
+    <display-name lang="pt">MTV Portugal HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="VH1 Europe">
+    <display-name lang="pt">VH1 Europe</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Stingray Classica HD">
+    <display-name lang="pt">Stingray Classica HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DJAZZ">
+    <display-name lang="pt">DJAZZ</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MCM TOP">
+    <display-name lang="pt">MCM TOP</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MCM POP">
+    <display-name lang="pt">MCM POP</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="C Music TV">
+    <display-name lang="pt">C Music TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MEZZO">
+    <display-name lang="pt">MEZZO</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AfroMusic Portugal">
+    <display-name lang="pt">AfroMusic Portugal</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Trace TV HD">
+    <display-name lang="pt">Trace TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Trace Toca">
+    <display-name lang="pt">Trace Toca</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="MEZZO Live HD">
+    <display-name lang="pt">MEZZO Live HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="S+">
+    <display-name lang="pt">S+</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Discovery HD">
+    <display-name lang="pt">Discovery HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Nat Geo HD">
+    <display-name lang="pt">Nat Geo HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="História">
+    <display-name lang="pt">História</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Odisseia HD">
+    <display-name lang="pt">Odisseia HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Docubox HD">
+    <display-name lang="pt">Docubox HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Blaze HD">
+    <display-name lang="pt">Blaze HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Travel HD">
+    <display-name lang="pt">Travel HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fashion TV HD">
+    <display-name lang="pt">Fashion TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Food Network HD">
+    <display-name lang="pt">Food Network HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="BBC Entertainment">
+    <display-name lang="pt">BBC Entertainment</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Melody Zen. TV">
+    <display-name lang="pt">Melody Zen. TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Luxe TV HD">
+    <display-name lang="pt">Luxe TV HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="GINX">
+    <display-name lang="pt">GINX</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Globo Now HD">
+    <display-name lang="pt">Globo Now HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Record HD">
+    <display-name lang="pt">TV Record HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Euronews EN">
+    <display-name lang="pt">Euronews EN</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="pt">CNN</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="pt">Euronews</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="pt">Bloomberg</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Sky News">
+    <display-name lang="pt">Sky News</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="pt">BBC World News</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="pt">CNBC</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Al Jazeera English">
+    <display-name lang="pt">Al Jazeera English</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RAI News">
+    <display-name lang="pt">RAI News</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Phoenix InfoNews">
+    <display-name lang="pt">Phoenix InfoNews</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVE 24h">
+    <display-name lang="pt">TVE 24h</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Deutche Welle">
+    <display-name lang="pt">Deutche Welle</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="France 24 Eng">
+    <display-name lang="pt">France 24 Eng</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="France 24 FR">
+    <display-name lang="pt">France 24 FR</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canal 180 HD">
+    <display-name lang="pt">Canal 180 HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP Madeira">
+    <display-name lang="pt">RTP Madeira</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP Açores">
+    <display-name lang="pt">RTP Açores</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Porto Canal">
+    <display-name lang="pt">Porto Canal</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canção Nova TV">
+    <display-name lang="pt">Canção Nova TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Canal Parlamento">
+    <display-name lang="pt">Canal Parlamento</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Localvisão HD">
+    <display-name lang="pt">Localvisão HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP Africa">
+    <display-name lang="pt">RTP Africa</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TPA Internacional">
+    <display-name lang="pt">TPA Internacional</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVC NEWS">
+    <display-name lang="pt">TVC NEWS</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TCVi">
+    <display-name lang="pt">TCVi</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="UATV">
+    <display-name lang="pt">UATV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="VOX">
+    <display-name lang="pt">VOX</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTL">
+    <display-name lang="pt">RTL</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Galicia">
+    <display-name lang="pt">TV Galicia</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TVE Internacional">
+    <display-name lang="pt">TVE Internacional</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="M6">
+    <display-name lang="pt">M6</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">TV5 Monde</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="KBS">
+    <display-name lang="pt">KBS</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="RAI 1">
+    <display-name lang="pt">RAI 1</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="PRO TV International">
+    <display-name lang="pt">PRO TV International</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="pt">Russia Today</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Russia Today Documentary">
+    <display-name lang="pt">Russia Today Documentary</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Cubavision">
+    <display-name lang="pt">Cubavision</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="NHK WORLD TV">
+    <display-name lang="pt">NHK WORLD TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Kuriakos TV">
+    <display-name lang="pt">Kuriakos TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Arirang TV">
+    <display-name lang="pt">Arirang TV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Eurochannel PT">
+    <display-name lang="pt">Eurochannel PT</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Touros">
+    <display-name lang="pt">Touros</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Caza &amp; Pesca">
+    <display-name lang="pt">Caza &amp; Pesca</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Caçavision HD">
+    <display-name lang="pt">Caçavision HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SET Ásia">
+    <display-name lang="pt">SET Ásia</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Star Plus">
+    <display-name lang="pt">Star Plus</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SET Max">
+    <display-name lang="pt">SET Max</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Star Gold">
+    <display-name lang="pt">Star Gold</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Nautical Channel">
+    <display-name lang="pt">Nautical Channel</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fightbox HD">
+    <display-name lang="pt">Fightbox HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FastnFunbox HD">
+    <display-name lang="pt">FastnFunbox HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="Fight Network HD">
+    <display-name lang="pt">Fight Network HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="DOGTV">
+    <display-name lang="pt">DOGTV</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC HD">
+    <display-name lang="pt">SIC HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Notícias HD">
+    <display-name lang="pt">SIC Notícias HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="TV Globo Básico HD">
+    <display-name lang="pt">TV Globo Básico HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Mulher HD">
+    <display-name lang="pt">SIC Mulher HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Caras HD">
+    <display-name lang="pt">SIC Caras HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SIC Radical HD">
+    <display-name lang="pt">SIC Radical HD</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="SPTV 4K">
+    <display-name lang="pt">SPTV 4K</display-name>
+    <url>http://www.vodafone.pt</url>
+  </channel>
   <programme start="20201002002200 +0000" stop="20201002010500 +0000" channel="RTPHD">
     <title lang="pt">Crimes Graves</title>
     <desc lang="pt">Durante a investigação dos quatro indivíduos ricos mortos num jogo de póquer de apostas altas, Flynn é ferido. Enquanto isso, Rusty enfrenta a ira de um juiz depois fazer um pedido especial.</desc>
