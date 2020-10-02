@@ -1,0 +1,470 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.1.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTPHD">
+    <display-name lang="pt">RTP 1</display-name>
+    <icon src="https://web.ottimg.vodafone.pt/dynamic-image-server/channel_logo_tablet_details/110/" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <programme start="20201002002200 +0000" stop="20201002010500 +0000" channel="RTPHD">
+    <title lang="pt">Crimes Graves</title>
+    <desc lang="pt">Durante a investigação dos quatro indivíduos ricos mortos num jogo de póquer de apostas altas, Flynn é ferido. Enquanto isso, Rusty enfrenta a ira de um juiz depois fazer um pedido especial.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T4 Ep11</episode-num>
+  </programme>
+  <programme start="20201002010500 +0000" stop="20201002020700 +0000" channel="RTPHD">
+    <title lang="pt">Longmire</title>
+    <desc lang="pt">Vic reexamina a sua vida. Henry e Nighthorse unem-se contra Malachi. Ferg ajuda a mãe da sua namorada com a polícia tribal.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T6 Ep4</episode-num>
+  </programme>
+  <programme start="20201002020700 +0000" stop="20201002023400 +0000" channel="RTPHD">
+    <title lang="pt">RTP Arena</title>
+    <desc lang="pt">Talk-Show semanal com Sara Lima que traz ao estúdio convidados de relevo do universo nacional dos eSports. O programa vai acompanhar os principais eventos e torneios de desportos eletrónicos, as equipas e jogadores em Portugal bem como muitos dos jogos que estão a sair para o público.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep14</episode-num>
+  </programme>
+  <programme start="20201002023400 +0000" stop="20201002031300 +0000" channel="RTPHD">
+    <title lang="pt">O Sábio</title>
+    <desc lang="pt">Sandra conta a Alzira que Rogério tem algum problema, mas que não lhe quis contar, mas percebia-se pelo seu mau humor. Gil visita João e a reação dele é vitimizar-se. Gil incentiva-o a enfrentar o seu problema. Felícia apercebe-se do mau humor do sobrinho e tece comentários acerca de Sandra.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep187</episode-num>
+  </programme>
+  <programme start="20201002031300 +0000" stop="20201002045900 +0000" channel="RTPHD">
+    <title lang="pt">Televendas</title>
+    <sub-title lang="pt">sex 2-out, 04:13</sub-title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201002045900 +0000" stop="20201002053000 +0000" channel="RTPHD">
+    <title lang="pt">Manchetes 3</title>
+    <sub-title lang="pt">sex 2-out, 05:59</sub-title>
+    <desc lang="pt">Todos os dias as manchetes dos Jornais de referência estão na RTP.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201002053000 +0000" stop="20201002090000 +0000" channel="RTPHD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <sub-title lang="pt">sex 2-out, 06:30</sub-title>
+    <desc lang="pt">O Bom Dia Portugal é um programa de informação apresentado por João Tomé de Carvalho e Carla Trafaria, de 2a a 6a feira entre as 06:30h e as 10:00h, e por uma vasta equipa de profissionais da RTP. Todos os dias...</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201002090000 +0000" stop="20201002120000 +0000" channel="RTPHD">
+    <title lang="pt">Há Volta</title>
+    <sub-title lang="pt">Águeda</sub-title>
+    <desc lang="pt">O Há Volta está de regresso à RTP para acompanhar a Volta a Portugal em Bicicleta - Edição Especial. Devido à pandemia do Covid-19, a 82.ª Volta a Portugal em Bicicleta foi adiada para 2021, ocorrendo no início do outono uma edição especial da competição.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep6</episode-num>
+  </programme>
+  <programme start="20201002120000 +0000" stop="20201002133000 +0000" channel="RTPHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <sub-title lang="pt">sex 2-out, 13:00</sub-title>
+    <desc lang="pt">Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e sem esquecer o desporto.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201002133000 +0000" stop="20201002140000 +0000" channel="RTPHD">
+    <title lang="pt">Há Volta</title>
+    <sub-title lang="pt">Águeda</sub-title>
+    <desc lang="pt">O Há Volta está de regresso à RTP para acompanhar a Volta a Portugal em Bicicleta - Edição Especial. Devido à pandemia do Covid-19, a 82.ª Volta a Portugal em Bicicleta foi adiada para 2021, ocorrendo no início do outono uma edição especial da competição.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep6</episode-num>
+  </programme>
+  <programme start="20201002140000 +0000" stop="20201002170000 +0000" channel="RTPHD">
+    <title lang="pt">Volta a Portugal em Bicicleta - Edição Especial 2020</title>
+    <sub-title lang="pt">Oliveira do Hospital - Águeda</sub-title>
+    <desc lang="pt">5ª Etapa: Oliveira do Hospital - Águeda, 176,3 km.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 </episode-num>
+  </programme>
+  <programme start="20201002170000 +0000" stop="20201002180700 +0000" channel="RTPHD">
+    <title lang="pt">Portugal em Direto</title>
+    <sub-title lang="pt">sex 2-out, 18:00</sub-title>
+    <desc lang="pt">A atualidade diária do nosso país. "Portugal em Direto" é um espaço de informação nacional apresentado pela jornalista Dina Aguiar, que aposta na atualidade nacional, sempre atenta aos problemas das populações contando para isso com todo o empenhamento e colaboração dos centros regionais da RTP...</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201002180700 +0000" stop="20201002185700 +0000" channel="RTPHD">
+    <title lang="pt">O Preço Certo</title>
+    <sub-title lang="pt">sex 2-out, 19:07</sub-title>
+    <desc lang="pt">No "Preço Certo", as emoções são garantidas! Há mais de uma década em emissão na RTP1, "O Preço Certo" é o gameshow de maior longevidade da televisão mundial. Estreado pela primeira vez em 1956 nos Estados Unidos, já foi transmitido em mais de 30 países.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201002185700 +0000" stop="20201002185900 +0000" channel="RTPHD">
+    <title lang="pt">Direito de Antena</title>
+    <sub-title lang="pt">sex 2-out, 19:57</sub-title>
+    <desc lang="pt">Espaço da responsabilidade das entidades intervenientes. Destina-se essencialmente à divulgação de campanhas políticas, de solidariedade ou outras associações de caráter diverso.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201002185900 +0000" stop="20201002200000 +0000" channel="RTPHD">
+    <title lang="pt">Telejornal</title>
+    <sub-title lang="pt">sex 2-out, 19:59</sub-title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria e José Rodrigues dos Santos mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201002200000 +0000" stop="20201002204000 +0000" channel="RTPHD">
+    <title lang="pt">Sexta às 9</title>
+    <desc lang="pt">Jornalismo de investigação sobre alguns dos casos mais polémicos da sociedade portuguesa.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T9 Ep30</episode-num>
+  </programme>
+  <programme start="20201002204000 +0000" stop="20201002220100 +0000" channel="RTPHD">
+    <title lang="pt">Quem Quer Ser Milionário - Alta Pressão</title>
+    <desc lang="pt">O Quem Quer Ser Milionário - Alta Pressão está de regresso à RTP e com uma novidade: Filomena Cautela é a apresentadora. O Quem Quer Ser Milionário - Alta Pressão é um emocionante concurso de conhecimento, tática e... muitos nervos, no qual apenas um concorrente poderá vencer 50.000 euros.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep14</episode-num>
+  </programme>
+  <programme start="20201002220100 +0000" stop="20201002225100 +0000" channel="RTPHD">
+    <title lang="pt">Ensaia Comigo...</title>
+    <sub-title lang="pt">Carolina Deslandes</sub-title>
+    <desc lang="pt">Carolina Deslandes senta-se ao lado de Boss AC e da sua banda para uma noite de cumplicidades e com momentos únicos. Com temas de Boss AC, de Carolina Deslandes e ainda covers de outros artistas, espera-se um programa inédito e genuíno com espaço para conversas descontraídas e muitos improvisos.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep3</episode-num>
+  </programme>
+  <programme start="20201002225100 +0000" stop="20201002235700 +0000" channel="RTPHD">
+    <title lang="pt">Eléctrico</title>
+    <sub-title lang="pt">Clã e Manuel Cruz</sub-title>
+    <desc lang="pt">No primeiro frente a frente escutamos a voz e o talento de Clã e Manel Cruz. São artistas onde o dom da palavra é a alma das canções. São amigos, vêm do Porto e já colaboraram juntos. No Eléctrico, Manel Cruz traz momentos inéditos e os Clã um novo disco, editado em pleno período de isolamento.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T2 Ep1</episode-num>
+  </programme>
+  <programme start="20201002235700 +0000" stop="20201003004400 +0000" channel="RTPHD">
+    <title lang="pt">Crimes Graves</title>
+    <desc lang="pt">Hobbs é surpreendido pelo ex-marido de Sharon que fornece provas de que o seu cliente é inocente na morte da esposa.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T4 Ep12</episode-num>
+  </programme>
+  <programme start="20201003004400 +0000" stop="20201003015500 +0000" channel="RTPHD">
+    <title lang="pt">Longmire</title>
+    <desc lang="pt">Quando o julgamento do seu processo civil começa, a situação não parece favorável a Walt, especialmente depois de um homicídio ter Vic e Walt como suspeitos.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T6 Ep5</episode-num>
+  </programme>
+  <programme start="20201003015500 +0000" stop="20201003024300 +0000" channel="RTPHD">
+    <title lang="pt">O Sábio</title>
+    <desc lang="pt">Pedro conta a Sofia que Luís está de volta a Montemor e que ele comprou a pecuária de Romão. Sofia tenta disfarçar, mas fica nervosa. Luís conta a grande novidade a Cármen, Felícia e Rogério. Cármen fica muito orgulhosa. Luís conversa com Rogério e apercebe-se de que ele não está bem.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep188</episode-num>
+  </programme>
+  <programme start="20201003024300 +0000" stop="20201003032900 +0000" channel="RTPHD">
+    <title lang="pt">O Sábio</title>
+    <desc lang="pt">Cármen alerta Luís para possíveis retaliações de Romão. Cármen estranha que Luís não tenha perguntado por Sofia e ao falar-lhe no assunto fica espantada pelo filho lhe dizer que são águas passadas. Luís despede-se da mãe e atende uma chamada de alguém a quem ele confidência já ter saudades.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep189</episode-num>
+  </programme>
+  <programme start="20201003032900 +0000" stop="20201003051400 +0000" channel="RTPHD">
+    <title lang="pt">Televendas</title>
+    <sub-title lang="pt">sáb 3-out, 04:29</sub-title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201003051400 +0000" stop="20201003053000 +0000" channel="RTPHD">
+    <title lang="pt">Cuidado Com a Língua!</title>
+    <sub-title lang="pt">Chapitô</sub-title>
+    <desc lang="pt">Diogo Infante leva-nos aos bastidores do Chapitô, em Lisboa, e entre malabares e malabaristas, acrobatas e acobracias, palhaços e arlequins, fala sobre o tão diversificado léxico à volta de um artista de circo. A locução continua a cargo de Maria Flor Pedroso e o convidado é José Carlos Garcia.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T10 Ep20</episode-num>
+  </programme>
+  <programme start="20201003053000 +0000" stop="20201003053100 +0000" channel="RTPHD">
+    <title lang="pt">Espaço Zig Zag</title>
+    <sub-title lang="pt">sáb 3-out, 06:30</sub-title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o Zig Zag. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201003053100 +0000" stop="20201003054000 +0000" channel="RTPHD">
+    <title lang="pt">Os Bochechas</title>
+    <desc lang="pt">Uma série infantil sobre livros que contam as aventuras de uma família galega.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep17</episode-num>
+  </programme>
+  <programme start="20201003054000 +0000" stop="20201003054500 +0000" channel="RTPHD">
+    <title lang="pt">Os Pequenos Contos de Wismo</title>
+    <desc lang="pt">Sempre com a sua trouxa mágica, Wismo é um pequeno diabinho que viaja pelo universo dos contos e das lendas de toda a Europa. De certa forma, Wismo é o herói oculto dessas fábulas, aquele que nunca ouviu falar... ainda. É tempo agora de devolver o mérito que merece.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep26</episode-num>
+  </programme>
+  <programme start="20201003054500 +0000" stop="20201003055000 +0000" channel="RTPHD">
+    <title lang="pt">Little People</title>
+    <desc lang="pt">Esta nova temporada vai proporcionar novos talentos e muita criatividade. Estas adoráveis personagens vão inspirar a imaginação e as brincadeiras de uma nova geração de fãs para ajudar na descoberta do pensamento crítico.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T2 Ep49</episode-num>
+  </programme>
+  <programme start="20201003055000 +0000" stop="20201003055500 +0000" channel="RTPHD">
+    <title lang="pt">As Aventuras do Xavier</title>
+    <desc lang="pt">Olá, eu sou o Xavier, tenho cinco anos e gosto muito de experimentar coisas novas e diferentes. Todos os dias vou fazer uma atividade, que pode ser uma receita, uma construção, um jogo e até uma experiência científica. Gostava que as minhas aventuras também fossem vossas! Experimentem!</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep16</episode-num>
+  </programme>
+  <programme start="20201003055500 +0000" stop="20201003060000 +0000" channel="RTPHD">
+    <title lang="pt">Radar XS</title>
+    <desc lang="pt">Radar Xs é um telejornal para crianças dos 8 aos 12 anos onde se pretende incentivar o pensamento crítico e a cidadania consciente. Em estúdio vamos juntar a política e a cultura, a economia e o desporto, a ciência e a literatura infantil...</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T3 Ep7</episode-num>
+  </programme>
+  <programme start="20201003060000 +0000" stop="20201003061500 +0000" channel="RTPHD">
+    <title lang="pt">Zig Zag</title>
+    <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T21 Ep180</episode-num>
+  </programme>
+  <programme start="20201003061500 +0000" stop="20201003063000 +0000" channel="RTPHD">
+    <title lang="pt">Lulu Cambalhota</title>
+    <desc lang="pt">Lulu Cambalhota, uma série alegre e agradável para os pequenos exploradores da vida e da natureza. Lulu e os seus amigos adoram o campo, as florestas, o riacho, todas as estações do ano. Para eles o melhor parque infantil é a natureza!</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T2 Ep6</episode-num>
+  </programme>
+  <programme start="20201003063000 +0000" stop="20201003064500 +0000" channel="RTPHD">
+    <title lang="pt">As Aventuras do Max - Magilika</title>
+    <desc lang="pt">Mais uma vez, o corajoso Max tem de salvar o mundo do terrível Sombra.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep12</episode-num>
+  </programme>
+  <programme start="20201003064500 +0000" stop="20201003065000 +0000" channel="RTPHD">
+    <title lang="pt">Conta-me História</title>
+    <desc lang="pt">Um historiador e um amigo com idade para ser seu filho viajam em cada episódio por um tema da riquíssima História de Portugal. Sempre num registo bem humorado, viajam no espaço e pelo tempo, como testemunhas privilegiadas dos segredos dos quase 900 anos deste país.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep6</episode-num>
+  </programme>
+  <programme start="20201003065000 +0000" stop="20201003065500 +0000" channel="RTPHD">
+    <title lang="pt">Hora do Conto</title>
+    <desc lang="pt">Os contos tradicionais de Portugal e do Mundo narrados pela Filó e pelo Gabi!</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep16</episode-num>
+  </programme>
+  <programme start="20201003065500 +0000" stop="20201003070000 +0000" channel="RTPHD">
+    <title lang="pt">Radar XS</title>
+    <desc lang="pt">Radar Xs é um telejornal para crianças dos 8 aos 12 anos onde se pretende incentivar o pensamento crítico e a cidadania consciente. Em estúdio vamos juntar a política e a cultura, a economia e o desporto, a ciência e a literatura infantil...</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T3 Ep8</episode-num>
+  </programme>
+  <programme start="20201003070000 +0000" stop="20201003090000 +0000" channel="RTPHD">
+    <title lang="pt">Bom Dia Portugal - Fim de Semana</title>
+    <sub-title lang="pt">sáb 3-out, 08:00</sub-title>
+    <desc lang="pt">Um espaço informativo em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201003090000 +0000" stop="20201003100000 +0000" channel="RTPHD">
+    <title lang="pt">Dá Deus Nozes...</title>
+    <sub-title lang="pt">sáb 3-out, 10:00</sub-title>
+    <desc lang="pt">Neste documentário fazemos uma divertida viagem pelo reino dos esquilos, conhecemos as suas habilidades e a sua capacidade para sobreviver em habitats completamente diferentes: da cidade à montanha, do deserto à floresta tropical e até mesmo no Ártico.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201003100000 +0000" stop="20201003120000 +0000" channel="RTPHD">
+    <title lang="pt">Há Volta</title>
+    <sub-title lang="pt">Caldas da Rainha</sub-title>
+    <desc lang="pt">O Há Volta está de regresso à RTP para acompanhar a Volta a Portugal em Bicicleta - Edição Especial. Devido à pandemia do Covid-19, a 82.ª Volta a Portugal em Bicicleta foi adiada para 2021, ocorrendo no início do outono uma edição especial da competição.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep7</episode-num>
+  </programme>
+  <programme start="20201003120000 +0000" stop="20201003130000 +0000" channel="RTPHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <sub-title lang="pt">sáb 3-out, 13:00</sub-title>
+    <desc lang="pt">Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e sem esquecer o desporto.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201003130000 +0000" stop="20201003131500 +0000" channel="RTPHD">
+    <title lang="pt">Voz do Cidadão</title>
+    <desc lang="pt">Programa da responsabilidade de Jorge Wemans, Provedor do Telespetador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão. Reflete o tratamento dos casos mais significativos trazidos à apreciação do Provedor pelos telespectadores em cada semana.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep21</episode-num>
+  </programme>
+  <programme start="20201003131500 +0000" stop="20201003140000 +0000" channel="RTPHD">
+    <title lang="pt">Há Volta</title>
+    <sub-title lang="pt">Caldas da Rainha</sub-title>
+    <desc lang="pt">O Há Volta está de regresso à RTP para acompanhar a Volta a Portugal em Bicicleta - Edição Especial. Devido à pandemia do Covid-19, a 82.ª Volta a Portugal em Bicicleta foi adiada para 2021, ocorrendo no início do outono uma edição especial da competição.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep7</episode-num>
+  </programme>
+  <programme start="20201003140000 +0000" stop="20201003170000 +0000" channel="RTPHD">
+    <title lang="pt">Volta a Portugal em Bicicleta - Edição Especial 2020</title>
+    <sub-title lang="pt">Caldas da Rainha - Torres Vedras</sub-title>
+    <desc lang="pt">6ª Etapa: Caldas da Rainha - Torres Vedras, 155 km.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 </episode-num>
+  </programme>
+  <programme start="20201003170000 +0000" stop="20201003180000 +0000" channel="RTPHD">
+    <title lang="pt">Há Volta</title>
+    <sub-title lang="pt">Caldas da Rainha</sub-title>
+    <desc lang="pt">O Há Volta está de regresso à RTP para acompanhar a Volta a Portugal em Bicicleta - Edição Especial. Devido à pandemia do Covid-19, a 82.ª Volta a Portugal em Bicicleta foi adiada para 2021, ocorrendo no início do outono uma edição especial da competição.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep7</episode-num>
+  </programme>
+  <programme start="20201003180000 +0000" stop="20201003185900 +0000" channel="RTPHD">
+    <title lang="pt">O Preço Certo</title>
+    <sub-title lang="pt">sáb 3-out, 19:00</sub-title>
+    <desc lang="pt">No "Preço Certo", as emoções são garantidas! Há mais de uma década em emissão na RTP1, "O Preço Certo" é o gameshow de maior longevidade da televisão mundial. Estreado pela primeira vez em 1956 nos Estados Unidos, já foi transmitido em mais de 30 países.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201003185900 +0000" stop="20201003201500 +0000" channel="RTPHD">
+    <title lang="pt">Telejornal</title>
+    <sub-title lang="pt">sáb 3-out, 19:59</sub-title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria e José Rodrigues dos Santos mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201003201500 +0000" stop="20201003211500 +0000" channel="RTPHD">
+    <title lang="pt">Quem Quer Ser Milionário - Alta Pressão</title>
+    <desc lang="pt">O Quem Quer Ser Milionário - Alta Pressão está de regresso à RTP e com uma novidade: Filomena Cautela é a apresentadora. O Quem Quer Ser Milionário - Alta Pressão é um emocionante concurso de conhecimento, tática e... muitos nervos, no qual apenas um concorrente poderá vencer 50.000 euros.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep15</episode-num>
+  </programme>
+  <programme start="20201003211500 +0000" stop="20201003221500 +0000" channel="RTPHD">
+    <title lang="pt">Conta-me Como Foi</title>
+    <desc lang="pt">Soares comunicava ao país que a coligação do governo ia continuar. O Orçamento de Estado era aprovado e surgia todos os dias um novo candidato às eleições. Margarida desabafa com Hélder que este ano o Natal não vai ser fácil. Isabel anda a fazer-se de forte, Toni e Carlos mal se falam...</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T7 Ep1</episode-num>
+  </programme>
+  <programme start="20201003221500 +0000" stop="20201004000000 +0000" channel="RTPHD">
+    <title lang="pt">I Love Portugal</title>
+    <desc lang="pt">Filomena Cautela e Vasco Palmeirim são os anfitriões deste formato familiar, onde duas equipas de celebridades unem forças com o público, para mostrar que conhecem e adoram Portugal! A competição vai contar com quatro novos capitães: Teresa Guilherme, Toy, Carlão e Carolina Deslandes.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T2 Ep1</episode-num>
+  </programme>
+  <programme start="20201004000000 +0000" stop="20201004020000 +0000" channel="RTPHD">
+    <title lang="pt">Triplo Nove</title>
+    <desc lang="pt">Um gangue de criminosos e polícias corruptos planeia a morte de um polícia, com o objetivo de, assim, realizar o seu maior golpe de sempre.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201004020000 +0000" stop="20201004050000 +0000" channel="RTPHD">
+    <title lang="pt">Televendas</title>
+    <sub-title lang="pt">dom 4-out, 03:00</sub-title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201004050000 +0000" stop="20201004053000 +0000" channel="RTPHD">
+    <title lang="pt">Todas as Palavras</title>
+    <desc lang="pt">Ana Daniela Soares e Inês Fonseca Santos apresentam os livros e os autores que nos emocionam.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T5 Ep29</episode-num>
+  </programme>
+  <programme start="20201004053000 +0000" stop="20201004053100 +0000" channel="RTPHD">
+    <title lang="pt">Espaço Zig Zag</title>
+    <sub-title lang="pt">dom 4-out, 06:30</sub-title>
+    <desc lang="pt">A magia e a aventura estão na RTP com o Zig Zag. Os desenhos animados e as séries mais divertidas. E também os heróis de sempre para brincar e jogar com as crianças.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201004053100 +0000" stop="20201004054000 +0000" channel="RTPHD">
+    <title lang="pt">Os Bochechas</title>
+    <desc lang="pt">Uma série infantil sobre livros que contam as aventuras de uma família galega.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep18</episode-num>
+  </programme>
+  <programme start="20201004054000 +0000" stop="20201004054500 +0000" channel="RTPHD">
+    <title lang="pt">Os Pequenos Contos de Wismo</title>
+    <desc lang="pt">Sempre com a sua trouxa mágica, Wismo é um pequeno diabinho que viaja pelo universo dos contos e das lendas de toda a Europa. De certa forma, Wismo é o herói oculto dessas fábulas, aquele que nunca ouviu falar... ainda. É tempo agora de devolver o mérito que merece.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep27</episode-num>
+  </programme>
+  <programme start="20201004054500 +0000" stop="20201004055000 +0000" channel="RTPHD">
+    <title lang="pt">Little People</title>
+    <desc lang="pt">Esta nova temporada vai proporcionar novos talentos e muita criatividade. Estas adoráveis personagens vão inspirar a imaginação e as brincadeiras de uma nova geração de fãs para ajudar na descoberta do pensamento crítico.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T2 Ep50</episode-num>
+  </programme>
+  <programme start="20201004055000 +0000" stop="20201004055500 +0000" channel="RTPHD">
+    <title lang="pt">As Aventuras do Xavier</title>
+    <desc lang="pt">Olá, eu sou o Xavier, tenho cinco anos e gosto muito de experimentar coisas novas e diferentes. Todos os dias vou fazer uma atividade, que pode ser uma receita, uma construção, um jogo e até uma experiência científica. Gostava que as minhas aventuras também fossem vossas! Experimentem!</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep17</episode-num>
+  </programme>
+  <programme start="20201004055500 +0000" stop="20201004060000 +0000" channel="RTPHD">
+    <title lang="pt">Histórias Estapafúrdias</title>
+    <desc lang="pt">Parecem histórias malucas e inventadas, mas aconteceram mesmo na História de Portugal!</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep10</episode-num>
+  </programme>
+  <programme start="20201004060000 +0000" stop="20201004061500 +0000" channel="RTPHD">
+    <title lang="pt">Zig Zag</title>
+    <desc lang="pt">O Gabi e a Filó entraram na casa do Zig Zag e parece que tão cedo não a vão abandonar! Filó, uma gata muito inteligente que sabe muitas coisas e quer ensiná-las, Gabi, um cão muito divertido, que o que mais gosta é de brincar. Os dois são grandes amigos e vão viver muitas situações engraçadas.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T21 Ep181</episode-num>
+  </programme>
+  <programme start="20201004061500 +0000" stop="20201004063000 +0000" channel="RTPHD">
+    <title lang="pt">Lulu Cambalhota</title>
+    <desc lang="pt">Lulu Cambalhota, uma série alegre e agradável para os pequenos exploradores da vida e da natureza. Lulu e os seus amigos adoram o campo, as florestas, o riacho, todas as estações do ano. Para eles o melhor parque infantil é a natureza!</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T2 Ep7</episode-num>
+  </programme>
+  <programme start="20201004063000 +0000" stop="20201004064500 +0000" channel="RTPHD">
+    <title lang="pt">As Aventuras do Max - Magilika</title>
+    <desc lang="pt">Mais uma vez, o corajoso Max tem de salvar o mundo do terrível Sombra.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep13</episode-num>
+  </programme>
+  <programme start="20201004064500 +0000" stop="20201004065500 +0000" channel="RTPHD">
+    <title lang="pt">ExperimentArte</title>
+    <desc lang="pt">A Beatriz Frazão dá-vos dicas de como ocuparem os tempos livres este Verão. Que tal construir uma tenda tipi? Ou fazer bolas de sabão gigantes? Criar aquela t-shirt única ou cuidar de uma horta? São 25 ideias de atividades para o ar livre, onde podemos brincar, criar, sujar, rir e pensar.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep10</episode-num>
+  </programme>
+  <programme start="20201004065500 +0000" stop="20201004070000 +0000" channel="RTPHD">
+    <title lang="pt">Radar XS</title>
+    <desc lang="pt">Radar Xs é um telejornal para crianças dos 8 aos 12 anos onde se pretende incentivar o pensamento crítico e a cidadania consciente. Em estúdio vamos juntar a política e a cultura, a economia e o desporto, a ciência e a literatura infantil...</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T3 Ep9</episode-num>
+  </programme>
+  <programme start="20201004070000 +0000" stop="20201004093000 +0000" channel="RTPHD">
+    <title lang="pt">Bom Dia Portugal - Fim de Semana</title>
+    <sub-title lang="pt">dom 4-out, 08:00</sub-title>
+    <desc lang="pt">Um espaço informativo em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201004093000 +0000" stop="20201004103000 +0000" channel="RTPHD">
+    <title lang="pt">Eucaristia Dominical</title>
+    <sub-title lang="pt">Açores</sub-title>
+    <desc lang="pt">A celebração dominical do dia e da Eucaristia do Senhor está no centro da vida da Igreja Católica.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep37</episode-num>
+  </programme>
+  <programme start="20201004103000 +0000" stop="20201004120000 +0000" channel="RTPHD">
+    <title lang="pt">World Bike Tour 2018</title>
+    <sub-title lang="pt">dom 4-out, 11:30</sub-title>
+    <desc lang="pt">11ª edição do "World Bike Tour Lisboa", um passeio ciclístico na cidade de Lisboa com partida na Avenida da Liberdade e chegada no Parque das Nações. O World Bike Tour pretende aliar a prática desportiva saudável às novas tendências da mobilidade das cidades, promovendo a sustentabilidade.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201004120000 +0000" stop="20201004130000 +0000" channel="RTPHD">
+    <title lang="pt">Jornal da Tarde</title>
+    <sub-title lang="pt">dom 4-out, 13:00</sub-title>
+    <desc lang="pt">Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e sem esquecer o desporto.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201004130000 +0000" stop="20201004140000 +0000" channel="RTPHD">
+    <title lang="pt">Há Volta</title>
+    <sub-title lang="pt">Setúbal</sub-title>
+    <desc lang="pt">O Há Volta está de regresso à RTP para acompanhar a Volta a Portugal em Bicicleta - Edição Especial. Devido à pandemia do Covid-19, a 82.ª Volta a Portugal em Bicicleta foi adiada para 2021, ocorrendo no início do outono uma edição especial da competição.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep8</episode-num>
+  </programme>
+  <programme start="20201004140000 +0000" stop="20201004170000 +0000" channel="RTPHD">
+    <title lang="pt">Volta a Portugal em Bicicleta - Edição Especial 2020</title>
+    <sub-title lang="pt">Loures - Setúbal</sub-title>
+    <desc lang="pt">7ª Etapa: Loures - Setúbal, 161 km.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 </episode-num>
+  </programme>
+  <programme start="20201004170000 +0000" stop="20201004185900 +0000" channel="RTPHD">
+    <title lang="pt">Há Volta</title>
+    <sub-title lang="pt">Setúbal</sub-title>
+    <desc lang="pt">O Há Volta está de regresso à RTP para acompanhar a Volta a Portugal em Bicicleta - Edição Especial. Devido à pandemia do Covid-19, a 82.ª Volta a Portugal em Bicicleta foi adiada para 2021, ocorrendo no início do outono uma edição especial da competição.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">Ep8</episode-num>
+  </programme>
+  <programme start="20201004185900 +0000" stop="20201004201500 +0000" channel="RTPHD">
+    <title lang="pt">Telejornal</title>
+    <sub-title lang="pt">dom 4-out, 19:59</sub-title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria e José Rodrigues dos Santos mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+  <programme start="20201004201500 +0000" stop="20201004224500 +0000" channel="RTPHD">
+    <title lang="pt">The Voice Portugal</title>
+    <desc lang="pt">Aurea, Diogo Piçarra, Marisa Liz e António Zambujo vão procurar as melhores vozes e um deles será o vencedor com a eleição da melhor voz de Portugal. Catarina Furtado e Vasco Palmeirim serão os anfitriões em mais uma edição. E os bastidores são revelados pelo repórter Fábio Lopes.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T8 Ep2</episode-num>
+  </programme>
+  <programme start="20201004224500 +0000" stop="20201004233000 +0000" channel="RTPHD">
+    <title lang="pt">Desliga a Televisão - Compactos</title>
+    <desc lang="pt">Melhores momentos da série de humor que inclui vários sketches cómicos, que passam de uns para os outros à medida que o telespectador faz zapping, com a diferença que desta vez o comando é nosso.</desc>
+    <category lang="pt">Nacional</category>
+    <episode-num system="onscreen">T1 Ep2</episode-num>
+  </programme>
+  <programme start="20201004233000 +0000" stop="20201005014500 +0000" channel="RTPHD">
+    <title lang="pt">Guernsey - A Sociedade Literária da Tarte de Casca de Batata</title>
+    <desc lang="pt">Juliet Ashton é uma jovem escritora com falta de inspiração, que logo após a Segunda Guerra Mundial recebe uma carta de um membro da misteriosa Sociedade Literária de Guernsey. Curiosa por saber mais, Juliet decide encontrar-se com os excêntricos membros...</desc>
+    <category lang="pt">Nacional</category>
+  </programme>
+</tv>
