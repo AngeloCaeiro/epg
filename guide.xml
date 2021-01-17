@@ -3,7 +3,7 @@
   <channel id="SIC">
     <display-name lang="pt">SIC</display-name>
     <icon src="https:/particulares/Style Library/GuiaTv_CanaisLogos/SIC.png" />
-    <url>http://www.nos.pt.E</url>
+    <url>http://www.nos.pt</url>
   </channel>
   <programme start="20210117013000 +0000" stop="20210117033000 +0000" channel="SIC">
     <title lang="pt">Uma Noite Com o Presidente</title>
