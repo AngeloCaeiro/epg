@@ -1,15 +1,18 @@
-@echo off
+
 
 
 @echo start github command
-git pull
+c:
+cd\epg
+git init
 pause
-
-git commit -m "epg.bat"
+git add "guide.xml"
 pause
-git clone "https://github.com/AngeloCaeiro/epg.git"
+git add "epg.bat"
 pause
-git add "c:\epg\epg.bat"
-
-
+git commit -m "EPG guide"
+pause
+git remote add origin https://github.com/AngeloCaeiro/epg.git
+git pull origin master
+git push origin master
 pause
