@@ -1,6 +1,7 @@
 
 
 
+
 @echo start github command
 c:
 cd\epg
@@ -15,4 +16,5 @@ pause
 git remote add origin https://github.com/AngeloCaeiro/epg.git
 git pull origin master
 git push origin master
+
 pause
