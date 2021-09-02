@@ -9,7 +9,7 @@ git config --global user.name "AngeloCaeiro"
 git add guide.xml
 git commit -a -m "EPG guide"
 
-git pull origin https://github.com/AngeloCaeiro/epg.git --allow-unrelated-histories
+git pull 
 git push origin master
 
 pause
