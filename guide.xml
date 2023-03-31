@@ -516,124 +516,14 @@
     <display-name lang="pt">CINEMUNDO HD</display-name>
     <url>http://www.meo.pt</url>
   </channel>
-  <programme start="20230330063000 +0100" stop="20230330150500 +0100" channel="RTP Internacional">
+  <programme start="20230331063000 +0100" stop="20230331150500 +0100" channel="RTP Internacional">
     <title lang="en">Bom Dia Portugal</title>
     <desc lang="en">E porque u00e9 de manhu00e3 que comeu00e7a o dia, entu00e3o inicie-o na nossa companhia!</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230330150500 +0100" stop="20230330190400 +0100" channel="RTP Internacional">
+  <programme start="20230331150500 +0100" stop="20230331190700 +0100" channel="RTP Internacional">
     <title lang="en">A Nossa Tarde</title>
     <desc lang="en">A Nossa Tarde u00e9 o seu lugar.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230330190400 +0100" stop="20230330191100 +0100" channel="RTP Internacional">
-    <title lang="en">TecNet</title>
-    <desc lang="en">Novidades de tecnologia e internet.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230330191100 +0100" stop="20230330195900 +0100" channel="RTP Internacional">
-    <title lang="en">O Preu00e7o Certo</title>
-    <desc lang="en">No.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230330195900 +0100" stop="20230330210100 +0100" channel="RTP Internacional">
-    <title lang="en">Telejornal</title>
-    <desc lang="en">A mais rigorosa seleu00e7u00e3o de notu00edcias, todos os dias u00e0s 20h00.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230330210100 +0100" stop="20230330213400 +0100" channel="RTP Internacional">
-    <title lang="en">Linha da Frente</title>
-    <desc lang="en">1u00ba Direito.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230330213400 +0100" stop="20230330223400 +0100" channel="RTP Internacional">
-    <title lang="en">Porquinho Mealheiro</title>
-    <desc lang="en">Apresentado por Vasco Palmeirim, um concurso divertido onde a famu00edlia joga em equipa.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230330223400 +0100" stop="20230330235300 +0100" channel="RTP Internacional">
-    <title lang="en">Cu00e1 Por Casa Com Herman Josu00e9</title>
-    <desc lang="en">Joana Vasconcelos, Mimicat, Filipa Vieira, Ricardo Castro, Ricardo Carriu00e7o, Gonu00e7alo Salgueiro.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230330235300 +0100" stop="20230331000000 +0100" channel="RTP Internacional">
-    <title lang="en">Volta ao Mundo em Cem Livros</title>
-    <desc lang="en">Autoria e apresentau00e7u00e3o de Alexandra Lucas Coelho.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331000000 +0100" stop="20230331010000 +0100" channel="RTP Internacional">
-    <title lang="en">24 Horas</title>
-    <desc lang="en">Jornal diu00e1rio da RTP3, transmitido a partir dos Estu00fadios do Porto da RTP.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331010000 +0100" stop="20230331020100 +0100" channel="RTP Internacional">
-    <title lang="en">Notu00edcias do Atlu00e2ntico</title>
-    <desc lang="en">A aproximau00e7u00e3o da diu00e1spora com origem nas regiu00f5es autu00f3nomas dos Au00e7ores e da Madeira, com os assuntos que marcam a atualidade destas ilhas.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331020100 +0100" stop="20230331024400 +0100" channel="RTP Internacional">
-    <title lang="en">Os Nossos Dias</title>
-    <desc lang="en">u00c9 mais do que uma histu00f3ria de vinganu00e7a. Uma luta constante pela verdade e justiu00e7a. Um jogo onde ninguu00e9m pode confiar em ninguu00e9m.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331024400 +0100" stop="20230331031600 +0100" channel="RTP Internacional">
-    <title lang="en">Rumos</title>
-    <desc lang="en">Ntaluma e Camilo de Sousa.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331031600 +0100" stop="20230331033100 +0100" channel="RTP Internacional">
-    <title lang="en">Fotobox</title>
-    <desc lang="en">Um magazine sobre fotografia.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331033100 +0100" stop="20230331035800 +0100" channel="RTP Internacional">
-    <title lang="en">Biosfera</title>
-    <desc lang="en">Biologia da Colorau00e7u00e3o.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331035800 +0100" stop="20230331041200 +0100" channel="RTP Internacional">
-    <title lang="en">Hora de Agir</title>
-    <desc lang="en">Alterau00e7u00f5es Climu00e1ticas no Setor Vitivinu00edcola.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331041200 +0100" stop="20230331060900 +0100" channel="RTP Internacional">
-    <title lang="en">Sociedade Civil</title>
-    <desc lang="en">Tratado de Alto Mar.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331060900 +0100" stop="20230331063000 +0100" channel="RTP Internacional">
-    <title lang="en">Manchetes 3</title>
-    <desc lang="en">As manchetes dos Jornais de referu00eancia na RTP.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331063000 +0100" stop="20230331100000 +0100" channel="RTP Internacional">
-    <title lang="en">Bom Dia Portugal</title>
-    <desc lang="en">E porque u00e9 de manhu00e3 que comeu00e7a o dia, entu00e3o inicie-o na nossa companhia!</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331100000 +0100" stop="20230331125900 +0100" channel="RTP Internacional">
-    <title lang="en">Prau00e7a da Alegria</title>
-    <desc lang="en">Otimismo, entusiasmo e muita energia nas manhu00e3s de Portugal!</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331125900 +0100" stop="20230331141700 +0100" channel="RTP Internacional">
-    <title lang="en">Jornal da Tarde</title>
-    <desc lang="en">Assim que a tarde comeu00e7a, nu00f3s ju00e1 temos para si as notu00edcias do dia.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331141700 +0100" stop="20230331150500 +0100" channel="RTP Internacional">
-    <title lang="en">Os Nossos Dias</title>
-    <desc lang="en">u00c9 mais do que uma histu00f3ria de vinganu00e7a. Uma luta constante pela verdade e justiu00e7a. Um jogo onde ninguu00e9m pode confiar em ninguu00e9m.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331150500 +0100" stop="20230331173000 +0100" channel="RTP Internacional">
-    <title lang="en">A Nossa Tarde</title>
-    <desc lang="en">A Nossa Tarde u00e9 o seu lugar.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230331173000 +0100" stop="20230331190700 +0100" channel="RTP Internacional">
-    <title lang="en">Portugal em Direto</title>
-    <desc lang="en">Dina Aguiar du00e1-lhe a conhecer tudo o que de mais importante se passa no pau00eds.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20230331190700 +0100" stop="20230331195900 +0100" channel="RTP Internacional">
@@ -704,14 +594,9 @@
     <title lang="en">Sentir a Madeira</title>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401043000 +0100" stop="20230401053500 +0100" channel="RTP Internacional">
+  <programme start="20230401043000 +0100" stop="20230401061500 +0100" channel="RTP Internacional">
     <title lang="en">Sociedade Civil</title>
     <desc lang="en">Abandono da 3u00aa Idade.</desc>
-    <category lang="en">News</category>
-  </programme>
-  <programme start="20230401053500 +0100" stop="20230401061500 +0100" channel="RTP Internacional">
-    <title lang="en">A Minha Gerau00e7u00e3o</title>
-    <desc lang="en">Dar o microfone u00e0s pru00f3ximas gerau00e7u00f5es com Diana Duarte.</desc>
     <category lang="en">News</category>
   </programme>
   <programme start="20230401061500 +0100" stop="20230401063000 +0100" channel="RTP Internacional">
@@ -719,42 +604,42 @@
     <desc lang="en">A visu00e3o do fim dos tempos nu00e3o ficou cristalizada no livro do Apocalipse. Textos e livros em vu00e1rias lu00ednguas espalham visu00e3o ou mesmo clarividu00eancia. Pandemias como a de Covid-19 estavam hu00e1 muito descritas em livros, sobretudo romances. O que nos parecia ser pura ficu00e7u00e3o cientu00edfica, afinal tornou-se.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401063000 +0100" stop="20230401073000 +0100" channel="RTP Internacional">
+  <programme start="20230401063000 +0100" stop="20230401073100 +0100" channel="RTP Internacional">
     <title lang="en">Espau00e7o Zig Zag</title>
     <desc lang="en">Um mundo de su00e9ries de aventura e animau00e7u00e3o para os mais pequenos.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401073000 +0100" stop="20230401080000 +0100" channel="RTP Internacional">
+  <programme start="20230401073100 +0100" stop="20230401080000 +0100" channel="RTP Internacional">
     <title lang="en">Biosfera</title>
     <desc lang="en">Impermeabilizau00e7u00e3o das Cidades.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401080000 +0100" stop="20230401100000 +0100" channel="RTP Internacional">
+  <programme start="20230401080000 +0100" stop="20230401095900 +0100" channel="RTP Internacional">
     <title lang="en">Bom Dia Portugal Fim de Semana</title>
     <desc lang="en">E porque u00e9 de manhu00e3 que comeu00e7a o dia, entu00e3o inicie-o na nossa companhia!</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401100000 +0100" stop="20230401104500 +0100" channel="RTP Internacional">
+  <programme start="20230401095900 +0100" stop="20230401104800 +0100" channel="RTP Internacional">
     <title lang="en">Mundo Sem Muros</title>
     <desc lang="en">Principais assuntos da atualidade semanal, em anu00e1lise.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401104500 +0100" stop="20230401111500 +0100" channel="RTP Internacional">
+  <programme start="20230401104800 +0100" stop="20230401111500 +0100" channel="RTP Internacional">
     <title lang="en">Bombordo</title>
     <desc lang="en">u00c1guas Protegidas.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401111500 +0100" stop="20230401114500 +0100" channel="RTP Internacional">
+  <programme start="20230401111500 +0100" stop="20230401114100 +0100" channel="RTP Internacional">
     <title lang="en">ModaLisboa Core - Os Melhores Momentos</title>
     <desc lang="en">Os melhores momentos da ModaLisboa.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401114500 +0100" stop="20230401123000 +0100" channel="RTP Internacional">
+  <programme start="20230401114100 +0100" stop="20230401122700 +0100" channel="RTP Internacional">
     <title lang="en">Hora dos Portugueses</title>
     <desc lang="en">A portugalidade sob diferentes olhares.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401123000 +0100" stop="20230401125900 +0100" channel="RTP Internacional">
+  <programme start="20230401122700 +0100" stop="20230401125900 +0100" channel="RTP Internacional">
     <title lang="en">Decisu00e3o Nacional</title>
     <desc lang="en">Espau00e7o para o debate e para o pensamento sobre Portugal.</desc>
     <category lang="en">News</category>
@@ -764,17 +649,17 @@
     <desc lang="en">Assim que a tarde comeu00e7a, nu00f3s ju00e1 temos para si as notu00edcias do dia.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401141500 +0100" stop="20230401143000 +0100" channel="RTP Internacional">
+  <programme start="20230401141500 +0100" stop="20230401143900 +0100" channel="RTP Internacional">
     <title lang="en">Voz do Cidadu00e3o</title>
     <desc lang="en">A opiniu00e3o dos telespetadores conta.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401143000 +0100" stop="20230401190800 +0100" channel="RTP Internacional">
+  <programme start="20230401143900 +0100" stop="20230401190600 +0100" channel="RTP Internacional">
     <title lang="en">Estrelas ao Su00e1bado</title>
     <desc lang="en">O programa de talentos da mu00fasica popular portuguesa!</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401190800 +0100" stop="20230401195900 +0100" channel="RTP Internacional">
+  <programme start="20230401190600 +0100" stop="20230401195900 +0100" channel="RTP Internacional">
     <title lang="en">O Preu00e7o Certo</title>
     <desc lang="en">No.</desc>
     <category lang="en">News</category>
@@ -784,23 +669,133 @@
     <desc lang="en">A mais rigorosa seleu00e7u00e3o de notu00edcias, todos os dias u00e0s 20h00.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401210100 +0100" stop="20230401214500 +0100" channel="RTP Internacional">
+  <programme start="20230401210100 +0100" stop="20230401215100 +0100" channel="RTP Internacional">
     <title lang="en">Missu00e3o: 100% Portuguu00eas</title>
     <desc lang="en">Tru00e1s-os-Montes / Braganu00e7a.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401214500 +0100" stop="20230401233000 +0100" channel="RTP Internacional">
+  <programme start="20230401215100 +0100" stop="20230401232700 +0100" channel="RTP Internacional">
     <title lang="en">Taskmaster</title>
     <desc lang="en">Inu00eas Aires Pereira, Jessica Athayde, Gilmu00e1rio Vemba, Toy e um convidado especial su00e3o desafiados por Vasco Palmeirim e Nuno Markl para superar uma su00e9rie de provas divertidas com uma pequena dose de loucura.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401233000 +0100" stop="20230401234500 +0100" channel="RTP Internacional">
+  <programme start="20230401232700 +0100" stop="20230401233900 +0100" channel="RTP Internacional">
     <title lang="en">Terra 4.0</title>
     <desc lang="en">O Terra 4.0 u00e9 um programa sobre o mundo rural, empreendedorismo e inovau00e7u00e3o que du00e1 a conhecer jovens agricultores e jovens empresu00e1rios rurais a atuar em territu00f3rio nacional.</desc>
     <category lang="en">News</category>
   </programme>
-  <programme start="20230401234500 +0100" stop="20230402000000 +0100" channel="RTP Internacional">
+  <programme start="20230401233900 +0100" stop="20230402000000 +0100" channel="RTP Internacional">
     <title lang="en">Europa Minha</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402000000 +0100" stop="20230402010000 +0100" channel="RTP Internacional">
+    <title lang="en">24 Horas</title>
+    <desc lang="en">Jornal diu00e1rio da RTP3, transmitido a partir dos Estu00fadios do Porto da RTP.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402010000 +0100" stop="20230402015700 +0100" channel="RTP Internacional">
+    <title lang="en">Grande u00c1rea</title>
+    <desc lang="en">Programa de anu00e1lise da jornada futebolu00edstica nas suas diferentes vertentes.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402015700 +0100" stop="20230402024700 +0100" channel="RTP Internacional">
+    <title lang="en">Grandiosa Enciclopu00e9dia do Ludopu00e9dio</title>
+    <desc lang="en">Na sua 8u00aa temporada, mais do que um programa de futebol, este u00e9 um programa que pretende compreender o futebol atravu00e9s da sua histu00f3ria.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402024700 +0100" stop="20230402031700 +0100" channel="RTP Internacional">
+    <title lang="en">Janela Global</title>
+    <desc lang="en">A atualidade comentada por especialistas com moderau00e7u00e3o de Mu00e1rcia Rodrigues.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402031700 +0100" stop="20230402040500 +0100" channel="RTP Internacional">
+    <title lang="en">Mundo Sem Muros</title>
+    <desc lang="en">Principais assuntos da atualidade semanal, em anu00e1lise.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402040500 +0100" stop="20230402042000 +0100" channel="RTP Internacional">
+    <title lang="en">Fotobox</title>
+    <desc lang="en">Um magazine sobre fotografia.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402042000 +0100" stop="20230402050100 +0100" channel="RTP Internacional">
+    <title lang="en">Faz Fau00edsca</title>
+    <desc lang="en">O magazine que mergulha no universo da  RTP, acompanhando as novidades na ficu00e7u00e3o, no entretenimento e no daytime, nu00e3o esquecendo a ru00e1dio e os eventos especiais.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402050100 +0100" stop="20230402052900 +0100" channel="RTP Internacional">
+    <title lang="en">Biosfera</title>
+    <desc lang="en">Impermeabilizau00e7u00e3o das Cidades.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402052900 +0100" stop="20230402054300 +0100" channel="RTP Internacional">
+    <title lang="en">Hora de Agir</title>
+    <desc lang="en">Importu00e2ncia da Dessalinizau00e7u00e3o da u00c1gua.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402054300 +0100" stop="20230402060800 +0100" channel="RTP Internacional">
+    <title lang="en">Nada Seru00e1 Como Dante</title>
+    <desc lang="en">Um programa de Literatura feito com a certeza de que, por melhor que seja, nada seru00e1 como Dante.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402060800 +0100" stop="20230402063000 +0100" channel="RTP Internacional">
+    <title lang="en">Todas as Palavras</title>
+    <desc lang="en">Os livros e os seus autores.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402063000 +0100" stop="20230402073000 +0100" channel="RTP Internacional">
+    <title lang="en">Espau00e7o Zig Zag</title>
+    <desc lang="en">Um mundo de su00e9ries de aventura e animau00e7u00e3o para os mais pequenos.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402073000 +0100" stop="20230402080000 +0100" channel="RTP Internacional">
+    <title lang="en">Eurodeputados</title>
+    <desc lang="en">Os grandes temas que preocupam os cidadu00e3os europeus em debate, semanalmente.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402080000 +0100" stop="20230402085700 +0100" channel="RTP Internacional">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque u00e9 de manhu00e3 que comeu00e7a o dia, entu00e3o inicie-o na nossa companhia!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402085700 +0100" stop="20230402105800 +0100" channel="RTP Internacional">
+    <title lang="en">Missa de Domingo de Ramos</title>
+    <desc lang="en">A celebrau00e7u00e3o da entrada de Jesus em Jerusalu00e9m...</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402105800 +0100" stop="20230402125900 +0100" channel="RTP Internacional">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Valpau00e7os.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402125900 +0100" stop="20230402141800 +0100" channel="RTP Internacional">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde comeu00e7a, nu00f3s ju00e1 temos para si as notu00edcias do dia.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402141800 +0100" stop="20230402150400 +0100" channel="RTP Internacional">
+    <title lang="en">Faz Fau00edsca</title>
+    <desc lang="en">O magazine que mergulha no universo da  RTP, acompanhando as novidades na ficu00e7u00e3o, no entretenimento e no daytime, nu00e3o esquecendo a ru00e1dio e os eventos especiais.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402150400 +0100" stop="20230402195900 +0100" channel="RTP Internacional">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Valpau00e7os.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402195900 +0100" stop="20230402202500 +0100" channel="RTP Internacional">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleu00e7u00e3o de notu00edcias, todos os dias u00e0s 20h00.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402202500 +0100" stop="20230402223000 +0100" channel="RTP Internacional">
+    <title lang="en">Liga Portugal Bwin 2022/2023 - RTP Internacional</title>
+    <desc lang="en">Porto x Portimonense.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230402223000 +0100" stop="20230403012500 +0100" channel="RTP Internacional">
+    <title lang="en">Danu00e7a Comigo</title>
+    <desc lang="en">O espetu00e1culo, o brilho e o glamour do Danu00e7a Comigo estu00e3o de volta u00e0 RTP.</desc>
     <category lang="en">News</category>
   </programme>
 </tv>
