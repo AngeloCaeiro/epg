@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="RTP 1">
-    <display-name lang="pt">RTP 1</display-name>
-    <url>http://www.nos.pt.E</url>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1 HD">
+    <display-name lang="pt">RTP 1 HD</display-name>
+    <url>http://www.nostv.pt</url>
   </channel>
-  <channel id="RTP 2">
-    <display-name lang="pt">RTP 2</display-name>
-    <url>http://www.nos.pt.E</url>
+  <channel id="RTP 2 HD">
+    <display-name lang="pt">RTP 2 HD</display-name>
+    <url>http://www.nostv.pt</url>
   </channel>
-  <channel id="SIC">
-    <display-name lang="pt">SIC</display-name>
-    <url>http://www.nos.pt.E</url>
+  <channel id="SIC HD">
+    <display-name lang="pt">SIC HD</display-name>
+    <url>http://www.nostv.pt</url>
   </channel>
   <channel id="TVI">
     <display-name lang="pt">TVI</display-name>
@@ -514,8 +514,2693 @@
   </channel>
   <channel id="CINEMUNDO HD">
     <display-name lang="pt">CINEMUNDO HD</display-name>
+    <icon src="https://www.meo.pt/PublishingImages/canais/cinemundo-hd.png" />
     <url>http://www.meo.pt</url>
   </channel>
+  <programme start="20230415000300 +0000" stop="20230415010100 +0000" channel="RTP 1 HD">
+    <title lang="pt">Os Grandes Ícones Naturais do Mundo</title>
+    <desc lang="pt">O nosso planeta foi moldado por forças poderosas que ao longo de milhões de anos deram origem a ícones naturais de imensa grandeza e variedade. Ao longo de seis episódios, viajamos pelo mundo descobrindo os maiores ícones naturais do mundo, tão diferentes quanto as forças que os criaram.</desc>
+    <category lang="pt">Natureza</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415010100 +0000" stop="20230415031400 +0000" channel="RTP 1 HD">
+    <title lang="pt">A Nossa Tarde</title>
+    <desc lang="pt">Conheça o lado mais emocional de Tânia Ribas de Oliveira no novo programa das tardes da RTP.</desc>
+    <date>2019</date>
+    <category lang="pt">Talk-Show</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415031400 +0000" stop="20230415051500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.</desc>
+    <category lang="pt">Televendas</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415051500 +0000" stop="20230415053200 +0000" channel="RTP 1 HD">
+    <title lang="pt">As Palavras do Mundo</title>
+    <desc lang="pt">A partir de uma seleção cuidada de obras de referência e de entrevistas a especialistas de diferentes áreas científicas, oferecemos uma leitura do mundo atual. A vida que nos rodeia lida com desastres nucleares, com o exemplo máximo em Chernobyl.</desc>
+    <date>2023</date>
+    <category lang="pt">Artes</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415053200 +0000" stop="20230415054300 +0000" channel="RTP 1 HD">
+    <title lang="pt">Os Bochechas</title>
+    <desc lang="pt">As divertidas aventuras da família Bochecha e do seu inseparável cão, o Chispa.</desc>
+    <date>2013</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415054300 +0000" stop="20230415055500 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Panda e o Galo</title>
+    <desc lang="pt">Uma amizade improvável acontece: um panda e um galo de Barcelos são os melhores amigos. Que histórias irão o Panda, os seus amigos do bosque e o seu novo amigo português contar?</desc>
+    <date>2020</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415055500 +0000" stop="20230415060700 +0000" channel="RTP 1 HD">
+    <title lang="pt">Histórias Zigzásticas</title>
+    <desc lang="pt">20 histórias contadas por atores que te vão animar o dia!</desc>
+    <date>2022</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415060700 +0000" stop="20230415062200 +0000" channel="RTP 1 HD">
+    <title lang="pt">A Minha Cena</title>
+    <desc lang="pt">No programa "A Minha Cena" as crianças são as protagonistas. Todas as semanas, em cada episódio, as crianças conduzem-nos pela sua vida e mostram-nos as suas "cenas favoritas".</desc>
+    <date>2022</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415062200 +0000" stop="20230415062700 +0000" channel="RTP 1 HD">
+    <title lang="pt">DuARTe: Uma Peça de Arte</title>
+    <desc lang="pt">Sabes aquela obra de arte que gostas mas não sabes o que significa? Sabes aquela pintura que olhas mas parece confusa? Sabes aquelas figuras pintadas que vês mas nem sabes a ordem com que deves olhar? Pois bem. O duARTe é tudo isso!</desc>
+    <date>2021</date>
+    <category lang="pt">Educação</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415062700 +0000" stop="20230415063400 +0000" channel="RTP 1 HD">
+    <title lang="pt">Os Daltons</title>
+    <desc lang="pt">Soltem as gargalhadas, façam uma pausa da prisão e preparem-se para fugir com os Daltons! Os quatro fabulosos tentarão todos os truques do livro e mais alguns para saírem da prisão. O que eles não têm em inteligência, compensam em imaginação!</desc>
+    <date>2009</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415063400 +0000" stop="20230415064200 +0000" channel="RTP 1 HD">
+    <title lang="pt">Os Daltons</title>
+    <desc lang="pt">Soltem as gargalhadas, façam uma pausa da prisão e preparem-se para fugir com os Daltons! Os quatro fabulosos tentarão todos os truques do livro e mais alguns para saírem da prisão. O que eles não têm em inteligência, compensam em imaginação!</desc>
+    <date>2009</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S2 E10</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415064200 +0000" stop="20230415065300 +0000" channel="RTP 1 HD">
+    <title lang="pt">Dennis e Gnasher, os Aventureiros</title>
+    <desc lang="pt">Dennis é um rapazinho com uma imaginação extraordinária e uma atitude destemida. Com o seu incrível cão Gnasher e os amigos Pieface, JJ e Rubi elaboram planos completamente malucos, enfrentam todo tipo de encrencas e desafios, não importa o quão grande possam ser!</desc>
+    <date>2021</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S2 E36</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415065300 +0000" stop="20230415070000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Radar XS</title>
+    <desc lang="pt">Radar XS é um telejornal para crianças dos 8 aos 12 anos onde se pretende incentivar o pensamento crítico e a cidadania consciente. Vamos juntar a política e a cultura, a economia e desporto, a ciência e a literatura infantil, a atualidade nacional e internacional numa linguagem simples e objetiva.</desc>
+    <date>2022</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S5 E92</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415070000 +0000" stop="20230415085700 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="pt">Espaço em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia nas manhãs do seu fim de semana.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415085700 +0000" stop="20230415095300 +0000" channel="RTP 1 HD">
+    <title lang="pt">A Corrente de Humboldt</title>
+    <sub-title lang="pt">A Renovação</sub-title>
+    <desc lang="pt">Essas forças são as correntes oceânicas, mas apenas uma nasce no gelo e acaba no fogo - a Corrente de Humboldt, que sustenta as maiores criaturas do nosso planeta e encoraja a vida a prosperar em lugares onde deveria ser estéril.</desc>
+    <date>2021</date>
+    <category lang="pt">Ambiente</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415095300 +0000" stop="20230415104100 +0000" channel="RTP 1 HD">
+    <title lang="pt">Hora dos Portugueses</title>
+    <desc lang="pt">Magazine diário, com diferentes olhares, junto de comunidades de portugueses espalhados pelo mundo, para retratar as atuais formas de viver a portugalidade nos diferentes territórios e reconhecer os feitos e conquistas dos portugueses que compõem estes grupos de cidadãos.</desc>
+    <category lang="pt">Magazine de informação</category>
+    <episode-num system="onscreen">S9 E13</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415104100 +0000" stop="20230415115900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Aqui Portugal - Os Melhores Momentos</title>
+    <desc lang="pt">Recorde os melhores momentos do programa que todas as semanas parte à descoberta de uma localidade diferente, usos, costumes, tradições e comemorações do nosso Portugal.</desc>
+    <date>2023</date>
+    <category lang="pt">Magazine cultural</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415115900 +0000" stop="20230415131500 +0000" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">Todos os dias, às 13h, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e sem esquecer o desporto. Com o Jornal da Tarde, esteja bem informado sobre o que acontece no país e no mundo!</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415131500 +0000" stop="20230415134000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Voz do Cidadão</title>
+    <desc lang="pt">Programa da responsabilidade do Provedor do Telespectador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão, reflete o tratamento dos casos mais significativos trazidos à apreciação do Provedor pelos telespetadores em cada semana.</desc>
+    <date>2023</date>
+    <category lang="pt">Magazine de informação</category>
+    <episode-num system="onscreen">S12 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415134000 +0000" stop="20230415180600 +0000" channel="RTP 1 HD">
+    <title lang="pt">Estrelas ao Sábado</title>
+    <desc lang="pt">Em Estrelas ao Sábado vão brilhar o talento e as raízes da nossa música. Isabel Silva é a anfitriã deste formato inovador, que vai dar voz a todos aqueles que queiram mostrar o seu talento, interpretando os mais diversos géneros da música popular portuguesa, mas só um será o vencedor.</desc>
+    <date>2023</date>
+    <category lang="pt">Variedades</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415180600 +0000" stop="20230415185900 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Preço Certo</title>
+    <desc lang="pt">Concurso conduzido por Fernando Mendes onde quem se senta na plateia pode ser convidado a jogar e ganhar muitos prémios. Divirta-se enquanto se informa sobre os preços de mercado e sobre novos produtos.</desc>
+    <category lang="pt">Concurso</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415185900 +0000" stop="20230415200600 +0000" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415200600 +0000" stop="20230415205300 +0000" channel="RTP 1 HD">
+    <title lang="pt">Missão: 100% Português</title>
+    <sub-title lang="pt">Minho</sub-title>
+    <desc lang="pt">Missão: 100% português está de volta e relança o desafio: mergulhar no talento, no trabalho, nas ideias, e nos sabores, que tornam Portugal um país tão diverso quanto singular.</desc>
+    <date>2022</date>
+    <category lang="pt">Magazine</category>
+    <episode-num system="onscreen">S4 E10</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415205300 +0000" stop="20230415224600 +0000" channel="RTP 1 HD">
+    <title lang="pt">Taskmaster</title>
+    <sub-title lang="pt">Salvador Martinha</sub-title>
+    <desc lang="pt">Inês Aires Pereira, Jessica Athayde, Gilmário Vemba, Toy e um convidado especial são desafiados pelo "Taskmaster" Vasco Palmeirim e o seu braço direito, Nuno Markl, para superar uma série de provas divertidas com uma pequena dose de loucura.</desc>
+    <date>2022</date>
+    <category lang="pt">Humor</category>
+    <episode-num system="onscreen">S2 E5</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415224600 +0000" stop="20230416004800 +0000" channel="RTP 1 HD">
+    <title lang="pt">Um Homem Furioso</title>
+    <desc lang="pt">'H' é um homem frio e misterioso, que trabalha para uma companhia responsável por transportar milhões de dólares todas as semanas em Los Angeles. Mas quando ele e o colega são alvos de uma tentativa de roubo, a sua verdadeira motivação é revelada.</desc>
+    <date>2021</date>
+    <category lang="pt">Ação</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416004800 +0000" stop="20230416014100 +0000" channel="RTP 1 HD">
+    <title lang="pt">Janela Indiscreta</title>
+    <desc lang="pt">O Janela Indiscreta é o seu programa de cinema! Apresenta, em primeira mão, estreias cinematográficas e entrevistas exclusivas aos protagonistas das produções nacionais e internacionais, dando a conhecer curiosidades e histórias de bastidores.</desc>
+    <category lang="pt">Artes</category>
+    <episode-num system="onscreen">S15 E15</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416014100 +0000" stop="20230416023500 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Pesadelo dos Ditadores</title>
+    <desc lang="pt">Hitler, Mussolini e Franco tinham uma aura de invencibilidade. No entanto, uma obsessão assombrava as suas vidas: a existência de uma conspiração maçónica contra eles.</desc>
+    <date>2022</date>
+    <category lang="pt">Histórico</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416023500 +0000" stop="20230416050800 +0000" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.</desc>
+    <category lang="pt">Televendas</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416050800 +0000" stop="20230416053200 +0000" channel="RTP 1 HD">
+    <title lang="pt">Todas as Palavras</title>
+    <desc lang="pt">Ana Daniela Soares e Inês Fonseca Santos apresentam os livros e os autores que nos emocionam.</desc>
+    <date>2023</date>
+    <category lang="pt">Artes</category>
+    <episode-num system="onscreen">S8 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416053200 +0000" stop="20230416054200 +0000" channel="RTP 1 HD">
+    <title lang="pt">Os Bochechas</title>
+    <desc lang="pt">As divertidas aventuras da família Bochecha e do seu inseparável cão, o Chispa.</desc>
+    <date>2013</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E17</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416054200 +0000" stop="20230416055400 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Panda e o Galo</title>
+    <desc lang="pt">Uma amizade improvável acontece: um panda e um galo de Barcelos são os melhores amigos. Que histórias irão o Panda, os seus amigos do bosque e o seu novo amigo português contar?</desc>
+    <date>2020</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416055400 +0000" stop="20230416060100 +0000" channel="RTP 1 HD">
+    <title lang="pt">Histórias Zigzásticas</title>
+    <desc lang="pt">20 histórias contadas por atores que te vão animar o dia!</desc>
+    <date>2022</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416060100 +0000" stop="20230416061600 +0000" channel="RTP 1 HD">
+    <title lang="pt">A Minha Cena</title>
+    <desc lang="pt">No programa "A Minha Cena" as crianças são as protagonistas. Todas as semanas, em cada episódio, as crianças conduzem-nos pela sua vida e mostram-nos as suas "cenas favoritas".</desc>
+    <date>2022</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416061600 +0000" stop="20230416062400 +0000" channel="RTP 1 HD">
+    <title lang="pt">Os Daltons</title>
+    <desc lang="pt">Soltem as gargalhadas, façam uma pausa da prisão e preparem-se para fugir com os Daltons! Os quatro fabulosos tentarão todos os truques do livro e mais alguns para saírem da prisão. O que eles não têm em inteligência, compensam em imaginação!</desc>
+    <date>2009</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S2 E11</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416062400 +0000" stop="20230416063100 +0000" channel="RTP 1 HD">
+    <title lang="pt">Os Daltons</title>
+    <desc lang="pt">Soltem as gargalhadas, façam uma pausa da prisão e preparem-se para fugir com os Daltons! Os quatro fabulosos tentarão todos os truques do livro e mais alguns para saírem da prisão. O que eles não têm em inteligência, compensam em imaginação!</desc>
+    <date>2009</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S2 E12</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416063100 +0000" stop="20230416064200 +0000" channel="RTP 1 HD">
+    <title lang="pt">Dennis e Gnasher, os Aventureiros</title>
+    <desc lang="pt">Dennis é um rapazinho com uma imaginação extraordinária e uma atitude destemida. Com o seu incrível cão Gnasher e os amigos Pieface, JJ e Rubi elaboram planos completamente malucos, enfrentam todo tipo de encrencas e desafios, não importa o quão grande possam ser!</desc>
+    <date>2021</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S2 E37</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416064200 +0000" stop="20230416070000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Radar XS</title>
+    <desc lang="pt">Radar XS é um telejornal para crianças dos 8 aos 12 anos onde se pretende incentivar o pensamento crítico e a cidadania consciente. Vamos juntar a política e a cultura, a economia e desporto, a ciência e a literatura infantil, a atualidade nacional e internacional numa linguagem simples e objetiva.</desc>
+    <date>2022</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S5 E93</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416070000 +0000" stop="20230416093000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="pt">Espaço em que se dá relevo às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia nas manhãs do seu fim de semana.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416093000 +0000" stop="20230416103000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Eucaristia Dominical</title>
+    <sub-title lang="pt">Lisboa: II Domingo de Páscoa - Festa da Divina Misericórdia</sub-title>
+    <desc lang="pt">A celebração dominical do Dia e da Eucaristia do Senhor está no centro da vida da Igreja Católica.</desc>
+    <category lang="pt">Religião</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416103000 +0000" stop="20230416110800 +0000" channel="RTP 1 HD">
+    <title lang="pt">Portugueses pelo Mundo - Comunidades</title>
+    <sub-title lang="pt">Londres</sub-title>
+    <desc lang="pt">No mundo não é difícil encontrar casos de portugueses de sucesso nas mais diversas áreas, como empresários, artistas, entre outros. São eles que levam o nome de Portugal longe, fazendo sempre questão de mostrar o orgulho das suas origens e na portugalidade.</desc>
+    <date>2020</date>
+    <category lang="pt">Atualidade</category>
+    <episode-num system="onscreen">S10 E19</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416110800 +0000" stop="20230416115900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Felídeos da Tailândia</title>
+    <desc lang="pt">Num dos últimos recantos selvagens do sudeste asiático, um grupo de predadores defende a sua fortaleza. Ao longo da fronteira entre a Tailândia e Mianmar, a misteriosa selva de Huai Kha Khaeng abriga alguns dos gatos selvagens mais raros do planeta. Descubra-os neste documentário.</desc>
+    <date>2021</date>
+    <category lang="pt">Mundo Animal</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416115900 +0000" stop="20230416132400 +0000" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">Todos os dias, às 13h, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e sem esquecer o desporto. Com o Jornal da Tarde, esteja bem informado sobre o que acontece no país e no mundo!</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416132400 +0000" stop="20230416140400 +0000" channel="RTP 1 HD">
+    <title lang="pt">Faz Faísca</title>
+    <desc lang="pt">Faz Faísca é o magazine que todas as semanas surpreende e entretém, sempre com boa-disposição e energia contagiante! Mergulhamos no universo da nossa RTP, acompanhando as novidades na ficção, no entretenimento e no daytime, não esquecendo a rádio e eventos especiais!</desc>
+    <date>2023</date>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S7 E10</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416140400 +0000" stop="20230416185900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Aqui Portugal</title>
+    <sub-title lang="pt">Aveiro</sub-title>
+    <desc lang="pt">Aqui mostramos Portugal! Ligue-se ao melhor do nosso país na sua RTP! Em direto dos estúdios do Porto ou de qualquer ponto de Portugal, para todo o mundo português, fazemos uma viagem pela realidade de ser-se português. Pelas vozes e sabores de Portugal!</desc>
+    <date>2023</date>
+    <category lang="pt">Magazine</category>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416185900 +0000" stop="20230416202100 +0000" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416202100 +0000" stop="20230416225300 +0000" channel="RTP 1 HD">
+    <title lang="pt">The Voice Kids</title>
+    <desc lang="pt">O palco do The Voice vai receber crianças de todo o país, entre os 7 e os 14 anos, para nos mostrar que o talento não tem idade.</desc>
+    <date>2023</date>
+    <category lang="pt">Concurso</category>
+    <episode-num system="onscreen">S4 E2</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416225300 +0000" stop="20230416235300 +0000" channel="RTP 1 HD">
+    <title lang="pt">The Voice Kids - Os Apurados</title>
+    <desc lang="pt">Diversidade de estilos, surpresas únicas e sonhos concretizados no The Voice Kids com os mentores Áurea, Fernando Daniel, Bárbara Tinoco e Carlão. Reveja os melhores momentos dos concorrentes já apurados.</desc>
+    <date>2023</date>
+    <category lang="pt">Concurso</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416235300 +0000" stop="20230417013900 +0000" channel="RTP 1 HD">
+    <title lang="pt">The Kitchen - Rainhas do Crime</title>
+    <desc lang="pt">Nova Iorque, 1978 - Três donas de casa com poucos recursos, cujos maridos mafiosos são presos pelo FBI, decidem ocupar-se pessoalmente das questões da máfia irlandesa, revelando-se inesperadamente hábeis para o negócio.</desc>
+    <date>2019</date>
+    <category lang="pt">Ação</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417013900 +0000" stop="20230417022300 +0000" channel="RTP 1 HD">
+    <title lang="pt">Faz Faísca</title>
+    <desc lang="pt">Faz Faísca é o magazine que todas as semanas surpreende e entretém, sempre com boa-disposição e energia contagiante! Mergulhamos no universo da nossa RTP, acompanhando as novidades na ficção, no entretenimento e no daytime, não esquecendo a rádio e eventos especiais!</desc>
+    <date>2023</date>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S7 E10</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417022300 +0000" stop="20230417032000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Os Grandes Ícones Naturais do Mundo</title>
+    <desc lang="pt">O nosso planeta foi moldado por forças poderosas que ao longo de milhões de anos deram origem a ícones naturais de imensa grandeza e variedade. Ao longo de seis episódios, viajamos pelo mundo descobrindo os maiores ícones naturais do mundo, tão diferentes quanto as forças que os criaram.</desc>
+    <category lang="pt">Natureza</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417032000 +0000" stop="20230417050900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.</desc>
+    <category lang="pt">Televendas</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417050900 +0000" stop="20230417053000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Manchetes 3</title>
+    <desc lang="pt">Todos os dias, as manchetes dos jornais de referência estão na RTP. Não perca os títulos dos jornais que se vão publicar na madrugada.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417053000 +0000" stop="20230417090000 +0000" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal</title>
+    <desc lang="pt">Porque é de manhã que se começa o dia, então inicie-o na nossa companhia! Todos os dias, o «Bom dia Portugal» dedica espaços específicos às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417090000 +0000" stop="20230417115900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Praça da Alegria</title>
+    <desc lang="pt">A Praça da Alegria vai levar até si a melhor música, as últimas tendências da moda, conselhos úteis e novas dicas que facilitam o seu dia-a-dia. Portugal inteiro vai marcar presença neste programa!</desc>
+    <date>2023</date>
+    <category lang="pt">Talk-Show</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417115900 +0000" stop="20230417132200 +0000" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+    <desc lang="pt">Todos os dias, às 13h, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e sem esquecer o desporto. Com o Jornal da Tarde, esteja bem informado sobre o que acontece no país e no mundo!</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417132200 +0000" stop="20230417140300 +0000" channel="RTP 1 HD">
+    <title lang="pt">Os Nossos Dias</title>
+    <desc lang="pt">Depois de ter visto Guilherme com Alice sem o casal perceber, Teresa faz um esforço muito grande para se recompor e aparece sorridente para o levar para o jantar. Teresa mostra-se ainda simpática e preocupada com Alice por esta ter ficado desempregada. Regina está furiosa.</desc>
+    <date>2015</date>
+    <category lang="pt">Novela</category>
+    <episode-num system="onscreen">S2 E247</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417140300 +0000" stop="20230417163000 +0000" channel="RTP 1 HD">
+    <title lang="pt">A Nossa Tarde</title>
+    <desc lang="pt">Conheça o lado mais emocional de Tânia Ribas de Oliveira no novo programa das tardes da RTP.</desc>
+    <date>2019</date>
+    <category lang="pt">Talk-Show</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417163000 +0000" stop="20230417180600 +0000" channel="RTP 1 HD">
+    <title lang="pt">Portugal em Direto</title>
+    <desc lang="pt">Espaço de informação que aposta na atualidade nacional. «Portugal em Direto» está sempre atento aos problemas das populações, garantindo um debate alargado sobre os temas de interesse local e nacional.</desc>
+    <category lang="pt">Magazine de informação</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417180600 +0000" stop="20230417185900 +0000" channel="RTP 1 HD">
+    <title lang="pt">O Preço Certo</title>
+    <desc lang="pt">Concurso conduzido por Fernando Mendes onde quem se senta na plateia pode ser convidado a jogar e ganhar muitos prémios. Divirta-se enquanto se informa sobre os preços de mercado e sobre novos produtos.</desc>
+    <category lang="pt">Concurso</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417185900 +0000" stop="20230417200100 +0000" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+    <desc lang="pt">A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417200100 +0000" stop="20230417202900 +0000" channel="RTP 1 HD">
+    <title lang="pt">Outras Histórias</title>
+    <sub-title lang="pt">Grande Plano</sub-title>
+    <desc lang="pt">José Sequeira escreve desde criança. Sente cada palavra que desenha no papel, tal como as peças em madeira, que trabalha com paixão. Escreve onde calha, mas não o que calha.</desc>
+    <date>2022</date>
+    <category lang="pt">Entrevista</category>
+    <episode-num system="onscreen">S6 E8</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417202900 +0000" stop="20230417213700 +0000" channel="RTP 1 HD">
+    <title lang="pt">Porquinho Mealheiro</title>
+    <desc lang="pt">Porquinho Mealheiro é um divertido concurso, onde a família joga em equipa. Neste concurso o conhecimento e a confiança de uma família são postos à prova, enquanto respondem a perguntas de cultura geral. Têm como objetivo acumular o máximo possível de dinheiro.</desc>
+    <date>2022</date>
+    <category lang="pt">Concurso</category>
+    <episode-num system="onscreen">S2 E73</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417213700 +0000" stop="20230417223300 +0000" channel="RTP 1 HD">
+    <title lang="pt">Motel Valkirias</title>
+    <desc lang="pt">Carolina, Eva e Lucía cruzam-se num motel à beira da estrada na fronteira entre Portugal e a Galiza. As três têm grandes problemas pessoais e económicos. Carolina é a dona do alojamento, que está em bancarrota.</desc>
+    <date>2023</date>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417223300 +0000" stop="20230417234700 +0000" channel="RTP 1 HD">
+    <title lang="pt">Depois, Vai-se a Ver e Nada</title>
+    <sub-title lang="pt">Rui Reininho</sub-title>
+    <desc lang="pt">Fernando Mendes, um dos rostos mais carismáticos e acarinhados pelos espectadores da RTP vai passar pelo escrutínio de José Pedro Vasconcelos. Este vai querer saber tudo sobre a sua vida, como é o seu dia a dia e também todos os seus segredos.</desc>
+    <date>2019</date>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S3 E7</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417234700 +0000" stop="20230418003400 +0000" channel="RTP 1 HD">
+    <title lang="pt">S.W.A.T</title>
+    <sub-title lang="pt">Força de Intervenção</sub-title>
+    <desc lang="pt">Um terrorista morre numa explosão e a S.W.A.T. tem de encontrar o seu parceiro para evitar que mais dispositivos sejam detonados.</desc>
+    <date>2017</date>
+    <category lang="pt">Ação</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415004400 +0000" stop="20230415013000 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Mulher do Meu Marido</title>
+    <desc lang="pt">Quando um empresário de sucesso é levado de urgência para o hospital, depois de sofrer um derrame, uma vida dupla de décadas é revelada. Duas mulheres aparecem e afirmam ser a sua mulher e mãe do seu filho.</desc>
+    <date>2021</date>
+    <category lang="pt">Drama</category>
+    <episode-num system="onscreen">S1 E5</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415013000 +0000" stop="20230415023700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Barbarian Nights</title>
+    <desc lang="pt">Criação do coreógrafo francês Hervé Koubi que examina a história dos povos ao redor do Mediterrâneo e revela o que há de mais encantador no encontro entre culturas e religiões.</desc>
+    <date>2017</date>
+    <category lang="pt">Dança</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415023700 +0000" stop="20230415030700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Verdade do Vinho</title>
+    <sub-title lang="pt">Tejo</sub-title>
+    <desc lang="pt">Pela primeira vez a sul, Luís e Sónia revelam-se como bons... cavaleiros. Cavalgando, seguem a trote pelas Lezírias e pelo vinho da sua Companhia. Depois é tempo de tirar os trajes de equitação e escolher os melhores trajes para uma outra ocasião...</desc>
+    <date>2013</date>
+    <category lang="pt">Magazine</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415030700 +0000" stop="20230415035900 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Máscara e as Aldeias</title>
+    <desc lang="pt">Pessoas por trás das suas máscaras são criaturas que encontramos em várias tradições pagãs pela Europa fora. Normalmente, são homens vestidos com trajes que se assemelham a um animal em vários rituais pagãos, destinados a dar proteção contra os espíritos malignos ou a favorecer a fertilidade.</desc>
+    <date>2019</date>
+    <category lang="pt">Civilização</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415035900 +0000" stop="20230415045000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Engenharia Antiga</title>
+    <sub-title lang="pt">Construções Extremas</sub-title>
+    <desc lang="pt">O Burj Khalifa nos Emirados Árabes Unidos simboliza perfeitamente o dinamismo do Oriente Médio. Mas este e outros edifícios, em todo o mundo, foram influenciados pela tradição islâmica presente e passada.</desc>
+    <date>2022</date>
+    <category lang="pt">Histórico</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415045000 +0000" stop="20230415050100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Cuidado com a Língua!</title>
+    <desc lang="pt">África, com a grande, África, com o a em minúscula. E berimbau, cachaça, cacimbo, quitanda e tanga. Ou quindim. E vamos a Maputo ou vamos ao Maputo? Palavras, expressões e curiosidades da língua portuguesa com África e a rádio - e o rádio -como tema central no programa de hoje.</desc>
+    <date>2006</date>
+    <category lang="pt">Magazine cultural</category>
+    <episode-num system="onscreen">S2 E9</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415050100 +0000" stop="20230415053300 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Fé dos Homens</title>
+    <desc lang="pt">Espaço dedicado às diferentes religiões reconhecidas em Portugal e instituídas através de uma Igreja própria.</desc>
+    <category lang="pt">Religião</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415053300 +0000" stop="20230415060100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Repórter África - 2ª Edição</title>
+    <desc lang="pt">Noticiário diário com a atualidade do continente africano.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415060100 +0000" stop="20230415070100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Do Rio ao Mar</title>
+    <sub-title lang="pt">Irauádi</sub-title>
+    <desc lang="pt">O Mekong, o Mississipi, o Danúbio, o Amazonas... em todos os continentes, existem rios míticos, verdadeiros convites para rumar ao mar. São a fonte das maiores civilizações, refúgio de povos esquecidos, um pulmão económico e cultural e ecossistemas fantásticos.</desc>
+    <date>2022</date>
+    <category lang="pt">Natureza</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415070100 +0000" stop="20230415071500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Robocar Poli</title>
+    <desc lang="pt">Em Broom, uma pequena vila com uma forte equipa de resgate, existem sempre acidentes e problemas como um carro que se despista numa ravina num dia de chuva, uma criança fechada numa casa, entre outras situações de perigo. Em cada episódio, a equipa de resgate da vila salva alguns dos habitantes.</desc>
+    <date>2011</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S3 E18</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415071500 +0000" stop="20230415072800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Robocar Poli</title>
+    <desc lang="pt">Em Broom, uma pequena vila com uma forte equipa de resgate, existem sempre acidentes e problemas como um carro que se despista numa ravina num dia de chuva, uma criança fechada numa casa, entre outras situações de perigo. Em cada episódio, a equipa de resgate da vila salva alguns dos habitantes.</desc>
+    <date>2011</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415072800 +0000" stop="20230415073600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Momonstros</title>
+    <desc lang="pt">Os Momonstros Haha, Hehe, Hihi, Hoho e Huhu querem ser os melhores amigos das crianças, mas... onde poderão eles aprender a sê-lo? Na Academia Momonstros! Aí, todos os dias um menino ou menina diferente vai mostrar aos nossos amigos o que mais gosta de fazer.</desc>
+    <date>2019</date>
+    <category lang="pt">Didático</category>
+    <episode-num system="onscreen">S1 E13</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415073600 +0000" stop="20230415074300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Momonstros</title>
+    <desc lang="pt">Os Momonstros Haha, Hehe, Hihi, Hoho e Huhu querem ser os melhores amigos das crianças, mas... onde poderão eles aprender a sê-lo? Na Academia Momonstros! Aí, todos os dias um menino ou menina diferente vai mostrar aos nossos amigos o que mais gosta de fazer.</desc>
+    <date>2019</date>
+    <category lang="pt">Didático</category>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415074300 +0000" stop="20230415074800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Kiri e Lou</title>
+    <desc lang="pt">Numa floresta de papel recortado e com criaturas feitas de argila, Kiri, um pequeno dinossauro mal-humorado com emoções avassaladoras e Lou, uma criatura gentil e atenciosa, podem parecer os melhores amigos mais improváveis.</desc>
+    <date>2018</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S3 E13</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415074800 +0000" stop="20230415075300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Kiri e Lou</title>
+    <desc lang="pt">Numa floresta de papel recortado e com criaturas feitas de argila, Kiri, um pequeno dinossauro mal-humorado com emoções avassaladoras e Lou, uma criatura gentil e atenciosa, podem parecer os melhores amigos mais improváveis.</desc>
+    <date>2018</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S3 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415075300 +0000" stop="20230415080500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ollie e Moon</title>
+    <desc lang="pt">Ollie e Moon são dois gatos de seis anos que têm o dom de transformar a vida quotidiana numa aventura a nível global. Eles viajam por todo o o mundo e divertem-se imenso ao encontrar as soluções mais incríveis para quase todos os desafios da vida pré-escolar.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E65</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415080500 +0000" stop="20230415081600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ollie e Moon</title>
+    <desc lang="pt">Ollie e Moon são dois gatos de seis anos que têm o dom de transformar a vida quotidiana numa aventura a nível global. Eles viajam por todo o o mundo e divertem-se imenso ao encontrar as soluções mais incríveis para quase todos os desafios da vida pré-escolar.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E66</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415081600 +0000" stop="20230415082800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Pablo</title>
+    <desc lang="pt">Pablo é um menino autista de 5 anos e meio inteligente e artístico, cujos desenhos imaginativos ganham vida, permitindo que ele enfrente o mundo real com confiança. Usando os seus lápis mágicos, Pablo transforma os seus desafios diários em aventuras fantásticas!</desc>
+    <date>2019</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E25</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415082800 +0000" stop="20230415083900 +0000" channel="RTP 2 HD">
+    <title lang="pt">Pablo</title>
+    <desc lang="pt">Pablo é um menino autista de 5 anos e meio inteligente e artístico, cujos desenhos imaginativos ganham vida, permitindo que ele enfrente o mundo real com confiança. Usando os seus lápis mágicos, Pablo transforma os seus desafios diários em aventuras fantásticas!</desc>
+    <date>2019</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E26</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415083900 +0000" stop="20230415085000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Gigantosaurus</title>
+    <desc lang="pt">Rocky, Bill, Tiny e Mazu são quatro jovens dinossauros que vivem no período Cretáceo. A vida é sempre uma aventura: novos vulcões surgem o tempo todo, braquiossauros e enormes triceratops circulam livremente, chuvas de meteoros iluminam o céu noturno e o feroz Gigantosaurus comanda tudo!</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415085000 +0000" stop="20230415090300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Gigantosaurus</title>
+    <desc lang="pt">Rocky, Bill, Tiny e Mazu são quatro jovens dinossauros que vivem no período Cretáceo. A vida é sempre uma aventura: novos vulcões surgem o tempo todo, braquiossauros e enormes triceratops circulam livremente, chuvas de meteoros iluminam o céu noturno e o feroz Gigantosaurus comanda tudo!</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415090300 +0000" stop="20230415091400 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ideiafix e os Irredutíveis</title>
+    <desc lang="pt">Ano 52 a.C. Lutécia é inteiramente ocupada pelos romanos... bem, não é bem assim! Ideiafix e os Irredutíveis ainda resistem, agora e sempre, aos invasores! Com as suas travessuras, perseguições em alta velocidade e um toque de magia, Ideiafix e os Irredutíveis proporcionam muita diversão!</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415091400 +0000" stop="20230415092600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ideiafix e os Irredutíveis</title>
+    <desc lang="pt">Ano 52 a.C. Lutécia é inteiramente ocupada pelos romanos... bem, não é bem assim! Ideiafix e os Irredutíveis ainda resistem, agora e sempre, aos invasores! Com as suas travessuras, perseguições em alta velocidade e um toque de magia, Ideiafix e os Irredutíveis proporcionam muita diversão!</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415092600 +0000" stop="20230415093800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Bell e Sebastião</title>
+    <desc lang="pt">Bell e Sebastião segue as aventuras ao ar livre de um menino corajoso e aventureiro, Sebastião, e do seu enorme cachorro branco, Bell. Sempre em busca de aventura, Bell e Sebastião correrão para resgatar qualquer pessoa, amigo ou inimigo, qualquer que seja o risco.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415093800 +0000" stop="20230415095300 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Minha Cena</title>
+    <desc lang="pt">No programa "A Minha Cena" as crianças são as protagonistas. Todas as semanas, em cada episódio, as crianças conduzem-nos pela sua vida e mostram-nos as suas "cenas favoritas".</desc>
+    <date>2022</date>
+    <category lang="pt">Juvenil</category>
+    <episode-num system="onscreen">S2 E3</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415095300 +0000" stop="20230415100000 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Ovelha Choné</title>
+    <desc lang="pt">Ovelha Choné? Pois esta ovelha é um pouco excêntrica, como o nome indica! Aventuras cheias de humor na quinta, sob a supervisão do Agricultor e de Bitzer, o cão pastor.</desc>
+    <date>2014</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S4 E4</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415100000 +0000" stop="20230415102100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Descomplica</title>
+    <desc lang="pt">Porque é que sentimos medo? Será que existem coisas de meninas e coisas de meninos? A nossa memória é infinita? Porque gostamos tanto de jogar e ver coisas no telemóvel? Afinal o que é ser criativo? Existem pessoas mais e menos bonitas? Andamos a cuidar bem do nosso planeta? Ufffa tantas perguntas..</desc>
+    <date>2022</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415102100 +0000" stop="20230415103000 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Ovelha Choné</title>
+    <desc lang="pt">Ovelha Choné? Pois esta ovelha é um pouco excêntrica, como o nome indica! Aventuras cheias de humor na quinta, sob a supervisão do Agricultor e de Bitzer, o cão pastor.</desc>
+    <date>2014</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S4 E7</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415103000 +0000" stop="20230415131300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Campeonato da Europa de Ginástica Artística</title>
+    <desc lang="pt">A RTP transmite de 13 a 16 de abril diretamente de Antalya, Turquia, o Campeonato da Europa de Ginástica Artística.</desc>
+    <date>2023</date>
+    <category lang="pt">Ginástica</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415131300 +0000" stop="20230415132500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Hoodie</title>
+    <desc lang="pt">Hoodie é uma história de super-heróis sobre um rapaz perfeitamente normal, com um talento excecional para fazer parkour e uma paixão pela justiça. Por mero acaso, torna-se num herói moderno que luta contra a injustiça com os seus amigos.</desc>
+    <date>2020</date>
+    <category lang="pt">Crime</category>
+    <episode-num system="onscreen">S1 E48</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415132500 +0000" stop="20230415133700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Hoodie</title>
+    <desc lang="pt">Hoodie é uma história de super-heróis sobre um rapaz perfeitamente normal, com um talento excecional para fazer parkour e uma paixão pela justiça. Por mero acaso, torna-se num herói moderno que luta contra a injustiça com os seus amigos.</desc>
+    <date>2020</date>
+    <category lang="pt">Crime</category>
+    <episode-num system="onscreen">S1 E49</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415133700 +0000" stop="20230415135200 +0000" channel="RTP 2 HD">
+    <title lang="pt">Hoodie</title>
+    <desc lang="pt">Hoodie é uma história de super-heróis sobre um rapaz perfeitamente normal, com um talento excecional para fazer parkour e uma paixão pela justiça. Por mero acaso, torna-se num herói moderno que luta contra a injustiça com os seus amigos.</desc>
+    <date>2020</date>
+    <category lang="pt">Crime</category>
+    <episode-num system="onscreen">S1 E50</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415135200 +0000" stop="20230415155100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Liga de Basquetebol 2022/2023 - Sporting x FC Porto</title>
+    <desc lang="pt">O Benfica recebe o Porto no Pavilhão João Rocha num jogo a contar para 8a jornada da 2a fase.</desc>
+    <date>2022</date>
+    <category lang="pt">Basquetebol</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415155100 +0000" stop="20230415162500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Biosfera</title>
+    <sub-title lang="pt">Poluição Luminosa</sub-title>
+    <desc lang="pt">A ilha do Porto Santo é candidata a reserva da biosfera da UNESCO, galardão que enfatiza, sobretudo a harmonia da relação entre o Homem e as suas atividades e o meio envolvente.</desc>
+    <date>2023</date>
+    <category lang="pt">Magazine de informação</category>
+    <episode-num system="onscreen">S21 E15</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415162500 +0000" stop="20230415172300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Aurora</title>
+    <desc lang="pt">A NASA transferiu para o setor privado a responsabilidade pelos lançamentos de astronautas na órbita baixa da Terra. Para garantir o que eles chamam de redundância diferente, a agência espacial pediu à Spacex e à Boeing que desenvolvessem aeronaves com capacidade para transportar humanos...</desc>
+    <date>2022</date>
+    <category lang="pt">Ciência</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415172300 +0000" stop="20230415180900 +0000" channel="RTP 2 HD">
+    <title lang="pt">Histórias do Fado</title>
+    <sub-title lang="pt">Carminho</sub-title>
+    <desc lang="pt">Carminho partilha connosco um momento especial. Leva-nos onde tudo começou: a Taverna do Embuçado, casa de fados dos seus pais, fechada há vários anos e onde não entrava desde que era criança. O episódio acaba com uma atuação especial de Carminho, a capella, neste local.</desc>
+    <date>2020</date>
+    <category lang="pt">Música</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415180900 +0000" stop="20230415184000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Faça Chuva Faça Sol</title>
+    <desc lang="pt">Na década de 1960 e 1970 Portugal era autossuficiente na produção de lúpulo, hoje produz apenas cerca de 5% das suas necessidades. Conheça esta matéria-prima que é responsável pelo travo amargo da cerveja tradicional. A flor de lúpulo cresce nas terras de Bragança e Braga.</desc>
+    <date>2023</date>
+    <category lang="pt">Viagens</category>
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415184000 +0000" stop="20230415191100 +0000" channel="RTP 2 HD">
+    <title lang="pt">As Nossas Plantas</title>
+    <desc lang="pt">Desde sempre as plantas tiveram várias utilizações pelo Homem. A sua importância nas mais diversificadas áreas para fins medicinais e outras estão em destaque neste documentário, com um olhar particular para as plantas endémicas da ilha da Madeira.</desc>
+    <date>2022</date>
+    <category lang="pt">Investigação</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415191100 +0000" stop="20230415200300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Vida Depois da Vida</title>
+    <sub-title lang="pt">A Voz da Mulher do Afeganistão</sub-title>
+    <desc lang="pt">Em julho de 2021, depois do último soldado alemão deixar o Afeganistão, uma equipa de filmagem, liderada pela etnomusicóloga Yalda Yazdani e pela jornalista germano-afegã Sharmila Hashimi, viajou para o país para conhecer cantoras de Cabul.</desc>
+    <date>2022</date>
+    <category lang="pt">Histórico</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415200300 +0000" stop="20230415203000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Parlamento</title>
+    <desc lang="pt">Os grandes debates Governo/Oposição. As principais propostas dos partidos políticos. As ideias dos deputados para o país. Todas as semanas os assuntos que interessam aos portugueses são discutidos no Parlamento. Notícias, reportagem e debate... no Parlamento.</desc>
+    <category lang="pt">Política</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415203000 +0000" stop="20230415210200 +0000" channel="RTP 2 HD">
+    <title lang="pt">Jornal 2</title>
+    <desc lang="pt">O mundo em 30 minutos. No Jornal 2 analisamos factos e cruzamos opiniões. A cada dia que passa fazemos leitura do país e do mundo com dados, explicações e interpretações nas mais diversas áreas, como Política, Ciência, Economia e Cultura.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415210200 +0000" stop="20230415221400 +0000" channel="RTP 2 HD">
+    <title lang="pt">Swan Lakes</title>
+    <desc lang="pt">Eric Gauthier pediu a coreógrafos famosos que criassem a sua própria versão do popular bailado de Tchaikovsky "O Lago dos Cisnes" para a companhia de bailado Gauthier Dance.</desc>
+    <date>2021</date>
+    <category lang="pt">Artes</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415221400 +0000" stop="20230415222400 +0000" channel="RTP 2 HD">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências. Texto e locução de Manuela Silva Reis.</desc>
+    <date>2019</date>
+    <category lang="pt">Magazine cultural</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415222400 +0000" stop="20230415234800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Um Amor de Perdição</title>
+    <desc lang="pt">Esta poderia ser a história de um encontro entre Simão e Teresa, sob fundo de conflito entre duas famílias da burguesia portuguesa.</desc>
+    <date>2008</date>
+    <category lang="pt">Romance</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415234800 +0000" stop="20230416005900 +0000" channel="RTP 2 HD">
+    <title lang="pt">Fade Into Nothing</title>
+    <desc lang="pt">O músico The Legendary Tigerman (Paulo Furtado), a fotógrafa Rita Lino e o realizador Pedro Maia embarcaram numa viagem pelo deserto californiano e o resultado é Fade into Nothing: um filme que é tanto um road movie como um falso diário em super 8mm.</desc>
+    <date>2017</date>
+    <category lang="pt">Drama</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416005900 +0000" stop="20230416010500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências. Texto e locução de Manuela Silva Reis.</desc>
+    <date>2019</date>
+    <category lang="pt">Magazine cultural</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416010500 +0000" stop="20230416015100 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Mulher do Meu Marido</title>
+    <desc lang="pt">Quando um empresário de sucesso é levado de urgência para o hospital, depois de sofrer um derrame, uma vida dupla de décadas é revelada. Duas mulheres aparecem e afirmam ser a sua mulher e mãe do seu filho.</desc>
+    <date>2021</date>
+    <category lang="pt">Drama</category>
+    <episode-num system="onscreen">S1 E6</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416015100 +0000" stop="20230416033700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Betroffenheit</title>
+    <desc lang="pt">Um estado de choque e perplexidade envolve-nos após um desastre. Um espaço atemporal onde se regressa repetidamente, respondendo à tragédia muito depois de ela ter passado .A coreógrafa Crystal Pite e o dramaturgo Jonathon Young, criam um espetáculo único que explora estes estados psicológicos.</desc>
+    <date>2018</date>
+    <category lang="pt">Dança</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>9.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416033700 +0000" stop="20230416034400 +0000" channel="RTP 2 HD">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências. Texto e locução de Manuela Silva Reis.</desc>
+    <date>2019</date>
+    <category lang="pt">Magazine cultural</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416034400 +0000" stop="20230416043400 +0000" channel="RTP 2 HD">
+    <title lang="pt">O Padre das Prisões</title>
+    <desc lang="pt">É um padre de estatura pequena que dá passos certos até ao local onde recebe, individualmente, condenados ou presos preventivos na prisão de Aveiro. É um homem que entra nas prisões há 40 anos sem medo de quem lá vive. O que tem para contar o padre que se tornou a voz muda das cadeias?</desc>
+    <category lang="pt">Atualidade</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416043400 +0000" stop="20230416050400 +0000" channel="RTP 2 HD">
+    <title lang="pt">Faça Chuva Faça Sol</title>
+    <desc lang="pt">Na década de 1960 e 1970 Portugal era autossuficiente na produção de lúpulo, hoje produz apenas cerca de 5% das suas necessidades. Conheça esta matéria-prima que é responsável pelo travo amargo da cerveja tradicional. A flor de lúpulo cresce nas terras de Bragança e Braga.</desc>
+    <date>2023</date>
+    <category lang="pt">Viagens</category>
+    <episode-num system="onscreen">S7 E13</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416050400 +0000" stop="20230416060000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Jerusalém: A Construção da Cidade de Deus</title>
+    <desc lang="pt">Durante mais de três mil anos, Jerusalém foi palco da fundação de muitos mitos. Histórias fundadoras que forjaram as grandes civilizações do passado, começando com a civilização judaica.</desc>
+    <date>2022</date>
+    <category lang="pt">Civilização</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416060000 +0000" stop="20230416065700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Do Rio ao Mar</title>
+    <sub-title lang="pt">Garona</sub-title>
+    <desc lang="pt">O Mekong, o Mississipi, o Danúbio, o Amazonas... em todos os continentes, existem rios míticos, verdadeiros convites para rumar ao mar. São a fonte das maiores civilizações, refúgio de povos esquecidos, um pulmão económico e cultural e ecossistemas fantásticos.</desc>
+    <date>2022</date>
+    <category lang="pt">Natureza</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416065700 +0000" stop="20230416071000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Robocar Poli</title>
+    <desc lang="pt">Em Broom, uma pequena vila com uma forte equipa de resgate, existem sempre acidentes e problemas como um carro que se despista numa ravina num dia de chuva, uma criança fechada numa casa, entre outras situações de perigo. Em cada episódio, a equipa de resgate da vila salva alguns dos habitantes.</desc>
+    <date>2011</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S3 E20</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416071000 +0000" stop="20230416072500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Robocar Poli</title>
+    <desc lang="pt">Em Broom, uma pequena vila com uma forte equipa de resgate, existem sempre acidentes e problemas como um carro que se despista numa ravina num dia de chuva, uma criança fechada numa casa, entre outras situações de perigo. Em cada episódio, a equipa de resgate da vila salva alguns dos habitantes.</desc>
+    <date>2011</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S3 E21</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416072500 +0000" stop="20230416073200 +0000" channel="RTP 2 HD">
+    <title lang="pt">Momonstros</title>
+    <desc lang="pt">Os Momonstros Haha, Hehe, Hihi, Hoho e Huhu querem ser os melhores amigos das crianças, mas... onde poderão eles aprender a sê-lo? Na Academia Momonstros! Aí, todos os dias um menino ou menina diferente vai mostrar aos nossos amigos o que mais gosta de fazer.</desc>
+    <date>2019</date>
+    <category lang="pt">Didático</category>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416073200 +0000" stop="20230416074000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Momonstros</title>
+    <desc lang="pt">Os Momonstros Haha, Hehe, Hihi, Hoho e Huhu querem ser os melhores amigos das crianças, mas... onde poderão eles aprender a sê-lo? Na Academia Momonstros! Aí, todos os dias um menino ou menina diferente vai mostrar aos nossos amigos o que mais gosta de fazer.</desc>
+    <date>2019</date>
+    <category lang="pt">Didático</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416074000 +0000" stop="20230416074700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Kiri e Lou</title>
+    <desc lang="pt">Numa floresta de papel recortado e com criaturas feitas de argila, Kiri, um pequeno dinossauro mal-humorado com emoções avassaladoras e Lou, uma criatura gentil e atenciosa, podem parecer os melhores amigos mais improváveis.</desc>
+    <date>2018</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S3 E15</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416074700 +0000" stop="20230416075800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ollie e Moon</title>
+    <desc lang="pt">Ollie e Moon são dois gatos de seis anos que têm o dom de transformar a vida quotidiana numa aventura a nível global. Eles viajam por todo o o mundo e divertem-se imenso ao encontrar as soluções mais incríveis para quase todos os desafios da vida pré-escolar.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E67</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416075800 +0000" stop="20230416081000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ollie e Moon</title>
+    <desc lang="pt">Ollie e Moon são dois gatos de seis anos que têm o dom de transformar a vida quotidiana numa aventura a nível global. Eles viajam por todo o o mundo e divertem-se imenso ao encontrar as soluções mais incríveis para quase todos os desafios da vida pré-escolar.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E68</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416081000 +0000" stop="20230416082100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Pablo</title>
+    <desc lang="pt">Pablo é um menino autista de 5 anos e meio inteligente e artístico, cujos desenhos imaginativos ganham vida, permitindo que ele enfrente o mundo real com confiança. Usando os seus lápis mágicos, Pablo transforma os seus desafios diários em aventuras fantásticas!</desc>
+    <date>2019</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E27</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416082100 +0000" stop="20230416083300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Pablo</title>
+    <desc lang="pt">Pablo é um menino autista de 5 anos e meio inteligente e artístico, cujos desenhos imaginativos ganham vida, permitindo que ele enfrente o mundo real com confiança. Usando os seus lápis mágicos, Pablo transforma os seus desafios diários em aventuras fantásticas!</desc>
+    <date>2019</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E28</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416083300 +0000" stop="20230416084400 +0000" channel="RTP 2 HD">
+    <title lang="pt">Gigantosaurus</title>
+    <desc lang="pt">Rocky, Bill, Tiny e Mazu são quatro jovens dinossauros que vivem no período Cretáceo. A vida é sempre uma aventura: novos vulcões surgem o tempo todo, braquiossauros e enormes triceratops circulam livremente, chuvas de meteoros iluminam o céu noturno e o feroz Gigantosaurus comanda tudo!</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E15</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416084400 +0000" stop="20230416085600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Gigantosaurus</title>
+    <desc lang="pt">Rocky, Bill, Tiny e Mazu são quatro jovens dinossauros que vivem no período Cretáceo. A vida é sempre uma aventura: novos vulcões surgem o tempo todo, braquiossauros e enormes triceratops circulam livremente, chuvas de meteoros iluminam o céu noturno e o feroz Gigantosaurus comanda tudo!</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416085600 +0000" stop="20230416090700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ideiafix e os Irredutíveis</title>
+    <desc lang="pt">Ano 52 a.C. Lutécia é inteiramente ocupada pelos romanos... bem, não é bem assim! Ideiafix e os Irredutíveis ainda resistem, agora e sempre, aos invasores! Com as suas travessuras, perseguições em alta velocidade e um toque de magia, Ideiafix e os Irredutíveis proporcionam muita diversão!</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416090700 +0000" stop="20230416091900 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ideiafix e os Irredutíveis</title>
+    <desc lang="pt">Ano 52 a.C. Lutécia é inteiramente ocupada pelos romanos... bem, não é bem assim! Ideiafix e os Irredutíveis ainda resistem, agora e sempre, aos invasores! Com as suas travessuras, perseguições em alta velocidade e um toque de magia, Ideiafix e os Irredutíveis proporcionam muita diversão!</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E28</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416091900 +0000" stop="20230416093100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Bell e Sebastião</title>
+    <desc lang="pt">Bell e Sebastião segue as aventuras ao ar livre de um menino corajoso e aventureiro, Sebastião, e do seu enorme cachorro branco, Bell. Sempre em busca de aventura, Bell e Sebastião correrão para resgatar qualquer pessoa, amigo ou inimigo, qualquer que seja o risco.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E15</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416093100 +0000" stop="20230416094400 +0000" channel="RTP 2 HD">
+    <title lang="pt">Bell e Sebastião</title>
+    <desc lang="pt">Bell e Sebastião segue as aventuras ao ar livre de um menino corajoso e aventureiro, Sebastião, e do seu enorme cachorro branco, Bell. Sempre em busca de aventura, Bell e Sebastião correrão para resgatar qualquer pessoa, amigo ou inimigo, qualquer que seja o risco.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416094400 +0000" stop="20230416095100 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Ovelha Choné</title>
+    <desc lang="pt">Ovelha Choné? Pois esta ovelha é um pouco excêntrica, como o nome indica! Aventuras cheias de humor na quinta, sob a supervisão do Agricultor e de Bitzer, o cão pastor.</desc>
+    <date>2014</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S4 E5</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416095100 +0000" stop="20230416100000 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Ovelha Choné</title>
+    <desc lang="pt">Ovelha Choné? Pois esta ovelha é um pouco excêntrica, como o nome indica! Aventuras cheias de humor na quinta, sob a supervisão do Agricultor e de Bitzer, o cão pastor.</desc>
+    <date>2014</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S4 E6</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416100000 +0000" stop="20230416124500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Campeonato da Europa de Ginástica Artística</title>
+    <desc lang="pt">A RTP transmite de 13 a 16 de abril diretamente de Antalya, Turquia, o Campeonato da Europa de Ginástica Artística.</desc>
+    <date>2023</date>
+    <category lang="pt">Ginástica</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416124500 +0000" stop="20230416130800 +0000" channel="RTP 2 HD">
+    <title lang="pt">O Amanhecer dos Croods</title>
+    <desc lang="pt">Vem dar valentes gargalhadas com a primeira família do mundo à medida que descobrem o desporto, as sestas e outras maravilhas num mundo de criaturas exóticas e aventuras!</desc>
+    <date>2015</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416130800 +0000" stop="20230416132000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Hoodie</title>
+    <desc lang="pt">Hoodie é uma história de super-heróis sobre um rapaz perfeitamente normal, com um talento excecional para fazer parkour e uma paixão pela justiça. Por mero acaso, torna-se num herói moderno que luta contra a injustiça com os seus amigos.</desc>
+    <date>2020</date>
+    <category lang="pt">Crime</category>
+    <episode-num system="onscreen">S1 E51</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416132000 +0000" stop="20230416133700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Hoodie</title>
+    <desc lang="pt">Hoodie é uma história de super-heróis sobre um rapaz perfeitamente normal, com um talento excecional para fazer parkour e uma paixão pela justiça. Por mero acaso, torna-se num herói moderno que luta contra a injustiça com os seus amigos.</desc>
+    <date>2020</date>
+    <category lang="pt">Crime</category>
+    <episode-num system="onscreen">S1 E52</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416133700 +0000" stop="20230416134900 +0000" channel="RTP 2 HD">
+    <title lang="pt">Hoodie</title>
+    <desc lang="pt">Hoodie é uma história de super-heróis sobre um rapaz perfeitamente normal, com um talento excecional para fazer parkour e uma paixão pela justiça. Por mero acaso, torna-se num herói moderno que luta contra a injustiça com os seus amigos.</desc>
+    <date>2020</date>
+    <category lang="pt">Crime</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416134900 +0000" stop="20230416140100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Hoodie</title>
+    <desc lang="pt">Hoodie é uma história de super-heróis sobre um rapaz perfeitamente normal, com um talento excecional para fazer parkour e uma paixão pela justiça. Por mero acaso, torna-se num herói moderno que luta contra a injustiça com os seus amigos.</desc>
+    <date>2020</date>
+    <category lang="pt">Crime</category>
+    <episode-num system="onscreen">S2 E2</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416140100 +0000" stop="20230416140700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências. Texto e locução de Manuela Silva Reis.</desc>
+    <date>2019</date>
+    <category lang="pt">Magazine cultural</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416140700 +0000" stop="20230416160600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Desporto 2</title>
+    <desc lang="pt">Bem-vindo ao programa das modalidades praticadas em Portugal e no estrangeiro.</desc>
+    <date>2023</date>
+    <category lang="pt">Informação desportiva</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416160600 +0000" stop="20230416163400 +0000" channel="RTP 2 HD">
+    <title lang="pt">Caminhos</title>
+    <desc lang="pt">Programa informativo semanal dedicado às atividades das diversas Igrejas representadas em Portugal. Para além de abordar as atividades religiosas inerentes a cada uma, «Caminhos» tem também uma preocupação social, tratando temas de interesse para a sociedade atual.</desc>
+    <category lang="pt">Religião</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416163400 +0000" stop="20230416170400 +0000" channel="RTP 2 HD">
+    <title lang="pt">70x7</title>
+    <desc lang="pt">Atualização semanal das atividades e assuntos relacionados com a igreja católica. Em cada episódio, apresenta uma reportagem que procura sinais do religioso na pessoa humana. Procura-se ampliar iniciativas que contribuem para uma vida com qualidade e contrariar o que não dignifica a pessoa humana.</desc>
+    <category lang="pt">Religião</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416170400 +0000" stop="20230416184100 +0000" channel="RTP 2 HD">
+    <title lang="pt">KuDamm 63: Toca a Dançar</title>
+    <desc lang="pt">Monika, Helga e Eva precisam de aprender a deixar de olhar para o passado e enfrentar o futuro.</desc>
+    <date>2020</date>
+    <category lang="pt">Drama</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416184100 +0000" stop="20230416191200 +0000" channel="RTP 2 HD">
+    <title lang="pt">Temos Programa</title>
+    <desc lang="pt">Temos programa é um cartaz TV dedicado apenas à programação da RTP2, ou seja, vamos mesmo puxar a brasa à nossa sardinha. É emitido todos os domingos pelas 19.00 e faremos uma viagem de segunda a domingo destacando os programas que queremos que os telespectadores não percam.</desc>
+    <date>2023</date>
+    <category lang="pt">Cultura</category>
+    <episode-num system="onscreen">S2 E16</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416191200 +0000" stop="20230416191800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Afazeres do Mês</title>
+    <desc lang="pt">Magazine mensal sobre os trabalhos na horta e no jardim. A cada mês, vamos ficar a saber o que se deve semear e que culturas estão prontas para ser colhidas.</desc>
+    <date>2023</date>
+    <category lang="pt">Magazine cultural</category>
+    <episode-num system="onscreen">S2 E4</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416191800 +0000" stop="20230416200900 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Pedalar pelo Japão</title>
+    <desc lang="pt">Neste episódio vamos até Aizu, no alto das montanhas de Fukushima, onde o outono chegou e onde vamos encontrar uma antiga vila repleta de tradição. Junte-se a nós numa jornada de 300 quilómetros!</desc>
+    <date>2020</date>
+    <category lang="pt">Viagens</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416200900 +0000" stop="20230416203000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Parlamento</title>
+    <desc lang="pt">Os grandes debates Governo/Oposição. As principais propostas dos partidos políticos. As ideias dos deputados para o país. Todas as semanas os assuntos que interessam aos portugueses são discutidos no Parlamento. Notícias, reportagem e debate... no Parlamento.</desc>
+    <category lang="pt">Política</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416203000 +0000" stop="20230416210500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Jornal 2</title>
+    <desc lang="pt">O mundo em 30 minutos. No Jornal 2 analisamos factos e cruzamos opiniões. A cada dia que passa fazemos leitura do país e do mundo com dados, explicações e interpretações nas mais diversas áreas, como Política, Ciência, Economia e Cultura.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416210500 +0000" stop="20230416215100 +0000" channel="RTP 2 HD">
+    <title lang="pt">As Confissões de Frannie Langton</title>
+    <desc lang="pt">Em 1826, o proeminente casal da sociedade londrina, o célebre cientista George Benham e a sua linda esposa, Madame Marguerite Benham, são encontrados mortos na cama com Frannie deitada ao lado de Marguerite.</desc>
+    <date>2021</date>
+    <category lang="pt">Drama</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416215100 +0000" stop="20230416215600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências. Texto e locução de Manuela Silva Reis.</desc>
+    <date>2019</date>
+    <category lang="pt">Magazine cultural</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416215600 +0000" stop="20230416223800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Mythos</title>
+    <sub-title lang="pt">O Mito de Orestes</sub-title>
+    <desc lang="pt">O encontro entre Aquiles e Heitor representa o modelo do combate heroico, com a sua grandeza e os seus excessos. Neste programa, José Pedro Serra comenta esse momento da Ilíada, bem como o surpreendente episódio que se seguirá.</desc>
+    <date>2022</date>
+    <category lang="pt">Magazine</category>
+    <episode-num system="onscreen">S1 E21</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416223800 +0000" stop="20230417001700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ela é Uma Música</title>
+    <desc lang="pt">O universo das guitarras amplificadas e do som distorcido é um meio maioritariamente masculino. Mas se escutarmos melhor e com mais atenção, a história é outra. Dos anos 1950 até à atualidade.</desc>
+    <date>2022</date>
+    <category lang="pt">Artes</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417001700 +0000" stop="20230417003800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Voz do Cidadão</title>
+    <desc lang="pt">Programa da responsabilidade do Provedor do Telespectador, sendo exibido regularmente através de todos os canais do Serviço Público de Televisão, reflete o tratamento dos casos mais significativos trazidos à apreciação do Provedor pelos telespetadores em cada semana.</desc>
+    <date>2023</date>
+    <category lang="pt">Magazine de informação</category>
+    <episode-num system="onscreen">S12 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417003800 +0000" stop="20230417014800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Cinemax</title>
+    <desc lang="pt">Cinemax é um programa dedicado ao universo da curta-metragem e à relevância deste formato na descoberta de novos talentos e valorização de autores clássicos. O Cinemax garante a exibição regular de curtas-metragens, complementada por breves entrevistas que apresentam os seus autores.</desc>
+    <date>2023</date>
+    <category lang="pt">Artes</category>
+    <episode-num system="onscreen">S12 E15</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417014800 +0000" stop="20230417023500 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Mulher do Meu Marido</title>
+    <desc lang="pt">Quando um empresário de sucesso é levado de urgência para o hospital, depois de sofrer um derrame, uma vida dupla de décadas é revelada. Duas mulheres aparecem e afirmam ser a sua mulher e mãe do seu filho.</desc>
+    <date>2021</date>
+    <category lang="pt">Drama</category>
+    <episode-num system="onscreen">S1 E7</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417023500 +0000" stop="20230417025300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Cuidado com a Língua!</title>
+    <desc lang="pt">O geólogo Galopim de Carvalho é o convidado do último programa da 8.a série do magazine apresentado por Diogo Infante à volta dos mais sugestivos termos, expressões e curiosidades (e "alçapões", também...) da língua portuguesa. Tema: uma viagem ao tempo dos dinossauros. Ou será antes "dinossáurios"?</desc>
+    <date>2012</date>
+    <category lang="pt">Magazine cultural</category>
+    <episode-num system="onscreen">S7 E13</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417025300 +0000" stop="20230417053600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Campeonato da Europa de Ginástica Artística</title>
+    <desc lang="pt">A RTP transmite de 13 a 16 de abril diretamente de Antalya, Turquia, o Campeonato da Europa de Ginástica Artística.</desc>
+    <date>2023</date>
+    <category lang="pt">Ginástica</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417053600 +0000" stop="20230417060200 +0000" channel="RTP 2 HD">
+    <title lang="pt">Caminhos</title>
+    <desc lang="pt">Programa informativo semanal dedicado às atividades das diversas Igrejas representadas em Portugal. Para além de abordar as atividades religiosas inerentes a cada uma, «Caminhos» tem também uma preocupação social, tratando temas de interesse para a sociedade atual.</desc>
+    <category lang="pt">Religião</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417060200 +0000" stop="20230417061600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Robocar Poli</title>
+    <desc lang="pt">Em Broom, uma pequena vila com uma forte equipa de resgate, existem sempre acidentes e problemas como um carro que se despista numa ravina num dia de chuva, uma criança fechada numa casa, entre outras situações de perigo. Em cada episódio, a equipa de resgate da vila salva alguns dos habitantes.</desc>
+    <date>2011</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417061600 +0000" stop="20230417062900 +0000" channel="RTP 2 HD">
+    <title lang="pt">Octonautas</title>
+    <desc lang="pt">São pequenos e não têm medo. São muito fofos e aventureiros. Estão preparados para todos os desafios. São os Octonautas! Prontos a mergulharem numa missão para salvarem o dia!</desc>
+    <date>2010</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417062900 +0000" stop="20230417063600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Momonstros</title>
+    <desc lang="pt">Os Momonstros Haha, Hehe, Hihi, Hoho e Huhu querem ser os melhores amigos das crianças, mas... onde poderão eles aprender a sê-lo? Na Academia Momonstros! Aí, todos os dias um menino ou menina diferente vai mostrar aos nossos amigos o que mais gosta de fazer.</desc>
+    <date>2019</date>
+    <category lang="pt">Didático</category>
+    <episode-num system="onscreen">S1 E23</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417063600 +0000" stop="20230417064100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Kiri e Lou</title>
+    <desc lang="pt">Numa floresta de papel recortado e com criaturas feitas de argila, Kiri, um pequeno dinossauro mal-humorado com emoções avassaladoras e Lou, uma criatura gentil e atenciosa, podem parecer os melhores amigos mais improváveis.</desc>
+    <date>2018</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S3 E19</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417064100 +0000" stop="20230417064600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Numberblocks</title>
+    <desc lang="pt">Os Numberblocks são um grupo de números muito divertido que trabalham juntos para resolver grandes e pequenos problemas e vão ensinar-te a contar de uma forma muito divertida!</desc>
+    <date>2017</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E30</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417064600 +0000" stop="20230417065300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Coelhos Corajosos</title>
+    <desc lang="pt">Boo e o seu irmão mais velho, Bop, vivem grandes aventuras com os seus amigos, e com os seus quatro irmãos pequeninos. Juntos e com muita coragem, exploram o mundo à sua volta! Em cada aventura, os nossos pequenos mas muito bravos coelhinhos, conhecem novos animais da sua idade.</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E40</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417065300 +0000" stop="20230417070500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ollie e Moon</title>
+    <desc lang="pt">Ollie e Moon são dois gatos de seis anos que têm o dom de transformar a vida quotidiana numa aventura a nível global. Eles viajam por todo o o mundo e divertem-se imenso ao encontrar as soluções mais incríveis para quase todos os desafios da vida pré-escolar.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E67</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417070500 +0000" stop="20230417071600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Pablo</title>
+    <desc lang="pt">Pablo é um menino autista de 5 anos e meio inteligente e artístico, cujos desenhos imaginativos ganham vida, permitindo que ele enfrente o mundo real com confiança. Usando os seus lápis mágicos, Pablo transforma os seus desafios diários em aventuras fantásticas!</desc>
+    <date>2019</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E35</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417071600 +0000" stop="20230417072700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Gigantosaurus</title>
+    <desc lang="pt">Rocky, Bill, Tiny e Mazu são quatro jovens dinossauros que vivem no período Cretáceo. A vida é sempre uma aventura: novos vulcões surgem o tempo todo, braquiossauros e enormes triceratops circulam livremente, chuvas de meteoros iluminam o céu noturno e o feroz Gigantosaurus comanda tudo!</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E23</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417072700 +0000" stop="20230417074300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ideiafix e os Irredutíveis</title>
+    <desc lang="pt">Ideiafix é um personagem das histórias de Astérix, o mascote de Obélix, conhecido por ser defensor da natureza e por ganir desesperadamente quando vê uma árvore derrubada.</desc>
+    <date>2022</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E35</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417074300 +0000" stop="20230417075500 +0000" channel="RTP 2 HD">
+    <title lang="pt">As Regras da Flora</title>
+    <desc lang="pt">Flora é uma menina de dez anos que acha muito útil criar regras divertidas para o mundo louco à sua volta. A Flora passa por todas as situações e dilemas embaraçosos e está pronta para compartilhar o seu conhecimento com o mundo!</desc>
+    <date>2019</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417075500 +0000" stop="20230417080200 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Ovelha Choné</title>
+    <desc lang="pt">Ovelha Choné? Pois esta ovelha é um pouco excêntrica, como o nome indica! Aventuras cheias de humor na quinta, sob a supervisão do Agricultor e de Bitzer, o cão pastor.</desc>
+    <date>2014</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417080200 +0000" stop="20230417081500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Nefertine no Nilo</title>
+    <desc lang="pt">Nefertine é uma menina de oito anos que vive no antigo Egito e é dotada de uma curiosidade e coragem inesgotáveis. Ela aspira ser a primeira escriba mulher na história do Egito e está constantemente a registar as suas excitantes aventuras no seu papiro-diário.</desc>
+    <date>2019</date>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417081500 +0000" stop="20230417082800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Luke, o Viajante no Tempo</title>
+    <desc lang="pt">Luke é um rapaz que viaja para vários mundos e épocas diferentes dentro de um elevador muito especial: um elevador que viaja no tempo! Uma emocionante aventura com Luke está prestes a começar!</desc>
+    <date>2020</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S1 E42</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417082800 +0000" stop="20230417084100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Squish</title>
+    <desc lang="pt">Esta é a história de três melhores amigos... que por acaso são amebas! Vem conhecer estes novos amigos e o seu fascinante e divertido mundo!</desc>
+    <date>2018</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417084100 +0000" stop="20230417085200 +0000" channel="RTP 2 HD">
+    <title lang="pt">Squish</title>
+    <desc lang="pt">Esta é a história de três melhores amigos... que por acaso são amebas! Vem conhecer estes novos amigos e o seu fascinante e divertido mundo!</desc>
+    <date>2018</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E32</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417085200 +0000" stop="20230417090000 +0000" channel="RTP 2 HD">
+    <title lang="pt">16 Hudson</title>
+    <desc lang="pt">Bem-vindos ao 16 Hudson! Neste edifício encantador, numa rua sossegada, numa cidade grande, podes sempre encontrar um rosto simpático. Aqui, um grupo de vizinhos que valorizam as semelhanças e diferenças uns dos outros vivem grandes e divertidas aventuras!</desc>
+    <date>2019</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E30</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417090000 +0000" stop="20230417092500 +0000" channel="RTP 2 HD">
+    <title lang="pt">O Amanhecer dos Croods</title>
+    <desc lang="pt">Os Croods estão de volta! Nesta temporada a avó vai meter-se em divertidos apuros, a bebé Sandy aprende a ter maneiras, Eep apaixona-se pela primeira vez e os jovens de Ahhh! Valley revoltam-se contra as regras dos adultos.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417092500 +0000" stop="20230417094700 +0000" channel="RTP 2 HD">
+    <title lang="pt">O Amanhecer dos Croods</title>
+    <desc lang="pt">Os Croods estão de volta! Nesta temporada a avó vai meter-se em divertidos apuros, a bebé Sandy aprende a ter maneiras, Eep apaixona-se pela primeira vez e os jovens de Ahhh! Valley revoltam-se contra as regras dos adultos.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S2 E8</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417094700 +0000" stop="20230417095300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Athleticus</title>
+    <desc lang="pt">Sejam desportos de inverno ou verão, vários animais selvagens competem em eventos desportivos. Seja qual for o desporto, eles reagem de acordo com a sua personalidade e as particularidades da sua anatomia, criando situações cómicas ou poéticas, mas sempre excêntricas e muito divertidas!</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417095300 +0000" stop="20230417101800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Joga Quem Quizzer</title>
+    <desc lang="pt">Não há família que dispense um bom serão à volta dos jogos, sejam eles de tabuleiro, ao ar livre, numa consola ou no tablet. E porque não também na televisão? Quem nunca assistiu a um quiz show e se imaginou a adivinhar todas as respostas e a sair vencedor? Pois bem, desta vez é possível.</desc>
+    <date>2021</date>
+    <category lang="pt">Concurso</category>
+    <episode-num system="onscreen">S1 E76</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417101800 +0000" stop="20230417111200 +0000" channel="RTP 2 HD">
+    <title lang="pt">Engenharia Antiga</title>
+    <sub-title lang="pt">Anatomia da Casa</sub-title>
+    <desc lang="pt">O Burj Khalifa nos Emirados Árabes Unidos simboliza perfeitamente o dinamismo do Oriente Médio. Mas este e outros edifícios, em todo o mundo, foram influenciados pela tradição islâmica presente e passada.</desc>
+    <date>2022</date>
+    <category lang="pt">Histórico</category>
+    <episode-num system="onscreen">S2 E6</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417111200 +0000" stop="20230417115900 +0000" channel="RTP 2 HD">
+    <title lang="pt">O Palast</title>
+    <desc lang="pt">Marlene não consegue cumprir o seu papel enquanto substituta de Chris e Steven Williams, o coreógrafo convidado, decide atribuir a Bettina, rival de Chris, o seu solo. Enquanto isso, Chris, em Bamberg, tem uma acessa discussão com o seu pai, Roland Winninger.</desc>
+    <date>2021</date>
+    <category lang="pt">Drama</category>
+    <episode-num system="onscreen">S1 E4</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417115900 +0000" stop="20230417122600 +0000" channel="RTP 2 HD">
+    <title lang="pt">E2 - Escola Superior de Comunicação Social</title>
+    <desc lang="pt">Os acontecimentos trágicos ocorrem de maneira inesperada e dramática. Embora as notícias e reportagens que os retratam devam cumprir critérios que vão ao encontro da ética e deontologia do jornalismo, a forma como a sua cobertura é feita é muitas vezes colocada em causa.</desc>
+    <date>2023</date>
+    <category lang="pt">Magazine</category>
+    <episode-num system="onscreen">S13 E10</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417122600 +0000" stop="20230417125300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Começar de Novo</title>
+    <desc lang="pt">A história Cristian Georgescu, um ativista romeno de etnia cigana que lutou contra a adição, e Sabina Karamehmedovic, uma arquiteta obrigada a fugir da Bósnia-Herzegovina durante a guerra.</desc>
+    <date>2021</date>
+    <category lang="pt">Atualidade</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417125300 +0000" stop="20230417130000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências. Texto e locução de Manuela Silva Reis.</desc>
+    <date>2019</date>
+    <category lang="pt">Magazine cultural</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417130000 +0000" stop="20230417140100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Sociedade Civil</title>
+    <sub-title lang="pt">Ditaduras Ibéricas</sub-title>
+    <desc lang="pt">O Sociedade Civil é um programa com História que quer fazer cada vez mais parte do dia-a-dia de todos os portugueses. São questões públicas debatidas por gente distinta, temas particulares apresentados de forma clara. Apresentado pelo jornalista Luís Castro, de segunda a sexta-feira, às 14h00.</desc>
+    <date>2023</date>
+    <category lang="pt">Debate</category>
+    <episode-num system="onscreen">S19 E74</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417140100 +0000" stop="20230417143800 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Fé dos Homens</title>
+    <desc lang="pt">Espaço dedicado às diferentes religiões reconhecidas em Portugal e instituídas através de uma Igreja própria.</desc>
+    <category lang="pt">Religião</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417143800 +0000" stop="20230417150300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Fabrico Internacional</title>
+    <sub-title lang="pt">Critical Software</sub-title>
+    <desc lang="pt">Três académicos publicam uma tese sobre segurança informática que chama a atenção da NASA. "Um golpe de sorte" - diz Gonçalo Quadros, um dos fundadores, sobre a forma como a Critical Software arrancou em 1998. Desde então a empresa de Coimbra cria programas de computador para missões espaciais.</desc>
+    <category lang="pt">Magazine cultural</category>
+    <episode-num system="onscreen">S1 E10</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417150300 +0000" stop="20230417160100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Do Rio ao Mar</title>
+    <desc lang="pt">O Mekong, o Mississipi, o Danúbio, o Amazonas... em todos os continentes, existem rios míticos, verdadeiros convites para rumar ao mar. São a fonte das maiores civilizações, refúgio de povos esquecidos, um pulmão económico e cultural e ecossistemas fantásticos.</desc>
+    <date>2022</date>
+    <category lang="pt">Natureza</category>
+    <episode-num system="onscreen">S1 E18</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417160100 +0000" stop="20230417161200 +0000" channel="RTP 2 HD">
+    <title lang="pt">Octonautas</title>
+    <desc lang="pt">São pequenos e não têm medo. São muito fofos e aventureiros. Estão preparados para todos os desafios. São os Octonautas! Prontos a mergulharem numa missão para salvarem o dia!</desc>
+    <date>2010</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E22</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417161200 +0000" stop="20230417161800 +0000" channel="RTP 2 HD">
+    <title lang="pt">Numberblocks</title>
+    <desc lang="pt">Os Numberblocks são um grupo de números muito divertido que trabalham juntos para resolver grandes e pequenos problemas e vão ensinar-te a contar de uma forma muito divertida!</desc>
+    <date>2017</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417161800 +0000" stop="20230417162500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Coelhos Corajosos</title>
+    <desc lang="pt">Boo e o seu irmão mais velho, Bop, vivem grandes aventuras com os seus amigos, e com os seus quatro irmãos pequeninos. Juntos e com muita coragem, exploram o mundo à sua volta! Em cada aventura, os nossos pequenos mas muito bravos coelhinhos, conhecem novos animais da sua idade.</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E41</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417162500 +0000" stop="20230417163700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ollie e Moon</title>
+    <desc lang="pt">Ollie e Moon são dois gatos de seis anos que têm o dom de transformar a vida quotidiana numa aventura a nível global. Eles viajam por todo o o mundo e divertem-se imenso ao encontrar as soluções mais incríveis para quase todos os desafios da vida pré-escolar.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E69</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417163700 +0000" stop="20230417165000 +0000" channel="RTP 2 HD">
+    <title lang="pt">Pablo</title>
+    <desc lang="pt">Pablo é um menino autista de 5 anos e meio inteligente e artístico, cujos desenhos imaginativos ganham vida, permitindo que ele enfrente o mundo real com confiança. Usando os seus lápis mágicos, Pablo transforma os seus desafios diários em aventuras fantásticas!</desc>
+    <date>2019</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E30</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417165000 +0000" stop="20230417170100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Gigantosaurus</title>
+    <desc lang="pt">Rocky, Bill, Tiny e Mazu são quatro jovens dinossauros que vivem no período Cretáceo. A vida é sempre uma aventura: novos vulcões surgem o tempo todo, braquiossauros e enormes triceratops circulam livremente, chuvas de meteoros iluminam o céu noturno e o feroz Gigantosaurus comanda tudo!</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S2 E17</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417170100 +0000" stop="20230417171300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ideiafix e os Irredutíveis</title>
+    <desc lang="pt">Ano 52 a.C. Lutécia é inteiramente ocupada pelos romanos... bem, não é bem assim! Ideiafix e os Irredutíveis ainda resistem, agora e sempre, aos invasores! Com as suas travessuras, perseguições em alta velocidade e um toque de magia, Ideiafix e os Irredutíveis proporcionam muita diversão!</desc>
+    <date>2021</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E31</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417171300 +0000" stop="20230417172500 +0000" channel="RTP 2 HD">
+    <title lang="pt">Bell e Sebastião</title>
+    <desc lang="pt">Bell e Sebastião segue as aventuras ao ar livre de um menino corajoso e aventureiro, Sebastião, e do seu enorme cachorro branco, Bell. Sempre em busca de aventura, Bell e Sebastião correrão para resgatar qualquer pessoa, amigo ou inimigo, qualquer que seja o risco.</desc>
+    <date>2017</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417172500 +0000" stop="20230417173900 +0000" channel="RTP 2 HD">
+    <title lang="pt">Luke, o Viajante no Tempo</title>
+    <desc lang="pt">Luke é um rapaz que viaja para vários mundos e épocas diferentes dentro de um elevador muito especial: um elevador que viaja no tempo! Uma emocionante aventura com Luke está prestes a começar!</desc>
+    <date>2020</date>
+    <category lang="pt">Aventura</category>
+    <episode-num system="onscreen">S1 E47</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417173900 +0000" stop="20230417175300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Squish</title>
+    <desc lang="pt">Esta é a história de três melhores amigos... que por acaso são amebas! Vem conhecer estes novos amigos e o seu fascinante e divertido mundo!</desc>
+    <date>2018</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417175300 +0000" stop="20230417180400 +0000" channel="RTP 2 HD">
+    <title lang="pt">Squish</title>
+    <desc lang="pt">Esta é a história de três melhores amigos... que por acaso são amebas! Vem conhecer estes novos amigos e o seu fascinante e divertido mundo!</desc>
+    <date>2018</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E37</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417180400 +0000" stop="20230417181400 +0000" channel="RTP 2 HD">
+    <title lang="pt">O Corpo Humano</title>
+    <desc lang="pt">Uma série divertida e interessante que demonstra quão belo e incrível é o corpo humano... de A a Z!</desc>
+    <date>2018</date>
+    <category lang="pt">Didático</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417181400 +0000" stop="20230417181900 +0000" channel="RTP 2 HD">
+    <title lang="pt">Radar XS</title>
+    <desc lang="pt">Radar XS é um telejornal para crianças dos 8 aos 12 anos onde se pretende incentivar o pensamento crítico e a cidadania consciente. Vamos juntar a política e a cultura, a economia e desporto, a ciência e a literatura infantil, a atualidade nacional e internacional numa linguagem simples e objetiva.</desc>
+    <date>2022</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S5 E94</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417181900 +0000" stop="20230417182900 +0000" channel="RTP 2 HD">
+    <title lang="pt">As Regras da Flora</title>
+    <desc lang="pt">Flora é uma menina de dez anos que acha muito útil criar regras divertidas para o mundo louco à sua volta. A Flora passa por todas as situações e dilemas embaraçosos e está pronta para compartilhar o seu conhecimento com o mundo!</desc>
+    <date>2018</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E16</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417182900 +0000" stop="20230417184100 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Ovelha Choné</title>
+    <desc lang="pt">Ovelha Choné? Pois esta ovelha é um pouco excêntrica, como o nome indica! Aventuras cheias de humor na quinta, sob a supervisão do Agricultor e de Bitzer, o cão pastor.</desc>
+    <date>2014</date>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S4 E9</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417184100 +0000" stop="20230417185300 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+    <desc lang="pt">Daniel Sissou tem um segredo: a sua bola de futebol preferida é nada mais do que Erico Platana, um antigo jogador transformado em bola por um poderoso feiticeiro. Para voltar a ser humano, Erico tem de ajudar Daniel a ser campeão! Um menino, uma bola, dois amigos e um objectivo.</desc>
+    <date>2016</date>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S1 E25</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417185300 +0000" stop="20230417190400 +0000" channel="RTP 2 HD">
+    <title lang="pt">Ensina-me Se Conseguires</title>
+    <desc lang="pt">Daniel Sissou tem um segredo: a sua bola de futebol preferida é nada mais do que Erico Platana, um antigo jogador transformado em bola por um poderoso feiticeiro. Para voltar a ser humano, Erico tem de ajudar Daniel a ser campeão! Um menino, uma bola, dois amigos e um objectivo.</desc>
+    <date>2016</date>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S1 E26</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417190400 +0000" stop="20230417192600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Tom Sawyer</title>
+    <desc lang="pt">Tom Sawyer vive a fantasia de todas as crianças: ser livre como um pássaro, ousado, curioso e corajoso. Cada história de Tom Sawyer é repleta de aventuras: que criança não sonharia desafiar os seus pais e uma tempestade furiosa para procurar um tesouro com um melhor amigo como Huckleberry Finn.</desc>
+    <date>2019</date>
+    <category lang="pt">Programação Infantil</category>
+    <episode-num system="onscreen">S1 E19</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417192600 +0000" stop="20230417193700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Banda Zig Zag</title>
+    <desc lang="pt">A Zig, o Zag e o Zzz juntaram-se para, de um modo divertido, dar música às meninas e meninos do Zig Zag.</desc>
+    <category lang="pt">Séries de Animação</category>
+    <episode-num system="onscreen">S1 E8</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417193700 +0000" stop="20230417203000 +0000" channel="RTP 2 HD">
+    <title lang="pt">A Cidade Medieval de Rocamadour</title>
+    <desc lang="pt">Rocamadour é uma cidadela medieval de tirar o fôlego, construída na encosta de um penhasco no centro da França nas fronteiras do Maciço Central. Desafiando as leis da gravidade, equilibrada na rocha, eleva-se a 364 metros, 40 metros mais alto que a Torre Eiffel.</desc>
+    <date>2021</date>
+    <category lang="pt">Histórico</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417203000 +0000" stop="20230417210100 +0000" channel="RTP 2 HD">
+    <title lang="pt">Jornal 2</title>
+    <desc lang="pt">O mundo em 30 minutos. No Jornal 2 analisamos factos e cruzamos opiniões. A cada dia que passa fazemos leitura do país e do mundo com dados, explicações e interpretações nas mais diversas áreas, como Política, Ciência, Economia e Cultura.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417210100 +0000" stop="20230417214700 +0000" channel="RTP 2 HD">
+    <title lang="pt">Os Crimes de Sommerdahl</title>
+    <desc lang="pt">Novas provas surgem no caso que envia Dan Sommerdahl para a missão mais desafiadora em que, até agora, esteve envolvido. Enquanto isso, provas importantes correm o risco de desaparecerem...</desc>
+    <date>2020</date>
+    <category lang="pt">Crime</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417214700 +0000" stop="20230417223600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Visita Guiada</title>
+    <sub-title lang="pt">Estratégia para o Povoamento de Cabo Verde e seus Desenvolvimentos - Ilha de Santiago</sub-title>
+    <desc lang="pt">A maior singularidade do MIAA é o enorme arco cronológico, geográfico e tipológico do que mostra. Artefactos com 600 mil anos achados no território de Abrantes, ferros da Pérsia, cerâmicas do Egito, vasos da antiga Grécia...</desc>
+    <date>2023</date>
+    <category lang="pt">Civilização</category>
+    <episode-num system="onscreen">S13 E2</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417223600 +0000" stop="20230417224600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Folha de Sala</title>
+    <desc lang="pt">Uma agenda cultural que destaca espectáculos de teatro, música e outros, não esquecendo o lançamento de livros e discos, o cinema e ainda a realização de outros eventos, como exposições, espectáculos ao ar livre, conferências. Texto e locução de Manuela Silva Reis.</desc>
+    <date>2019</date>
+    <category lang="pt">Magazine cultural</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417224600 +0000" stop="20230418001600 +0000" channel="RTP 2 HD">
+    <title lang="pt">Com Todas As Nossas Forças</title>
+    <desc lang="pt">Julien, 17 anos, sofre de paralesia cerebral e está confinado a uma cadeira de rodas. Apesar do amor que lhe tem, a família está prestes a desfazer-se sob o peso de lidar com a situação. Na tentativa de melhorar o relacionamento com o pai, Julien desafia-o a participar com ele na corrida Ironman.</desc>
+    <date>2013</date>
+    <category lang="pt">Drama</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415002000 +0000" stop="20230415013000 +0000" channel="SIC HD">
+    <title lang="pt">Pantanal</title>
+    <date>2022</date>
+    <category lang="pt">Novela</category>
+    <episode-num system="onscreen">S1 E250</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415013000 +0000" stop="20230415030000 +0000" channel="SIC HD">
+    <title lang="pt">Passadeira Vermelha</title>
+    <desc lang="pt">"Passadeira Vermelha" faz a análise de tudo o que de importante se passou no mundo dos famosos e olha à lupa todas as suas ações. Os comentários não são consensuais e estão longe de ser pacíficos... Mas uma coisa é prometida: nada vai ficar por dizer!</desc>
+    <category lang="pt">Socialite</category>
+    <episode-num system="onscreen">S10 E75</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415030000 +0000" stop="20230415034500 +0000" channel="SIC HD">
+    <title lang="pt">Investigação Criminal: Los Angeles</title>
+    <desc lang="pt">Um drama policial sobre o mundo arriscado do departamento policial e de investigação Office of Special Projects, uma divisão que está encarregada de apreender os mais elusivos e perigosos criminosos que possam ser considerados uma ameaça à segurança da nação.</desc>
+    <category lang="pt">Ação</category>
+    <episode-num system="onscreen">S13 E12</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>6.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415034500 +0000" stop="20230415043500 +0000" channel="SIC HD">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias um espaço dedicado a vendas por televisão onde são feitas demonstrações dos produtos.</desc>
+    <category lang="pt">Televendas</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415043500 +0000" stop="20230415050500 +0000" channel="SIC HD">
+    <title lang="pt">Camilo, o Presidente</title>
+    <sub-title lang="pt">O Rival</sub-title>
+    <desc lang="pt">As situações cómicas passar-se-ão na freguesia fictícia Fanecas de Cima, que é presidida por Camilo, e na freguesia Fanecas de Baixo, presidida pela personagem de Carlos Almeida Ribeiro, sendo que a história centra-se na rivalidade e competição entre as duas freguesias.</desc>
+    <date>2009</date>
+    <category lang="pt">Humor</category>
+    <episode-num system="onscreen">S1 E1</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230415050500 +0000" stop="20230415053500 +0000" channel="SIC HD">
+    <title lang="pt">Etnias</title>
+    <desc lang="pt">Programa destinado às comunidades imigrantes. O Etnias faz a divulgação de informações úteis para os estrangeiros que escolheram Portugal para viver e trabalhar, assim como de notícias sobre os seus países de origem.</desc>
+    <category lang="pt">Magazine</category>
+    <episode-num system="onscreen">S23 E15</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415053500 +0000" stop="20230415060000 +0000" channel="SIC HD">
+    <title lang="pt">Médico da Casa</title>
+    <desc lang="pt">Se a saúde é uma prioridade, imagine ter um médico sempre consigo, em sua casa.\nEm Médico da Casa, o Dr. Almeida Nunes estará consigo, todas as semanas, para lhe falar sobre o que precisa realmente saber a propósito da sua saúde.</desc>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S1 E78</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415060000 +0000" stop="20230415061000 +0000" channel="SIC HD">
+    <title lang="pt">Isto É Matemática</title>
+    <desc lang="pt">Um programa que prova que a matemática não está confinada à sala de aula. De uma forma simples, educativa e até divertida, o professor universitário Rogério Martins mostra que a matemática está presente em todo o lado e pode ser entendida por todos.</desc>
+    <category lang="pt">Educação</category>
+    <episode-num system="onscreen">S13 E3</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415061000 +0000" stop="20230415074500 +0000" channel="SIC HD">
+    <title lang="pt">Patrões Fora</title>
+    <desc lang="pt">Sempre que João Baião e Diana Chaves se ausentam por uns dias, deixando a sua casa feliz, Odete Barata, a empregada doméstica, aproveita o facto dos patrões lhe terem confiado a chave e leva para lá os seus familiares, às escondidas, desfrutando com eles de todas as comodidades.</desc>
+    <date>2022</date>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415074500 +0000" stop="20230415090000 +0000" channel="SIC HD">
+    <title lang="pt">Caixa Mágica - As Homenagens</title>
+    <desc lang="pt">Na contagem decrescente para os 30 anos da SIC, chega um programa que celebra a magia da televisão. Este formato original da SIC abre as portas ao público que há 3 décadas faz da SIC uma parte da sua vida e da sua casa.</desc>
+    <category lang="pt">Entrevista</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415090000 +0000" stop="20230415111000 +0000" channel="SIC HD">
+    <title lang="pt">Alô Marco Paulo</title>
+    <desc lang="pt">Marco Paulo abre as portas de sua casa e você está mais do que convidado. O cantor está de volta à televisão para celebrar a vida e os seus grandes sucessos.</desc>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S3 E12</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415111000 +0000" stop="20230415115900 +0000" channel="SIC HD">
+    <title lang="pt">Nosso Mundo</title>
+    <sub-title lang="pt">Nature's Great Migrations</sub-title>
+    <desc lang="pt">Câmaras ocultas espreitam os hábitos mais privados dos animais. Conheça melhor o mundo em que vivemos com os extraordinários documentários da National Geographic, Explorer, BBC e muitos outros.</desc>
+    <category lang="pt">Natureza</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415115900 +0000" stop="20230415133000 +0000" channel="SIC HD">
+    <title lang="pt">Primeiro Jornal</title>
+    <desc lang="pt">A informação SIC à hora do almoço.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415133000 +0000" stop="20230415142500 +0000" channel="SIC HD">
+    <title lang="pt">Alta Definição</title>
+    <desc lang="pt">Daniel Oliveira conduz uma entrevista, numa abordagem intimista. Gravado em Alta Definição, cada programa pretende ser um retrato biográfico do convidado, que é desafiado a apresentar-se sem maquilhagem, na sua mais pura essência.</desc>
+    <category lang="pt">Entrevista</category>
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415142500 +0000" stop="20230415152500 +0000" channel="SIC HD">
+    <title lang="pt">E-Especial</title>
+    <desc lang="pt">O programa que lhe mostra todos os segredos de bastidores dos programas, dos atores, dos convidados e de todas as caras da SIC. Apresentado por Sofia Cerveira e Ricardo Pereira.</desc>
+    <category lang="pt">Magazine</category>
+    <episode-num system="onscreen">S5 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415152500 +0000" stop="20230415184500 +0000" channel="SIC HD">
+    <title lang="pt">Caixa Mágica</title>
+    <desc lang="pt">Na contagem decrescente para os 30 anos da SIC, chega um programa que celebra a magia da televisão. Este formato original da SIC abre as portas ao público que há 3 décadas faz da SIC uma parte da sua vida e da sua casa.</desc>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S2 E13</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415184500 +0000" stop="20230415185700 +0000" channel="SIC HD">
+    <title lang="pt">É Bom Vivermos Juntos!</title>
+    <desc lang="pt">A SIC quer chegar ainda mais perto daqueles que a acompanham… mais perto que nunca! Neste programa, os apresentadores, actores e jornalistas da SIC vão partilhar momentos com os telespectadores e estreitar os fortes laços que nos unem.</desc>
+    <category lang="pt">Magazine</category>
+    <episode-num system="onscreen">S1 E24</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415185700 +0000" stop="20230415204000 +0000" channel="SIC HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">O país e o mundo, todos os dias, às 20h00, na SIC.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415204000 +0000" stop="20230415211500 +0000" channel="SIC HD">
+    <title lang="pt">Sangue Oculto</title>
+    <category lang="pt">Entretenimento</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415211500 +0000" stop="20230415224000 +0000" channel="SIC HD">
+    <title lang="pt">Vale Tudo</title>
+    <desc lang="pt">O “Vale Tudo” volta ao seu ecrã para lhe fazer companhia nas noites de domingo e promete trazer muitas novidades, gargalhadas e trambolhões.</desc>
+    <category lang="pt">Humor</category>
+    <episode-num system="onscreen">S4 E16</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230415224000 +0000" stop="20230416013000 +0000" channel="SIC HD">
+    <title lang="pt">Terra Nossa</title>
+    <desc lang="pt">César Mourão viaja até às localidades de personalidades que se destacam nas mais variadas áreas, que vão da política à música, passando pelo desporto ou pela representação.</desc>
+    <category lang="pt">Viagens</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416013000 +0000" stop="20230416023000 +0000" channel="SIC HD">
+    <title lang="pt">Não Há Crise!</title>
+    <desc lang="pt">Passe o seu serão a chorar de tanto rir a ver os apanhados do "Não Há Crise", situações caricatas, surpreendentes e planeadas para divertir os apanhados e a si, aí em casa.</desc>
+    <category lang="pt">Humor</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>2.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416023000 +0000" stop="20230416041000 +0000" channel="SIC HD">
+    <title lang="pt">Levanta-te e Ri</title>
+    <desc lang="pt">Levanta-te e Ri é um programa de televisão, ao vivo, de stand-up comedy. No programa participam vários comediantes portugueses convidados, e é gravado em diferentes cidades pelo país.</desc>
+    <category lang="pt">Humor</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416041000 +0000" stop="20230416050000 +0000" channel="SIC HD">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias um espaço dedicado a vendas por televisão onde são feitas demonstrações dos produtos.</desc>
+    <category lang="pt">Televendas</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416050000 +0000" stop="20230416053000 +0000" channel="SIC HD">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias um espaço dedicado a vendas por televisão onde são feitas demonstrações dos produtos.</desc>
+    <category lang="pt">Televendas</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416053000 +0000" stop="20230416064500 +0000" channel="SIC HD">
+    <title lang="pt">Patrões Fora</title>
+    <desc lang="pt">Sempre que João Baião e Diana Chaves se ausentam por uns dias, deixando a sua casa feliz, Odete Barata, a empregada doméstica, aproveita o facto dos patrões lhe terem confiado a chave e leva para lá os seus familiares, às escondidas, desfrutando com eles de todas as comodidades.</desc>
+    <date>2022</date>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416064500 +0000" stop="20230416080000 +0000" channel="SIC HD">
+    <title lang="pt">Não Há Crise!</title>
+    <desc lang="pt">Passe o seu serão a chorar de tanto rir a ver os apanhados do "Não Há Crise", situações caricatas, surpreendentes e planeadas para divertir os apanhados e a si, aí em casa.</desc>
+    <category lang="pt">Humor</category>
+    <episode-num system="onscreen">S16 E5</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416080000 +0000" stop="20230416110000 +0000" channel="SIC HD">
+    <title lang="pt">A Definir</title>
+    <category lang="pt">Desporto</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416110000 +0000" stop="20230416120000 +0000" channel="SIC HD">
+    <title lang="pt">Vida Selvagem</title>
+    <desc lang="pt">Imagens incríveis conseguem mostrar ao pormenor os detalhes da vida animal, de espécies dos mais variados meios e habitats, estudadas pelos especialistas da BBC. Uma conjugação perfeita de extraordinária beleza e mistério, em documentários tão autênticos quanto maravilhosos.</desc>
+    <category lang="pt">Natureza</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>8.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230416120000 +0000" stop="20230416131500 +0000" channel="SIC HD">
+    <title lang="pt">Primeiro Jornal</title>
+    <desc lang="pt">A informação SIC à hora do almoço.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416131500 +0000" stop="20230416140000 +0000" channel="SIC HD">
+    <title lang="pt">Fama Show</title>
+    <desc lang="pt">O show da vida! O mundo dos famosos visto sob uma perspetiva irreverente, animada e criativa. Vai poder ver as maiores estrelas nacionais e internacionais muito para além do que é comum.</desc>
+    <category lang="pt">Lifestyle</category>
+    <episode-num system="onscreen">S5 E13</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416140000 +0000" stop="20230416190000 +0000" channel="SIC HD">
+    <title lang="pt">Domingão</title>
+    <desc lang="pt">Celebramos mais uma tarde de Domingo com muita alegria e animação. Cante, dance, salte e sorria com o programa que é a sua companhia da tarde preferida.</desc>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S4 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416190000 +0000" stop="20230416203000 +0000" channel="SIC HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">O país e o mundo, todos os dias, às 20h00, na SIC.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416203000 +0000" stop="20230416211500 +0000" channel="SIC HD">
+    <title lang="pt">Isto É Gozar Com Quem Trabalha</title>
+    <desc lang="pt">Em resumo, vem aí um programa dinâmico, com altos e baixos e sem nada interessante para dizer.</desc>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S7 E14</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416211500 +0000" stop="20230416233000 +0000" channel="SIC HD">
+    <title lang="pt">Os Traidores</title>
+    <category lang="pt">Entretenimento</category>
+    <episode-num system="onscreen">S1 E2</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230416233000 +0000" stop="20230417010000 +0000" channel="SIC HD">
+    <title lang="pt">A Definir</title>
+    <category lang="pt">Desporto</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417010000 +0000" stop="20230417030000 +0000" channel="SIC HD">
+    <title lang="pt">Levanta-te e Ri</title>
+    <desc lang="pt">Levanta-te e Ri é um programa de televisão, ao vivo, de stand-up comedy. No programa participam vários comediantes portugueses convidados, e é gravado em diferentes cidades pelo país.</desc>
+    <category lang="pt">Humor</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417030000 +0000" stop="20230417043000 +0000" channel="SIC HD">
+    <title lang="pt">Televendas</title>
+    <desc lang="pt">Todos os dias um espaço dedicado a vendas por televisão onde são feitas demonstrações dos produtos.</desc>
+    <category lang="pt">Televendas</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417043000 +0000" stop="20230417050000 +0000" channel="SIC HD">
+    <title lang="pt">Camilo, o Presidente</title>
+    <sub-title lang="pt">A Visita do Ministro</sub-title>
+    <desc lang="pt">As situações cómicas passar-se-ão na freguesia fictícia Fanecas de Cima, que é presidida por Camilo, e na freguesia Fanecas de Baixo, presidida pela personagem de Carlos Almeida Ribeiro, sendo que a história centra-se na rivalidade e competição entre as duas freguesias.</desc>
+    <date>2009</date>
+    <category lang="pt">Humor</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417050000 +0000" stop="20230417073000 +0000" channel="SIC HD">
+    <title lang="pt">Manhã SIC Notícias</title>
+    <desc lang="pt">Os factos mais importantes e tudo o que se vai passar ao longo do dia. Com a análise aos principais acontecimentos e entrevistas diárias.</desc>
+    <date>2022</date>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417073000 +0000" stop="20230417090000 +0000" channel="SIC HD">
+    <title lang="pt">Alô Portugal</title>
+    <desc lang="pt">"Alô Portugal" já faz parte do dia a dia de muitos portugueses e lusófonos que não dispensam uma conversa descontraída e animada com José Figueiras! "Alô Portugal" é uma sala de estar e de conversar bem ao estilo do seu apresentador e dos seus ilustres convidados.</desc>
+    <date>2015</date>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S15 E76</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417090000 +0000" stop="20230417120000 +0000" channel="SIC HD">
+    <title lang="pt">Casa Feliz</title>
+    <desc lang="pt">Bem-vindos à Casa Feliz! Esta é a casa de todos. Uma casa onde cabem todos que vierem por bem!</desc>
+    <date>2020</date>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S4 E76</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417120000 +0000" stop="20230417140000 +0000" channel="SIC HD">
+    <title lang="pt">Primeiro Jornal</title>
+    <desc lang="pt">A informação SIC à hora do almoço.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417140000 +0000" stop="20230417150000 +0000" channel="SIC HD">
+    <title lang="pt">Linha Aberta</title>
+    <desc lang="pt">Hernâni Carvalho analisa casos célebres da criminalidade e justiça portuguesa. Cada tema abordado é apoiado por testemunhos e material de arquivo. O apresentador coloca uma pergunta e o espectador é convidado a participar e a dar a sua opinião via telefone e através de plataformas digitais.</desc>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S9 E73</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417150000 +0000" stop="20230417170000 +0000" channel="SIC HD">
+    <title lang="pt">Júlia</title>
+    <desc lang="pt">Júlia Pinheiro revela histórias de vida extraordinárias que tocam, inspiram e prometem instalar-se na memória dos portugueses. Chegou a altura de dar voz a testemunhos inéditos, com rosto e nome próprio.</desc>
+    <category lang="pt">Talk-Show</category>
+    <episode-num system="onscreen">S6 E75</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417170000 +0000" stop="20230417174500 +0000" channel="SIC HD">
+    <title lang="pt">Flor do Caribe</title>
+    <desc lang="pt">Hélio continua desconfiado de Duque.</desc>
+    <date>2013</date>
+    <category lang="pt">Novela</category>
+    <episode-num system="onscreen">S1 E36</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>3.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417174500 +0000" stop="20230417181500 +0000" channel="SIC HD">
+    <title lang="pt">Cheias de Charme</title>
+    <desc lang="pt">Liara e Rodinei voltam de São Paulo super felizes.</desc>
+    <date>2012</date>
+    <category lang="pt">Novela</category>
+    <episode-num system="onscreen">S1 E67</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+    <star-rating system="Imdb">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20230417181500 +0000" stop="20230417190000 +0000" channel="SIC HD">
+    <title lang="pt">Vale Tudo</title>
+    <sub-title lang="pt">Especial</sub-title>
+    <desc lang="pt">Com apresentação de João Manzarra, "Vale Tudo" combina momentos hilariantes com jogos surpreendentes. Entre mímica, canto, dança, improvisação e vários quiz.</desc>
+    <category lang="pt">Entretenimento</category>
+    <episode-num system="onscreen">S1 E27</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417190000 +0000" stop="20230417204500 +0000" channel="SIC HD">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">O país e o mundo, todos os dias, às 20h00, na SIC.</desc>
+    <category lang="pt">Noticiário</category>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417204500 +0000" stop="20230417214500 +0000" channel="SIC HD">
+    <title lang="pt">Sangue Oculto</title>
+    <desc lang="pt">Serpente foge e faz de Benedita refém.</desc>
+    <date>2022</date>
+    <category lang="pt">Novela</category>
+    <episode-num system="onscreen">S1 E155</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417214500 +0000" stop="20230417224500 +0000" channel="SIC HD">
+    <title lang="pt">Flor Sem Tempo</title>
+    <desc lang="pt">Luís Maria ameaça Leonor e ordena-lhe que fique calada se não mata um dos seus filhos.</desc>
+    <date>2023</date>
+    <category lang="pt">Novela</category>
+    <episode-num system="onscreen">S1 E58</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417224500 +0000" stop="20230417233000 +0000" channel="SIC HD">
+    <title lang="pt">Um Lugar Ao Sol</title>
+    <desc lang="pt">Inácia resolve mudar de cidade com Mimi e Anderson.</desc>
+    <date>2021</date>
+    <category lang="pt">Novela</category>
+    <episode-num system="onscreen">S1 E191</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
+  <programme start="20230417233000 +0000" stop="20230418003000 +0000" channel="SIC HD">
+    <title lang="pt">Pantanal</title>
+    <desc lang="pt">Um homem chamado Solano, contratado por Tenório, chega ao Pantanal.</desc>
+    <date>2022</date>
+    <category lang="pt">Novela</category>
+    <episode-num system="onscreen">S1 E251</episode-num>
+    <rating system="Imdb">
+      <value>M3</value>
+    </rating>
+  </programme>
   <programme start="20230415063000 +0100" stop="20230415073100 +0100" channel="RTP Internacional">
     <title lang="en">Espau00e7o Zig Zag</title>
     <desc lang="en">Um mundo de su00e9ries de aventura e animau00e7u00e3o para os mais pequenos.</desc>
@@ -774,5 +3459,223 @@
     <title lang="en">Nada Seru00e1 Como Dante</title>
     <desc lang="en">Um programa de Literatura feito com a certeza de que, por melhor que seja, nada seru00e1 como Dante.</desc>
     <category lang="en">News</category>
+  </programme>
+  <programme start="20230415004500 +0100" stop="20230415021500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Shootfighter 2 - A Cruel Vingança</title>
+    <desc lang="pt">Um chefe da polícia com sede de vingança recruta os melhores lutadores do mundo para se infiltrarem num centro de combates ilegais no submundo de Miami, com o objetivo de os desmantelar.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151176/XL" />
+  </programme>
+  <programme start="20230415021500 +0100" stop="20230415034500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Os Amantes Passageiros</title>
+    <desc lang="pt">Quando uma falha técnica coloca em sério perigo um avião de passageiros em pleno voo para a Cidade do México, os pilotos, a equipa e os passageiros tentam esquecer a angústia do momento enquanto esperam pela solução, e enfrentar o maior de todos os perigos, aquele que levamos dentro de nós.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151178/XL" />
+  </programme>
+  <programme start="20230415034500 +0100" stop="20230415052000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Arsenal</title>
+    <desc lang="pt">Os irmãos JP e Mikey tiveram uma infância complicada. Atualmente, o primeiro é dono de uma empresa de construção mas o segundo é um pequeno mafioso, que é raptado pelo criminoso Eddie King. JP vai arriscar tudo para resgatar o irmão, que sempre fez tudo por ele.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151180/XL" />
+  </programme>
+  <programme start="20230415052000 +0100" stop="20230415070500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Dama de Ferro</title>
+    <desc lang="pt">Margaret Thatcher, já octogenária, fala com a presença imaginária do seu recém-falecido marido enquanto recorda vários momentos da sua vida, desde a infância até à sua ação como Primeira-Ministra do Reino Unido.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151182/XL" />
+  </programme>
+  <programme start="20230415070500 +0100" stop="20230415090500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Romeu e Julieta</title>
+    <desc lang="pt">Em Verona, no final da Idade Média, Romeu e Julieta mantêm uma relação amorosa em segredo das respetivas famílias, que se odeiam há muito tempo, só que o amor entre ambos vai desencadear uma série de eventos com consequências fatais para todos os envolvidos.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151184/XL" />
+  </programme>
+  <programme start="20230415090500 +0100" stop="20230415103000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Vic O Viking: A Espada Mágica VP</title>
+    <desc lang="pt">Vic, o nosso pequeno herói, é claramente mais cérebro do que força! Filho de Halvar, o destemido chefe viking, Vic acompanha frequentemente o pai e os seus homens nas aventuras em alto mar. Embora pequeno e com poucos músculos, Vic compensa com inteligência, bravura e espírito de equipa.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18222024/XL" />
+  </programme>
+  <programme start="20230415103000 +0100" stop="20230415122000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Os Medos De Rain</title>
+    <desc lang="pt">Uma rapariga que vive com esquizofrenia luta com alucinações terríveis quando começa a suspeitar que o seu vizinho sequestrou uma criança. A única pessoa que acredita nela é Caleb, um miúdo que ela nem tem a certeza de que existe.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151188/XL" />
+  </programme>
+  <programme start="20230415122000 +0100" stop="20230415142000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Notting Hill</title>
+    <desc lang="pt">William Thacker vive em Notting Hill, é dono de uma livraria sem grande sucesso de Portobello Road e a sua vida muda quando um dia lhe entra pela porta adentro Anna Scott, a maior estrela de cinema do mundo. O romance parece impossível mas a vida dá voltas muito inesperadas….</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151190/XL" />
+  </programme>
+  <programme start="20230415142000 +0100" stop="20230415143500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Popcorner</title>
+    <desc lang="pt">«Popcorner» é o programa do SAPO Mag criado em parceria com a Comic Con Portugal, sobre cinema, séries, banda desenhada e tudo o que está no universo da cultura pop. Apresentado por Inês Gens Mendes e Tiago David.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151146/XL" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20230415143500 +0100" stop="20230415163500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Stronger - Força de Viver</title>
+    <desc lang="pt">A história verídica de Jeff Bauman, uma vítima do bombardeio da maratona de Boston decorrido em 2013, que ajuda a polícia a localizar os assassinos enquanto luta para se recuperar de um trauma devastador e se torna um verdeiro símbolo de sobrevivência.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151192/XL" />
+  </programme>
+  <programme start="20230415163500 +0100" stop="20230415185000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Patriots Day - Unidos Por Boston</title>
+    <desc lang="pt">A 15 de abril de 2013, um ataque terrorista fez várias vítimas durante a Maratona de Boston. Tommy Saunders, um comissário da polícia local, participa na implacável caça ao homem para descobrir os responsáveis.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151194/XL" />
+  </programme>
+  <programme start="20230415185000 +0100" stop="20230415210000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Compromisso de Honra</title>
+    <desc lang="pt">Um advogado defende um oficial que está a ser a ser julgado em tribunal por ter alegadamente ordenado que as suas tropas disparassem em civis que invadiram a embaixada norte-americana de um país do Médio Oriente.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151196/XL" />
+  </programme>
+  <programme start="20230415210000 +0100" stop="20230415223500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Eliminators: Fugir ou Morrer</title>
+    <desc lang="pt">Um antigo agente federal tem de abandonar o programa de proteção de testemunhas quando a sua casa é invadida por engano. Quando volta a ser perseguido por um perigoso assassino, tem de fugir com a filha e garantir a sua segurança antes de ser apanhado!</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151198/XL" />
+  </programme>
+  <programme start="20230415223500 +0100" stop="20230416002000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Postais Mortíferos</title>
+    <desc lang="pt">Jacob Kanon, um detetive nova-iorquino em busca do responsável pela morte da filha e do genro, começa a investigar outras histórias de casais recém-casados alvos de homicídios hediondos, cujos corpos foram transfigurados em clássicas obras de arte e surgiam sempre acompanhados por um postal.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151200/XL" />
+  </programme>
+  <programme start="20230416002000 +0100" stop="20230416021000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Morte Súbita</title>
+    <desc lang="pt">Darren McCord é um bombeiro cuja filha é raptada durante uma partida de hóquei. Os sequestradores pedem que lhes seja entregue mais de mil milhões de dólares antes do final da partida e McCord, desesperado, põe em marcha um plano para resgatar a filha e impedir uma explosão iminente do recinto.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151202/XL" />
+  </programme>
+  <programme start="20230416021000 +0100" stop="20230416035000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Casa Na Floresta</title>
+    <desc lang="pt">Cinco amigos vão para uma cabana remota algures na floresta, onde lhes começam a acontecer as coisas mais desvairadas, sem sonharem com o espantoso segredo que aquele lugar encerra.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151204/XL" />
+  </programme>
+  <programme start="20230416035000 +0100" stop="20230416053000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Descida</title>
+    <desc lang="pt">Uma expedição espeleológica composta exclusivamente por mulheres corre muito mal e a equipa acaba encurralada numa gruta. Para piorar a situação, o grupo começa a ser perseguido por estranhas criaturas, sedentas de sangue.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151206/XL" />
+  </programme>
+  <programme start="20230416053000 +0100" stop="20230416065500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Wild Indian</title>
+    <desc lang="pt">Décadas após ter encoberto o assassínio de um colega, Michael, um nativo-americano, afastou-se da sua reserva e deixa tudo para trás. Quando o homem que partilha aquele segredo terrível regressa, ele vai ter de proteger a sua nova vida dos demónios do seu passado.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151208/XL" />
+  </programme>
+  <programme start="20230416065500 +0100" stop="20230416082500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Aves Migratórias</title>
+    <desc lang="pt">Os movimentos migratórios da centenas de espécies de aves, registados em todos os continentes ao longo de três anos. Milhares e milhares de quilómetros percorridos com um único propósito: o cumprimentos de um destino, a sobrevivência.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151210/XL" />
+  </programme>
+  <programme start="20230416082500 +0100" stop="20230416101000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Dark Tide - Águas Profundas</title>
+    <desc lang="pt">Após um traumático e quase fatal encontro com um tubarão branco, uma instrutora de mergulho é forçada a regressar a águas profundas.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151212/XL" />
+  </programme>
+  <programme start="20230416101000 +0100" stop="20230416120000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Dark Tide - Águas Profundas</title>
+    <desc lang="pt">Após um traumático e quase fatal encontro com um tubarão branco, uma instrutora de mergulho é forçada a regressar a águas profundas.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151212/XL" />
+  </programme>
+  <programme start="20230416120000 +0100" stop="20230416121500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Popcorner</title>
+    <desc lang="pt">«Popcorner» é o programa do SAPO Mag criado em parceria com a Comic Con Portugal, sobre cinema, séries, banda desenhada e tudo o que está no universo da cultura pop. Apresentado por Inês Gens Mendes e Tiago David.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151146/XL" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20230416121500 +0100" stop="20230416135000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Ride - Na Onda</title>
+    <desc lang="pt">Uma mãe viaja até à Califórnia ao encontro do filho depois deste decidir abandonar os estudos e dedicar-se inteiramente à prática do surf, mas inesperadamente acaba por ser também seduzida pelo desporto.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151214/XL" />
+  </programme>
+  <programme start="20230416135000 +0100" stop="20230416155000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Margin Call - O Dia Antes do Fim</title>
+    <desc lang="pt">Num período de 24 horas, os funcionários de um banco de investimento lutam contra o que se aproxima a todo o gás: a crise financeira de 2008. Quando o analista Peter Sullivan revela informação que pode resultar no fim da empresa, desencadeia uma reação em cadeia de resultados imprevisíveis.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151216/XL" />
+  </programme>
+  <programme start="20230416155000 +0100" stop="20230416172500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Miúdos E Graúdos</title>
+    <desc lang="pt">Cinco amigos do tempo do liceu reúnem-se para celebrar o feriado do 4 de julho e conhecerem as famílias uns dos outros. Só que o tempo traz mudanças, e as famílias são ainda mais estranhas do que os amigos e depressa percebem que ser adulto não significa ter crescido….</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18222026/XL" />
+  </programme>
+  <programme start="20230416172500 +0100" stop="20230416192500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Desafio Total</title>
+    <desc lang="pt">Douglas Quaid, operário, visita a Rekall, uma empresa revolucionária que pode transformar as suas fantasias em recordações bem reais. Porém, quando todos os procedimentos falham, o limite entre a fantasia e a realidade fica distorcido. Quaid acaba por ter de fugir, colocando em risco o seu destino.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18222028/XL" />
+  </programme>
+  <programme start="20230416192500 +0100" stop="20230416210000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Mojave - A Vingança</title>
+    <desc lang="pt">Tom, um realizador de sucesso de Hollywood em crise existencial, evade-se para o deserto após uma noite de bebedeira e vê-se forçado a enfrentar Jack, um vagabundo homicida que o vai perseguir de forma implacável quando descobre quem ele é.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151218/XL" />
+  </programme>
+  <programme start="20230416210000 +0100" stop="20230416225500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Beirute - O Resgate</title>
+    <desc lang="pt">Em 1982, o ex-diplomata americano Mason Skiles regressa a Beirute para ajudar a resgatar um antigo amigo agente da CIA, sequestrado por terroristas. A sua missão é negociar a libertação de um líder terrorista que se acredita ter sido preso pela polícia secreta israelita, em troca do americano.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151224/XL" />
+  </programme>
+  <programme start="20230416225500 +0100" stop="20230417004500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Morte Súbita</title>
+    <desc lang="pt">Darren McCord é um bombeiro cuja filha é raptada durante uma partida de hóquei. Os sequestradores pedem que lhes seja entregue mais de mil milhões de dólares antes do final da partida e McCord, desesperado, põe em marcha um plano para resgatar a filha e impedir uma explosão iminente do recinto.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151202/XL" />
+  </programme>
+  <programme start="20230417004500 +0100" stop="20230417023000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Boss Level - O Último Nível</title>
+    <desc lang="pt">Preso num “loop” temporal que repete constantemente o dia que desemboca na sua morte, Roy Pulver, um antigo agente das forças especiais, empreende uma corrida contra o tempo para tentar acumular informação que evite o seu desfecho fatal e salve a mulher que ama.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151226/XL" />
+  </programme>
+  <programme start="20230417023000 +0100" stop="20230417042500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Brothers - Entre Irmãos</title>
+    <desc lang="pt">Sam é um soldado americano que é dado como morto no Afeganistão. Em casa, a mulher e as filhas são confortadas pelo seu irmão Tommy, só que afinal Sam fora torturado e feito prisioneiro, e regressa perturbado e violento, com suspeitas de que nem se tudo passou como esperado na sua ausência.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151228/XL" />
+  </programme>
+  <programme start="20230417042500 +0100" stop="20230417062000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Anatomia do Golpe</title>
+    <desc lang="pt">Roy Dillon é um pequeno vigarista que vê a sua lealdade dividida entre a sua mãe e a sua nova namorada, ambas vigaristas altamente profissionais e sofisticadas, com agendas muito próprias e algo misteriosas.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151230/XL" />
+  </programme>
+  <programme start="20230417062000 +0100" stop="20230417082000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">O Prodígio</title>
+    <desc lang="pt">A história do célebre campeão mundial de xadrez norte-americano Bobby Fischer, que enfrentou em 1972 o campeão russo Boris Spassky num “match” histórico que representou também um confronto entre as duas grandes super-potências mundiais.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151232/XL" />
+  </programme>
+  <programme start="20230417082000 +0100" stop="20230417101500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Minha Família do Norte</title>
+    <desc lang="pt">Valentin D é um sofisticado estilista que sempre escondeu as suas origens modestas de filho de comerciantes do norte de França. A ilusão começa a estilhaçar-se quando a família o vai visitar e quando, após um acidente, ele perde a memória dos últimos 20 anos e volta a ser o homem simples de outrora.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151234/XL" />
+  </programme>
+  <programme start="20230417101500 +0100" stop="20230417120000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Namoro à Espanhola</title>
+    <desc lang="pt">Rafa, um jovem andaluz, conhece e apaixona-se por Amaia, uma mulher do país Basco. Quando esta abandona Sevilha e regressa ao norte, Rafa decide ir atrás dela até à sua pequena aldeia mas para se aproximar da sua amada, terá de conquistar o pai da rapariga e isso significa fazer passar-se por Basco.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151236/XL" />
+  </programme>
+  <programme start="20230417120000 +0100" stop="20230417135500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Love &amp; Mercy - A Força de Um Génio</title>
+    <desc lang="pt">Nos anos 60, Brian Wilson, o líder dos Beach Boys, luta com a emergência de uma psicose enquanto tenta criar uma obra-prima da pop, o álbum “Pet Sounds”. Nos anos 80, ele é um homem confuso e desiludido, sob vigilância de um polémico terapeuta, o Dr. Eugene Landy.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151238/XL" />
+  </programme>
+  <programme start="20230417135500 +0100" stop="20230417141000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Popcorner</title>
+    <desc lang="pt">«Popcorner» é o programa do SAPO Mag criado em parceria com a Comic Con Portugal, sobre cinema, séries, banda desenhada e tudo o que está no universo da cultura pop. Apresentado por Inês Gens Mendes e Tiago David.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151146/XL" />
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20230417141000 +0100" stop="20230417160000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">A Vida Acontece</title>
+    <desc lang="pt">Kim partilha casa com as suas duas melhores amigas em Los Angeles, mas quando engravida e tem um bebé após uma relação fugaz, a vida vai virar-se de pernas para o ar para todas. Principalmente quando ela mente a um rapaz que conheceu, dizendo-lhe que o filho não é seu mas sim de uma delas.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151240/XL" />
+  </programme>
+  <programme start="20230417160000 +0100" stop="20230417175000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Arbitrage - A Fraude</title>
+    <desc lang="pt">Robert Miller é um magnata que efetua operações financeiras de alto risco e está a tentar desesperadamente vender o seu império a um banco antes que a dimensão das suas fraudes seja descoberta. Só que um acidente fatal com uma amante vai colocar tudo em risco.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151242/XL" />
+  </programme>
+  <programme start="20230417175000 +0100" stop="20230417192500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">3022</title>
+    <desc lang="pt">Um grupo de cinco astronautas numa missão de 10 anos numa estação espacial começa a achar que a Terra terá sido destruída quando perde todo o contacto por mais de 62 horas e só encontra meteoritos no local onde o planeta antes se encontrava.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151244/XL" />
+  </programme>
+  <programme start="20230417192500 +0100" stop="20230417210000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Extraction - Ameaça Global</title>
+    <desc lang="pt">Quando um grupo terrorista rapta Leonard Turner, um ex-agente e espião da CIA, o seu filho Harry, um analista governamental a quem nunca foi autorizada a saída para o terreno, decide montar sozinho uma operação de resgate clandestina.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151246/XL" />
+  </programme>
+  <programme start="20230417210000 +0100" stop="20230417224500 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Con Man - Em Busca De Novos Talentos</title>
+    <desc lang="pt">A história verídica de Barry Minkow, um carismático homem de negócios que se tornou um jovem e muito rico CEO. Só que para ascender tão rapidamente, ele teve de roubar, mentir e enganar, e a sua queda arrisca-se a ser ainda mais rápida do que foi a subida.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151248/XL" />
+  </programme>
+  <programme start="20230417224500 +0100" stop="20230418004000 +0100" channel="CINEMUNDO HD">
+    <title lang="pt">Sinister - Entidade Do Mal</title>
+    <desc lang="pt">Ellison Oswalt é um autor de livros policiais sobre casos verídicos que descobre na sua casa nova uma caixa cheia de misteriosos e perturbadores filmes caseiros, e que percebe que o caso que está a investigar pode ser obra de um “serial-killer” cujos crimes remontam à década de 60.</desc>
+    <icon src="http://services.online.meo.pt/Data/2013/11/programs/media/image/18151250/XL" />
   </programme>
 </tv>
