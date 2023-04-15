@@ -1,0 +1,778 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.2.2.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">RTP 1</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">RTP 2</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">SIC</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">TVI</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SIC Notícias">
+    <display-name lang="pt">SIC Notícias</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">RTP 3</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">TVI 24</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">CMTV</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Canal 11  HD">
+    <display-name lang="pt">Canal 11  HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVI Reality">
+    <display-name lang="pt">TVI Reality</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SIC Mulher">
+    <display-name lang="pt">SIC Mulher</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SIC Caras">
+    <display-name lang="pt">SIC Caras</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SIC Radical">
+    <display-name lang="pt">SIC Radical</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Porto Canal">
+    <display-name lang="pt">Porto Canal</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="NOS Studios">
+    <display-name lang="pt">NOS Studios</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Canal NOS HD">
+    <display-name lang="pt">Canal NOS HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="RTP Memória">
+    <display-name lang="pt">RTP Memória</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SPORT TV+">
+    <display-name lang="pt">SPORT TV+</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SPORT TV1">
+    <display-name lang="pt">SPORT TV1</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SPORT TV2">
+    <display-name lang="pt">SPORT TV2</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SPORT TV3">
+    <display-name lang="pt">SPORT TV3</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SPORT TV4">
+    <display-name lang="pt">SPORT TV4</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SPORT TV5">
+    <display-name lang="pt">SPORT TV5</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="BTV1">
+    <display-name lang="pt">BTV1</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Sport TV NBA">
+    <display-name lang="pt">Sport TV NBA</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Sporting TV">
+    <display-name lang="pt">Sporting TV</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Canal Panda">
+    <display-name lang="pt">Canal Panda</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Biggs">
+    <display-name lang="pt">Biggs</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="pt">Disney Junior</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="pt">Nick Jr.</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="pt">Baby TV</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SIC K">
+    <display-name lang="pt">SIC K</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVCine TOP">
+    <display-name lang="pt">TVCine TOP</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVCine EDITION">
+    <display-name lang="pt">TVCine EDITION</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVCine EMOTION">
+    <display-name lang="pt">TVCine EMOTION</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVCine ACTION">
+    <display-name lang="pt">TVCine ACTION</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Canal Hollywood">
+    <display-name lang="pt">Canal Hollywood</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Canal Q">
+    <display-name lang="pt">Canal Q</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="ID Investigation Discovery">
+    <display-name lang="pt">ID Investigation Discovery</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="E! Entertainment">
+    <display-name lang="pt">E! Entertainment</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="FTV">
+    <display-name lang="pt">FTV</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="AXN Movies">
+    <display-name lang="pt">AXN Movies</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">FOX</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="FOX Life">
+    <display-name lang="pt">FOX Life</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="FOX Movies">
+    <display-name lang="pt">FOX Movies</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="FOX Crime">
+    <display-name lang="pt">FOX Crime</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="FOX Comedy">
+    <display-name lang="pt">FOX Comedy</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="pt">SYFY</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="AXN White">
+    <display-name lang="pt">AXN White</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVI_FICCAO">
+    <display-name lang="pt">TVI_FICCAO</display-name>
+    <url>http://www.tvi.pt</url>
+  </channel>
+  <channel id="Casa e Cozinha HD">
+    <display-name lang="pt">Casa e Cozinha HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="24Kitchen HD">
+    <display-name lang="pt">24Kitchen HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Food Network HD">
+    <display-name lang="pt">Food Network HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="MTV Portugal">
+    <display-name lang="pt">MTV Portugal</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="pt">National Geographic</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="National Geographic WILD">
+    <display-name lang="pt">National Geographic WILD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Odisseia">
+    <display-name lang="pt">Odisseia</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Travel Channel">
+    <display-name lang="pt">Travel Channel</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="História">
+    <display-name lang="pt">História</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Crime + Investigation">
+    <display-name lang="pt">Crime + Investigation</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Blaze">
+    <display-name lang="pt">Blaze</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="ZAP Viva HD">
+    <display-name lang="pt">ZAP Viva HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="MyZen TV">
+    <display-name lang="pt">MyZen TV</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="S+ HD">
+    <display-name lang="pt">S+ HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Toros TV HD">
+    <display-name lang="pt">Toros TV HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Caça e Pesca">
+    <display-name lang="pt">Caça e Pesca</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="pt">Eurosport 1</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="pt">Eurosport 2</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Fuel TV">
+    <display-name lang="pt">Fuel TV</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Motorvision HD">
+    <display-name lang="pt">Motorvision HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Fight Network HD">
+    <display-name lang="pt">Fight Network HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="pt">VH1</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="pt">MTV Live HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="MCM Top">
+    <display-name lang="pt">MCM Top</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="MCM Pop">
+    <display-name lang="pt">MCM Pop</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Afro Music Channel">
+    <display-name lang="pt">Afro Music Channel</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Trace Toca">
+    <display-name lang="pt">Trace Toca</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Stingray iConcerts HD">
+    <display-name lang="pt">Stingray iConcerts HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Mezzo">
+    <display-name lang="pt">Mezzo</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Trace Urban HD">
+    <display-name lang="pt">Trace Urban HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Globo Now HD">
+    <display-name lang="pt">Globo Now HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Record News">
+    <display-name lang="pt">Record News</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PFC</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Record TV">
+    <display-name lang="pt">Record TV</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Canal 180">
+    <display-name lang="pt">Canal 180</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Kuriakos TV">
+    <display-name lang="pt">Kuriakos TV</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Canção Nova">
+    <display-name lang="pt">Canção Nova</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="RTP Madeira">
+    <display-name lang="pt">RTP Madeira</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="RTP Açores">
+    <display-name lang="pt">RTP Açores</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="RTP África">
+    <display-name lang="pt">RTP África</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TPA Internacional">
+    <display-name lang="pt">TPA Internacional</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TCV Internacional">
+    <display-name lang="pt">TCV Internacional</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Localvisão TV HD">
+    <display-name lang="pt">Localvisão TV HD</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="BBC Entertainment">
+    <display-name lang="pt">BBC Entertainment</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Rai News 24">
+    <display-name lang="pt">Rai News 24</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="pt">Euronews</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="pt">CNN</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Sky News">
+    <display-name lang="pt">Sky News</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="pt">BBC World News</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="pt">CNBC</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="pt">Bloomberg</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVE 24h">
+    <display-name lang="pt">TVE 24h</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="ARTV">
+    <display-name lang="pt">ARTV</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TV Galicia">
+    <display-name lang="pt">TV Galicia</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVEi">
+    <display-name lang="pt">TVEi</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Cubavisión Internacional">
+    <display-name lang="pt">Cubavisión Internacional</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="Zee TV">
+    <display-name lang="pt">Zee TV</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="DOGTV">
+    <display-name lang="pt">DOGTV</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVI Reality - Câmara 1">
+    <display-name lang="pt">TVI Reality - Câmara 1</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVI Reality - Câmara 2">
+    <display-name lang="pt">TVI Reality - Câmara 2</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVI Reality - Câmara 3">
+    <display-name lang="pt">TVI Reality - Câmara 3</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVI Reality - Câmara 4">
+    <display-name lang="pt">TVI Reality - Câmara 4</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="TVI Reality - Mosaico">
+    <display-name lang="pt">TVI Reality - Mosaico</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="RTP Internacional">
+    <display-name lang="en">RTP Internacional</display-name>
+    <url>http://www.rpt.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 1">
+    <display-name lang="pt">ELEVEN SPORTS 1</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 2">
+    <display-name lang="pt">ELEVEN SPORTS 2</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 3">
+    <display-name lang="pt">ELEVEN SPORTS 3</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 4">
+    <display-name lang="pt">ELEVEN SPORTS 4</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 5">
+    <display-name lang="pt">ELEVEN SPORTS 5</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 6">
+    <display-name lang="pt">ELEVEN SPORTS 6</display-name>
+    <url>http://www.nos.pt.E</url>
+  </channel>
+  <channel id="CINEMUNDO HD">
+    <display-name lang="pt">CINEMUNDO HD</display-name>
+    <url>http://www.meo.pt</url>
+  </channel>
+  <programme start="20230415063000 +0100" stop="20230415073100 +0100" channel="RTP Internacional">
+    <title lang="en">Espau00e7o Zig Zag</title>
+    <desc lang="en">Um mundo de su00e9ries de aventura e animau00e7u00e3o para os mais pequenos.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230415073100 +0100" stop="20230415080000 +0100" channel="RTP Internacional">
+    <title lang="en">Biosfera</title>
+    <desc lang="en">Pressu00f5es no Sado.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230415080000 +0100" stop="20230415111000 +0100" channel="RTP Internacional">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque u00e9 de manhu00e3 que comeu00e7a o dia, entu00e3o inicie-o na nossa companhia!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230415111000 +0100" stop="20230415114600 +0100" channel="RTP Internacional">
+    <title lang="en">Visita Guiada</title>
+    <desc lang="en">Nu00facleo Arqueolu00f3gico da Rua dos Correeiros (NARC), Lisboa.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230415114600 +0100" stop="20230415195900 +0100" channel="RTP Internacional">
+    <title lang="en">Hora dos Portugueses</title>
+    <desc lang="en">A portugalidade sob diferentes olhares.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230415195900 +0100" stop="20230415210100 +0100" channel="RTP Internacional">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleu00e7u00e3o de notu00edcias, todos os dias u00e0s 20h00.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230415210100 +0100" stop="20230415214700 +0100" channel="RTP Internacional">
+    <title lang="en">Missu00e3o: 100% Portuguu00eas</title>
+    <desc lang="en">Minho.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230415214700 +0100" stop="20230415232400 +0100" channel="RTP Internacional">
+    <title lang="en">Taskmaster</title>
+    <desc lang="en">Inu00eas Aires Pereira, Jessica Athayde, Gilmu00e1rio Vemba, Toy e um convidado especial su00e3o desafiados por Vasco Palmeirim e Nuno Markl para superar uma su00e9rie de provas divertidas com uma pequena dose de loucura.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230415232400 +0100" stop="20230416005900 +0100" channel="RTP Internacional">
+    <title lang="en">Terra 4.0</title>
+    <desc lang="en">O Terra 4.0 u00e9 um programa sobre o mundo rural, empreendedorismo e inovau00e7u00e3o que du00e1 a conhecer jovens agricultores e jovens empresu00e1rios rurais a atuar em territu00f3rio nacional.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416005900 +0100" stop="20230416015900 +0100" channel="RTP Internacional">
+    <title lang="en">Grande u00c1rea</title>
+    <desc lang="en">Programa de anu00e1lise da jornada futebolu00edstica nas suas diferentes vertentes.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416015900 +0100" stop="20230416032000 +0100" channel="RTP Internacional">
+    <title lang="en">Grandiosa Enciclopu00e9dia do Ludopu00e9dio</title>
+    <desc lang="en">Na sua 8u00aa temporada, mais do que um programa de futebol, este u00e9 um programa que pretende compreender o futebol atravu00e9s da sua histu00f3ria.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416032000 +0100" stop="20230416044100 +0100" channel="RTP Internacional">
+    <title lang="en">Mundo Sem Muros</title>
+    <desc lang="en">Principais assuntos da atualidade semanal, em anu00e1lise.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416044100 +0100" stop="20230416045600 +0100" channel="RTP Internacional">
+    <title lang="en">A Essu00eancia</title>
+    <desc lang="en">O vinho portuguu00eas e o seu mercado.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416045600 +0100" stop="20230416051100 +0100" channel="RTP Internacional">
+    <title lang="en">Fotobox</title>
+    <desc lang="en">Um magazine sobre fotografia.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416051100 +0100" stop="20230416054000 +0100" channel="RTP Internacional">
+    <title lang="en">Biosfera</title>
+    <desc lang="en">Pressu00f5es no Sado.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416054000 +0100" stop="20230416060600 +0100" channel="RTP Internacional">
+    <title lang="en">Nada Seru00e1 Como Dante</title>
+    <desc lang="en">Um programa de Literatura feito com a certeza de que, por melhor que seja, nada seru00e1 como Dante.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416060600 +0100" stop="20230416063000 +0100" channel="RTP Internacional">
+    <title lang="en">Todas as Palavras</title>
+    <desc lang="en">Os livros e os seus autores.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416063000 +0100" stop="20230416073000 +0100" channel="RTP Internacional">
+    <title lang="en">Espau00e7o Zig Zag</title>
+    <desc lang="en">Um mundo de su00e9ries de aventura e animau00e7u00e3o para os mais pequenos.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416073000 +0100" stop="20230416080000 +0100" channel="RTP Internacional">
+    <title lang="en">Eurodeputados</title>
+    <desc lang="en">Os grandes temas que preocupam os cidadu00e3os europeus em debate, semanalmente.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416080000 +0100" stop="20230416103000 +0100" channel="RTP Internacional">
+    <title lang="en">Bom Dia Portugal Fim de Semana</title>
+    <desc lang="en">E porque u00e9 de manhu00e3 que comeu00e7a o dia, entu00e3o inicie-o na nossa companhia!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416103000 +0100" stop="20230416112700 +0100" channel="RTP Internacional">
+    <title lang="en">Eucaristia Dominical</title>
+    <desc lang="en">Lisboa: II Domingo de Pu00e1scoa - Festa da Divina Misericu00f3rdia.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416112700 +0100" stop="20230416122600 +0100" channel="RTP Internacional">
+    <title lang="en">Lisboa: Cidade Triste e Alegre</title>
+    <desc lang="en">Um convite u00e0 interpretau00e7u00e3o transversal da cidade de Lisboa, inspirado nas fotografias de Victor Palla e Manuel Costa Martins.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416122600 +0100" stop="20230416125900 +0100" channel="RTP Internacional">
+    <title lang="en">Portugueses pelo Mundo - Comunidades</title>
+    <desc lang="en">Paris.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416125900 +0100" stop="20230416141700 +0100" channel="RTP Internacional">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde comeu00e7a, nu00f3s ju00e1 temos para si as notu00edcias do dia.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416141700 +0100" stop="20230416150400 +0100" channel="RTP Internacional">
+    <title lang="en">Faz Fau00edsca</title>
+    <desc lang="en">O magazine que mergulha no universo da  RTP, acompanhando as novidades na ficu00e7u00e3o, no entretenimento e no daytime, nu00e3o esquecendo a ru00e1dio e os eventos especiais.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416150400 +0100" stop="20230416195900 +0100" channel="RTP Internacional">
+    <title lang="en">Aqui Portugal</title>
+    <desc lang="en">Aveiro.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416195900 +0100" stop="20230416211700 +0100" channel="RTP Internacional">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleu00e7u00e3o de notu00edcias, todos os dias u00e0s 20h00.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416211700 +0100" stop="20230416234400 +0100" channel="RTP Internacional">
+    <title lang="en">The Voice Kids</title>
+    <desc lang="en">O programa onde su00f3 a voz importa!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230416234400 +0100" stop="20230417000000 +0100" channel="RTP Internacional">
+    <title lang="en">Fotobox</title>
+    <desc lang="en">Um magazine sobre fotografia.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417000000 +0100" stop="20230417005900 +0100" channel="RTP Internacional">
+    <title lang="en">24 Horas</title>
+    <desc lang="en">Jornal diu00e1rio da RTP3, transmitido a partir dos Estu00fadios do Porto da RTP.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417005900 +0100" stop="20230417023000 +0100" channel="RTP Internacional">
+    <title lang="en">Trio du00b4Ataque</title>
+    <desc lang="en">Domingos u00e0 noite, Trio D`Ataque...em direto.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417023000 +0100" stop="20230417024400 +0100" channel="RTP Internacional">
+    <title lang="en">A Essu00eancia</title>
+    <desc lang="en">O vinho portuguu00eas e o seu mercado.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417024400 +0100" stop="20230417033500 +0100" channel="RTP Internacional">
+    <title lang="en">Parlamento</title>
+    <desc lang="en">Os grandes temas que interessam aos portugueses su00e3o discutidos no Parlamento.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417033500 +0100" stop="20230417040300 +0100" channel="RTP Internacional">
+    <title lang="en">Eurodeputados</title>
+    <desc lang="en">Os grandes temas que preocupam os cidadu00e3os europeus em debate, semanalmente.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417040300 +0100" stop="20230417044200 +0100" channel="RTP Internacional">
+    <title lang="en">Hora dos Portugueses</title>
+    <desc lang="en">A portugalidade sob diferentes olhares.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417044200 +0100" stop="20230417045600 +0100" channel="RTP Internacional">
+    <title lang="en">Hora de Agir</title>
+    <desc lang="en">Pontevedra Cidade do Futuro.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417045600 +0100" stop="20230417054600 +0100" channel="RTP Internacional">
+    <title lang="en">Janela Indiscreta</title>
+    <desc lang="en">O seu programa de cinema com Mu00e1rio Augusto!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417054600 +0100" stop="20230417060900 +0100" channel="RTP Internacional">
+    <title lang="en">Europa Minha</title>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417060900 +0100" stop="20230417063000 +0100" channel="RTP Internacional">
+    <title lang="en">Manchetes 3</title>
+    <desc lang="en">As manchetes dos Jornais de referu00eancia na RTP.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417063000 +0100" stop="20230417100000 +0100" channel="RTP Internacional">
+    <title lang="en">Bom Dia Portugal</title>
+    <desc lang="en">E porque u00e9 de manhu00e3 que comeu00e7a o dia, entu00e3o inicie-o na nossa companhia!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417100000 +0100" stop="20230417125900 +0100" channel="RTP Internacional">
+    <title lang="en">Prau00e7a da Alegria</title>
+    <desc lang="en">Otimismo, entusiasmo e muita energia nas manhu00e3s de Portugal!</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417125900 +0100" stop="20230417141700 +0100" channel="RTP Internacional">
+    <title lang="en">Jornal da Tarde</title>
+    <desc lang="en">Assim que a tarde comeu00e7a, nu00f3s ju00e1 temos para si as notu00edcias do dia.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417141700 +0100" stop="20230417150300 +0100" channel="RTP Internacional">
+    <title lang="en">Os Nossos Dias</title>
+    <desc lang="en">u00c9 mais do que uma histu00f3ria de vinganu00e7a. Uma luta constante pela verdade e justiu00e7a. Um jogo onde ninguu00e9m pode confiar em ninguu00e9m.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417150300 +0100" stop="20230417173000 +0100" channel="RTP Internacional">
+    <title lang="en">A Nossa Tarde</title>
+    <desc lang="en">A Nossa Tarde u00e9 o seu lugar.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417173000 +0100" stop="20230417190600 +0100" channel="RTP Internacional">
+    <title lang="en">Portugal em Direto</title>
+    <desc lang="en">Dina Aguiar du00e1-lhe a conhecer tudo o que de mais importante se passa no pau00eds.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417190600 +0100" stop="20230417195900 +0100" channel="RTP Internacional">
+    <title lang="en">O Preu00e7o Certo</title>
+    <desc lang="en">No.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417195900 +0100" stop="20230417210100 +0100" channel="RTP Internacional">
+    <title lang="en">Telejornal</title>
+    <desc lang="en">A mais rigorosa seleu00e7u00e3o de notu00edcias, todos os dias u00e0s 20h00.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417210100 +0100" stop="20230417212700 +0100" channel="RTP Internacional">
+    <title lang="en">Outras Histu00f3rias</title>
+    <desc lang="en">Histu00f3rias de vidas surpreendentes que nos tocam e nos inspiram.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417212700 +0100" stop="20230417222600 +0100" channel="RTP Internacional">
+    <title lang="en">Porquinho Mealheiro</title>
+    <desc lang="en">Apresentado por Vasco Palmeirim, um concurso divertido onde a famu00edlia joga em equipa.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417222600 +0100" stop="20230417225600 +0100" channel="RTP Internacional">
+    <title lang="en">PJ 7</title>
+    <desc lang="en">Homicu00eddio Rio Trancu00e3o.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417225600 +0100" stop="20230417233200 +0100" channel="RTP Internacional">
+    <title lang="en">PJ 7</title>
+    <desc lang="en">Remu00e9dio Santo.</desc>
+    <category lang="en">News</category>
+  </programme>
+  <programme start="20230417233200 +0100" stop="20230418000000 +0100" channel="RTP Internacional">
+    <title lang="en">Nada Seru00e1 Como Dante</title>
+    <desc lang="en">Um programa de Literatura feito com a certeza de que, por melhor que seja, nada seru00e1 como Dante.</desc>
+    <category lang="en">News</category>
+  </programme>
+</tv>
